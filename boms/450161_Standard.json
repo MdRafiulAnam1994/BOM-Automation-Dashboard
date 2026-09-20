@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "450161",
+    "ItemName":  "Pipe Front Cover 5.6K-F 0.6t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  38.56,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222359",
+                           "RmName":  "Aluzinc Sheet (0.6x1250)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.2938595,
+                           "Price":  131.223,
+                           "Value":  38.5611251685
+                       }
+                   ]
+}

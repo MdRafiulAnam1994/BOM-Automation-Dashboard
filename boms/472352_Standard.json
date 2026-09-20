@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "472352",
+    "ItemName":  "Electrical Box Enclosure Front Cover W80-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  143.77,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.25208,
+                           "Price":  114.828,
+                           "Value":  143.77384224
+                       }
+                   ]
+}

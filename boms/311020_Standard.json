@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311020",
+    "ItemName":  "Top Panel Evaporator Side 19.25k FCU-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  349.06,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  3.039849662,
+                           "Price":  114.828,
+                           "Value":  349.059856988136
+                       }
+                   ]
+}

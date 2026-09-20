@@ -1,0 +1,143 @@
+﻿{
+    "ItemCode":  "536605",
+    "ItemName":  "Service Pipe LT (Tube OD-12/6mm, L-9ft)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1341.81,
+    "TotalRMCount":  12,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194584",
+                           "RmName":  "AC Service pipe blank label_PET (80.5x103.5 Di-Cut 11.5x11.5)mm",
+                           "UOM":  "PCS",
+                           "Qty":  0.033333,
+                           "Price":  1.606,
+                           "Value":  0.053532798
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194989",
+                           "RmName":  "Barcode Ribbon (AC Service Pipe), (105x300)mm",
+                           "UOM":  "ROL",
+                           "Qty":  0.00011667,
+                           "Price":  1052.401,
+                           "Value":  0.12278362467
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113163",
+                           "RmName":  "Service pipe Insulation-12.7 mm-1/2 inch",
+                           "UOM":  "MTR",
+                           "Qty":  2.832025,
+                           "Price":  21.079,
+                           "Value":  59.696254975
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113260",
+                           "RmName":  "Flare Nut 12-(3/4-16)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  39.454,
+                           "Value":  78.908
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000154828,
+                           "Price":  268.159,
+                           "Value":  0.041518521652
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113182",
+                           "RmName":  "Wire Band-Length 150 Yard",
+                           "UOM":  "COL",
+                           "Qty":  0.01575,
+                           "Price":  106.313,
+                           "Value":  1.67442975
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113099",
+                           "RmName":  "Service pipe Insulation 6.35mm-1/4 inch",
+                           "UOM":  "MTR",
+                           "Qty":  2.832025,
+                           "Price":  20.516,
+                           "Value":  58.1018249
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113946",
+                           "RmName":  "Copper Tube (OD 6.0 x T 0.50) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.216756375,
+                           "Price":  1374.963,
+                           "Value":  298.031995639125
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "455654",
+                           "RmName":  "Flare Nut 6-(7/16-20) (M)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  26.428,
+                           "Value":  52.856
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "441033",
+                           "RmName":  "Copper Tube (OD-12.0 x T-0.6) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.53913222,
+                           "Price":  1467.065,
+                           "Value":  790.9420103343
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "460634",
+                           "RmName":  "Dead Cap Male 12mm (1/2\u0027)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.219,
+                           "Value":  0.438
+                       },
+                       {
+                           "SL":  12,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "460632",
+                           "RmName":  "Dead Cap Male 6mm (1/4\u0027)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.473,
+                           "Value":  0.946
+                       }
+                   ]
+}

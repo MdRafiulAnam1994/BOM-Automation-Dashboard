@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "484051",
+    "ItemName":  "HexaComb Indoor Front Lock Part 1 - White",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1.76,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.004318741,
+                           "Price":  180.143,
+                           "Value":  0.777990959963
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249643",
+                           "RmName":  "ABS UV Stabilizer Master Batch",
+                           "UOM":  "KG",
+                           "Qty":  0.0014,
+                           "Price":  418.689,
+                           "Value":  0.5861646
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "193089",
+                           "RmName":  "ABS Protect (O) White Masterbatch CMR-08191281",
+                           "UOM":  "KG",
+                           "Qty":  0.00044504,
+                           "Price":  883.247,
+                           "Value":  0.39308024488
+                       }
+                   ]
+}

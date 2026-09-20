@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "487744",
+    "ItemName":  "Components for WIFI Smart Module",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  26.42,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "385704",
+                           "RmName":  "Pan Phillips M3-24x7.8 Self-Tapping Screw (AB)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  0.054,
+                           "Value":  0.054
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "168748",
+                           "RmName":  "Smart Control Sticker",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  5.573,
+                           "Value":  5.573
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.01343569,
+                           "Price":  139.813,
+                           "Value":  1.87848412597
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000164901,
+                           "Price":  268.159,
+                           "Value":  0.044219687259
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "112908",
+                           "RmName":  "Accessories Poly  7X10",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1.645,
+                           "Value":  1.645
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "244274",
+                           "RmName":  "Walton Smart Control App manual (English)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  17.229,
+                           "Value":  17.229
+                       }
+                   ]
+}

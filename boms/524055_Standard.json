@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "524055",
+    "ItemName":  "HYUNDAI HYA-24CIW G3 H ODU Carton",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  117.57,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "123344",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  0.51541,
+                           "Price":  91.553,
+                           "Value":  47.18733173
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "152725",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  1.17139,
+                           "Price":  52.458,
+                           "Value":  61.44877662
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.06296,
+                           "Price":  66.899,
+                           "Value":  4.21196104
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.00382,
+                           "Price":  85.451,
+                           "Value":  0.32642282
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.0014,
+                           "Price":  78.005,
+                           "Value":  0.109207
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.00134,
+                           "Price":  137.087,
+                           "Value":  0.18369658
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113481",
+                           "RmName":  "Screen Print Ink-Black",
+                           "UOM":  "KG",
+                           "Qty":  0.00787,
+                           "Price":  308.27,
+                           "Value":  2.4260849
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.00649,
+                           "Price":  258.011,
+                           "Value":  1.67449139
+                       }
+                   ]
+}

@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "231474",
+    "ItemName":  "18K Inverter Indoor Service Cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  815.02,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195282",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 4X1.5 rm(30/0.25 mm)- gray",
+                           "UOM":  "MTR",
+                           "Qty":  5.02,
+                           "Price":  157.469,
+                           "Value":  790.49438
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255175",
+                           "RmName":  "Barcode Blank Label (Common for A)-PET-42mm*10mm",
+                           "UOM":  "PCS",
+                           "Qty":  8,
+                           "Price":  0.085,
+                           "Value":  0.68
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.344,
+                           "Value":  4.71144
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "158247",
+                           "RmName":  "Barcode Ribbon-AC(45mmx300M)",
+                           "UOM":  "ROL",
+                           "Qty":  0.000405,
+                           "Price":  453.619,
+                           "Value":  0.183715695
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  6.03,
+                           "Price":  2.949,
+                           "Value":  17.78247
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.19,
+                           "Price":  6.169,
+                           "Value":  1.17211
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "314285",
+    "ItemName":  "Condenser Right Upper Clamp 20HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  145.55,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.111642361,
+                           "Price":  130.932,
+                           "Value":  145.549557610452
+                       }
+                   ]
+}

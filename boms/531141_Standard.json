@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "531141",
+    "ItemName":  "VRF IDU NTC Coil Temperature Sensor (TEI, TE, TEO) (Model: KTM41S71) (SFG)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  147.29,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "267466",
+                           "RmName":  "VRF IDU NTC Coil Temperature Sensor (TEI, TE, TEO) (Model: KTM41S71), L-1200mm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  138.318,
+                           "Value":  138.318
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "484067",
+                           "RmName":  "100mm Cable Tie",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  0.117,
+                           "Value":  0.117
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "226664",
+                           "RmName":  "XH Connector (Terminal)",
+                           "UOM":  "PCS",
+                           "Qty":  6.24,
+                           "Price":  0.451,
+                           "Value":  2.81424
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "303678",
+                           "RmName":  "XH Connector (Female, 3 Pins, Natural)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  1.112,
+                           "Value":  3.336
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "303679",
+                           "RmName":  "Retainer for XH Connector (Female, 3 Pins, Red)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  0.9,
+                           "Value":  2.7
+                       }
+                   ]
+}

@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "282160",
+    "ItemName":  "Base-A (1.2t, 1.0t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  349.86,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178320",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x750)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.0581,
+                           "Price":  141.83,
+                           "Value":  291.900323
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.3986,
+                           "Price":  114.83,
+                           "Value":  45.771238
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "244122",
+                           "RmName":  "Round head bolt with shank M8-1.25x57 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  3.721,
+                           "Value":  11.163
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222357",
+                           "RmName":  "Aluzinc Sheet (1.00x1160)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.009184,
+                           "Price":  111.933,
+                           "Value":  1.027992672
+                       }
+                   ]
+}

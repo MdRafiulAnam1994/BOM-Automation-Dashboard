@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "304410",
+    "ItemName":  "36K OEM Neutral Cable (MC)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  13.06,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.303,
+                           "Price":  23.106,
+                           "Value":  7.001118
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.042,
+                           "Price":  6.153,
+                           "Value":  0.258426
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  2.788,
+                           "Value":  5.79904
+                       }
+                   ]
+}

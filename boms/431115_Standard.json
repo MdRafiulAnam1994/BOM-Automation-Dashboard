@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "431115",
+    "ItemName":  "YJ Support Stand 24HP-C-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  172.99,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.36,
+                           "Price":  127.198,
+                           "Value":  172.98928
+                       }
+                   ]
+}

@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "434243",
+    "ItemName":  "IDU Signal Cable for OEM",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  23.18,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423605",
+                           "RmName":  "Right Angle Blade Connector 0101404661 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  2.792,
+                           "Value":  2.90368
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423604",
+                           "RmName":  "Sleeve for Right Angle Connector-TH250 KM-2 UL-G JAM",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  4.228,
+                           "Value":  4.39712
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  3.192,
+                           "Value":  3.31968
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  2.322,
+                           "Value":  2.41488
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195272",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Green",
+                           "UOM":  "MTR",
+                           "Qty":  0.7575,
+                           "Price":  13.388,
+                           "Value":  10.14141
+                       }
+                   ]
+}

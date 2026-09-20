@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "499919",
+    "ItemName":  "A IDU Evaporator Support",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  16.86,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "147981",
+                           "RmName":  "PP Compound WC-PGF30(Walton Made)",
+                           "UOM":  "KG",
+                           "Qty":  0.08549,
+                           "Price":  193.435,
+                           "Value":  16.53675815
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.00119,
+                           "Price":  268.159,
+                           "Value":  0.31910921
+                       }
+                   ]
+}

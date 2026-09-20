@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "383297",
+    "ItemName":  "Evercel Tape (W-18mm x L-200m)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "379734",
+                           "RmName":  "Self Adhesive Tape Hongmai BOPP 1260*3000",
+                           "UOM":  "ROL",
+                           "Qty":  0.000975943,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "379735",
+                           "RmName":  "Self Adhesive Tape Hongmai BOPP 1260mm*4000M",
+                           "UOM":  "ROL",
+                           "Qty":  0.000731884,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "430442",
+    "ItemName":  "Base 4TR/5TR NI (1.5t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  784.65,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  6.21075,
+                           "Price":  124.203,
+                           "Value":  771.39378225
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "430406",
+                           "RmName":  "Round head bolt with shank M8-1.25*47 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  3.315,
+                           "Value":  13.26
+                       }
+                   ]
+}

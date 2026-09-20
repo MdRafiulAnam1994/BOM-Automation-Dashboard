@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "456094",
+    "ItemName":  "Suction Tube SFG of WSN-24H-0605",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  815.09,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113953",
+                           "RmName":  "Copper Tube (OD 15.80 x T 0.8) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.491105266,
+                           "Price":  1659.71,
+                           "Value":  815.09232103286
+                       }
+                   ]
+}

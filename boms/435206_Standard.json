@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "435206",
+    "ItemName":  "3TR/4TR/5TR Ceiling Blower Shaft Support (DR) - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  61.47,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.4832835,
+                           "Price":  127.198,
+                           "Value":  61.472694633
+                       }
+                   ]
+}

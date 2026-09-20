@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "495071",
+    "ItemName":  "Online Programmer (Burner) For IDU \u0026 ODU",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  75.03,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.01343569,
+                           "Price":  139.813,
+                           "Value":  1.87848412597
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "226650",
+                           "RmName":  "XH Connector (Female, 4 Pins, Natural) HXT P/N: 25023-04Y-0G0",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.98,
+                           "Value":  1.96
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "226664",
+                           "RmName":  "XH Connector (Terminal)",
+                           "UOM":  "PCS",
+                           "Qty":  8,
+                           "Price":  0.367,
+                           "Value":  2.936
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "480490",
+                           "RmName":  "Nokia BL-5C Extended Li-Ion Battery 3.7V",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  68.255,
+                           "Value":  68.255
+                       }
+                   ]
+}

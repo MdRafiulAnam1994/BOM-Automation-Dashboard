@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "222763",
+    "ItemName":  "Outdoor Control Board Megmeet(F1) 18K Inverter for 3 Star AC Motor-M18F2ICOAZLS01",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1583.5,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "195664",
+                           "RmName":  "18K INV ODU F1 PCB 55W AC Motor M18F2ICOAZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1583.498,
+                           "Value":  1583.498
+                       }
+                   ]
+}

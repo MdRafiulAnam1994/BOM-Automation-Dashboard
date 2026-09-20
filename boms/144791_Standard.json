@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "144791",
+    "ItemName":  "Carton-10.5*9.5*5\"(Spare parts)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  25.95,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "123344",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  0.1279,
+                           "Price":  91.553,
+                           "Value":  11.7096287
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "123349",
+                           "RmName":  "Medium Paper-140 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  0.2494,
+                           "Price":  53.004,
+                           "Value":  13.2191976
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.008453,
+                           "Price":  66.899,
+                           "Value":  0.565497247
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.00126224,
+                           "Price":  258.011,
+                           "Value":  0.32567180464
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.000704,
+                           "Price":  85.451,
+                           "Value":  0.060157504
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.0001761,
+                           "Price":  137.087,
+                           "Value":  0.0241410207
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.000599,
+                           "Price":  78.005,
+                           "Value":  0.046724995
+                       }
+                   ]
+}

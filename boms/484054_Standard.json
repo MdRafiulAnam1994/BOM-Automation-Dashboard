@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484054",
+    "ItemName":  "HexaComb Indoor Louver Motor Cover",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.71,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.00509355,
+                           "Price":  139.787,
+                           "Value":  0.71201207385
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "286568",
+    "ItemName":  "Hanger -HC-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  31.59,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.24837,
+                           "Price":  127.198,
+                           "Value":  31.59216726
+                       }
+                   ]
+}

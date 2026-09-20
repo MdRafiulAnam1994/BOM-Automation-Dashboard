@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "480446",
+    "ItemName":  "30K R1 Inverter Separation Panel-H (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  162.32,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.1608,
+                           "Price":  133.084,
+                           "Value":  154.4839072
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.07,
+                           "Price":  111.916,
+                           "Value":  7.83412
+                       }
+                   ]
+}

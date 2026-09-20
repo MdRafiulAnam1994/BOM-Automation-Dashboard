@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "526690",
+    "ItemName":  "Float Switch-1, YKG10C43-YK(E), Connector: VH (SFG)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  229.49,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "447106",
+                           "RmName":  "Float Switch-1, D/N: YKG10C43-YK(E), L-550mm, Connector: XAP",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  225.337,
+                           "Value":  225.337
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112898",
+                           "RmName":  "VH Connector Contact SVH-41T-P1.1/VH Connector (Female Terminal) HXT P/N: 39600-21PT-2T2",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  1.348,
+                           "Value":  2.80384
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112935",
+                           "RmName":  "VH Connector (Housing, Female, Natural, 2 Poles) HXT P/N: 39616-02Y-0G0",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  1.302,
+                           "Value":  1.35408
+                       }
+                   ]
+}

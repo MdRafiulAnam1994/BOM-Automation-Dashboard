@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "499213",
+    "ItemName":  "Stepper Motor Cover",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1.21,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.00834,
+                           "Price":  139.813,
+                           "Value":  1.16604042
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000177,
+                           "Price":  268.159,
+                           "Value":  0.047464143
+                       }
+                   ]
+}

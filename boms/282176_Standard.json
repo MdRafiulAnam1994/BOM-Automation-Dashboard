@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "282176",
+    "ItemName":  "Fan Stand-A (1.2t, 1.0t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  184.82,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.094612,
+                           "Price":  114.83,
+                           "Value":  10.86429596
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178314",
+                           "RmName":  "Aluzinc Steel Sheet (1.2x780)mm Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.9138,
+                           "Price":  147.559,
+                           "Value":  134.8394142
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222357",
+                           "RmName":  "Aluzinc Sheet (1.00x1160)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.349501,
+                           "Price":  111.933,
+                           "Value":  39.120695433
+                       }
+                   ]
+}

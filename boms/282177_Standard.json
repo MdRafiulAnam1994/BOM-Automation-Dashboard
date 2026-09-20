@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "282177",
+    "ItemName":  "Fan Stand-B/C (1.2t, 1.0t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  74.73,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "148906",
+                           "RmName":  "Walton MS Wire 6.2mm Hard",
+                           "UOM":  "KG",
+                           "Qty":  0.29038,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178314",
+                           "RmName":  "Aluzinc Steel Sheet (1.2x780)mm Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.2258,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222357",
+                           "RmName":  "Aluzinc Sheet (1.00x1160)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.557842428,
+                           "Price":  133.965,
+                           "Value":  74.73136086702
+                       }
+                   ]
+}

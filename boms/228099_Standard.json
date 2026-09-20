@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "228099",
+    "ItemName":  "18K Indoor Blower Assembly",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  361.46,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113534",
+                           "RmName":  "ABS Resin GP-2305A",
+                           "UOM":  "KG",
+                           "Qty":  0.82437188,
+                           "Price":  357.57,
+                           "Value":  294.7706531316
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112903",
+                           "RmName":  "Balance Punch",
+                           "UOM":  "PCS",
+                           "Qty":  7,
+                           "Price":  2.401,
+                           "Value":  16.807
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.00976217,
+                           "Price":  267.754,
+                           "Value":  2.61386006618
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113138",
+                           "RmName":  "Blower Accessories",
+                           "UOM":  "PAR",
+                           "Qty":  1,
+                           "Price":  47.264,
+                           "Value":  47.264
+                       }
+                   ]
+}

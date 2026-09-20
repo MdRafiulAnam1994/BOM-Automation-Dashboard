@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "171505",
+    "ItemName":  "Walton PP sheet for Packaging",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  42.29,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113417",
+                           "RmName":  "PP Resin-EP440G/Yungsox 3010/HB240T/J740/J945/2500H/HJ800R/ J801R/T-8002",
+                           "UOM":  "KG",
+                           "Qty":  0.28875,
+                           "Price":  146.442,
+                           "Value":  42.2851275
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194941",
+                           "RmName":  "Recipe of WALTON Made Brown MB for PP hollow sheet",
+                           "UOM":  "KG",
+                           "Qty":  0.01155,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

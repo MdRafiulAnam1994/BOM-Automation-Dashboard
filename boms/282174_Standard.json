@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "282174",
+    "ItemName":  "Outdoor Electric Box Non INV-F (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  25.53,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.16,
+                           "Price":  133.084,
+                           "Value":  21.29344
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128374",
+                           "RmName":  "Electric Rivet Nut",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2.12,
+                           "Value":  4.24
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282180",
+    "ItemName":  "Front panel-A (0.7t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  347.93,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.6144,
+                           "Price":  133.084,
+                           "Value":  347.9348096
+                       }
+                   ]
+}

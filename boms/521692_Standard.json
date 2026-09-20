@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "521692",
+    "ItemName":  "Condenser Net Front HPM 32HP-4t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  105.8,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116447",
+                           "RmName":  "MS Wire 4mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  1.2075,
+                           "Price":  87.616,
+                           "Value":  105.79632
+                       }
+                   ]
+}

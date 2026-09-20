@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "312335",
+    "ItemName":  "Outdoor Side net -E-MS Wire 4mm",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  64.84,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116447",
+                           "RmName":  "MS Wire 4mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.74,
+                           "Price":  87.616,
+                           "Value":  64.83584
+                       }
+                   ]
+}

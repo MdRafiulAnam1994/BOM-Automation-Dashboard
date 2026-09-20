@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484061",
+    "ItemName":  "HexaComb Indoor Drain Pump Hose Pipe",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  6.41,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "247585",
+                           "RmName":  "Transparent PVC compound(Injection grade Phthalate free)",
+                           "UOM":  "KG",
+                           "Qty":  0.0375,
+                           "Price":  171.058,
+                           "Value":  6.414675
+                       }
+                   ]
+}

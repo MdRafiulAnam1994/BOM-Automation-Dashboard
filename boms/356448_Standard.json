@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "356448",
+    "ItemName":  "Flange Side Panel W150-1.2T",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  269.04,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.0548,
+                           "Price":  130.932,
+                           "Value":  269.0390736
+                       }
+                   ]
+}

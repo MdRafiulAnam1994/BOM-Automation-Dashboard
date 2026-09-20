@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "368466",
+    "ItemName":  "Walton Made PS UV Absorber MB",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  486.54,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "167021",
+                           "RmName":  "HIPS Resin for Milky white MB-3351/HPS-800/HPS-800R",
+                           "UOM":  "KG",
+                           "Qty":  0.94033953,
+                           "Price":  219.004,
+                           "Value":  205.93811842812
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114003",
+                           "RmName":  "Anti-Oxidant Additive Irganox B 900/VB Additive-9088",
+                           "UOM":  "KG",
+                           "Qty":  0.01749249,
+                           "Price":  812.367,
+                           "Value":  14.21032162383
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113772",
+                           "RmName":  "PE Wax Luwax A (Powder) /VB Additive-9087/PR-700/Finawax-E/Finalux G-151/PE-H110A",
+                           "UOM":  "KG",
+                           "Qty":  0.005253,
+                           "Price":  447.523,
+                           "Value":  2.350838319
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114149",
+                           "RmName":  "Light Stabilizer Uvinul 4050.",
+                           "UOM":  "KG",
+                           "Qty":  0.04375749,
+                           "Price":  2936.883,
+                           "Value":  128.51062850367
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "188734",
+                           "RmName":  "Tinuvin 234",
+                           "UOM":  "KG",
+                           "Qty":  0.04375749,
+                           "Price":  3097.194,
+                           "Value":  135.52543548306
+                       }
+                   ]
+}

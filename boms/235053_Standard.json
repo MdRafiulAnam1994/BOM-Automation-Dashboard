@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "235053",
+    "ItemName":  "18K Indoor Signal Cable for CVTE PCB",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  14.83,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "226257",
+                           "RmName":  "1x1.0 rm-Cable WCP -Orange",
+                           "UOM":  "MTR",
+                           "Qty":  0.2016,
+                           "Price":  23.072,
+                           "Value":  4.6513152
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423605",
+                           "RmName":  "Right Angle Blade Connector 0101404661 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  2.792,
+                           "Value":  2.80596
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423604",
+                           "RmName":  "Sleeve for Right Angle Connector-TH250 KM-2 UL-G JAM",
+                           "UOM":  "PCS",
+                           "Qty":  1.01,
+                           "Price":  4.228,
+                           "Value":  4.27028
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  2.949,
+                           "Value":  2.963745
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0224,
+                           "Price":  6.169,
+                           "Value":  0.1381856
+                       }
+                   ]
+}

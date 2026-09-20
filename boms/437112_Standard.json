@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "437112",
+    "ItemName":  "1.5TR/2TR Cassette Evaporator Support Clamp - OEM - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  17.41,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.151616,
+                           "Price":  114.828,
+                           "Value":  17.409762048
+                       }
+                   ]
+}

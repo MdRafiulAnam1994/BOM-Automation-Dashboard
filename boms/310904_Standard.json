@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310904",
+    "ItemName":  "Control Box Front Cover 14k-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  102.37,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.891249526,
+                           "Price":  114.864,
+                           "Value":  102.372485554464
+                       }
+                   ]
+}

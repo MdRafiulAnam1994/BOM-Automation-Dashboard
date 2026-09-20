@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "499194",
+    "ItemName":  "C IDU Curve Frame with screw cover-ABS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  397.59,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  1.544734333,
+                           "Price":  179.99,
+                           "Value":  278.03673259667
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "193089",
+                           "RmName":  "ABS Protect (O) White Masterbatch CMR-08191281",
+                           "UOM":  "KG",
+                           "Qty":  0.0596,
+                           "Price":  905.755,
+                           "Value":  53.982998
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249643",
+                           "RmName":  "ABS UV Stabilizer Master Batch",
+                           "UOM":  "KG",
+                           "Qty":  0.1374,
+                           "Price":  477.221,
+                           "Value":  65.5701654
+                       }
+                   ]
+}

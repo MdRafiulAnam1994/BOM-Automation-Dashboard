@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "287387",
+    "ItemName":  "Evaporator Clamp U Side -FCO-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  37.35,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.3252381,
+                           "Price":  114.828,
+                           "Value":  37.3464405468
+                       }
+                   ]
+}

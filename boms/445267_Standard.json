@@ -1,0 +1,132 @@
+﻿{
+    "ItemCode":  "445267",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI18BMB1-KRSC",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  19077.46,
+    "TotalRMCount":  11,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430122",
+                           "RmName":  "12K \u0026 18K Inverter F4 Common ODU PCB, P/N: M18F4ICOAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  1590.985,
+                           "Value":  3181.97
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "191689",
+                           "RmName":  "18K INV IDU PCB 35W AC Motor M18H1ICIAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  353.565,
+                           "Value":  707.13
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "437785",
+                           "RmName":  "24K CKD INV IDU PCB 45W BLDC Motor W24H2ICIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1178.464,
+                           "Value":  1178.464
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "437786",
+                           "RmName":  "24K CKD INV ODU PCB, 75W AC Motor, F1 Ext Cap, Model: W24F1ICOAZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  5807.47,
+                           "Value":  5807.47
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123431",
+                           "RmName":  "IDU Sensor Coil TEMP  10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  449.705,
+                           "Value":  1349.115
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123432",
+                           "RmName":  "IDU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  447.605,
+                           "Value":  1342.815
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123428",
+                           "RmName":  "ODU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  451.488,
+                           "Value":  1354.464
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123429",
+                           "RmName":  "ODU Sensor Coil TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  451.563,
+                           "Value":  1354.689
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123430",
+                           "RmName":  "ODU Sensor Discharge TEMP    50K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  451.343,
+                           "Value":  1354.029
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "317166",
+                           "RmName":  "Tianhao Remote AH-2017",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  197.954,
+                           "Value":  593.862
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "420709",
+                           "RmName":  "12K INV IDU PCB 25W AC Motor",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  426.728,
+                           "Value":  853.456
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "309252",
+    "ItemName":  "Front Supprt Fan Stand 10HP-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  282.42,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.220329702,
+                           "Price":  127.198,
+                           "Value":  282.421497434996
+                       }
+                   ]
+}

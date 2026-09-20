@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "496439",
+    "ItemName":  "Base 28HP-C-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2847.56,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "102823",
+                           "RmName":  "Mig Wire 1mm",
+                           "UOM":  "KG",
+                           "Qty":  0.022,
+                           "Price":  192.024,
+                           "Value":  4.224528
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  22.3,
+                           "Price":  127.198,
+                           "Value":  2836.5154
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "191082",
+                           "RmName":  "M6-1.0 (10 hex) Flange Nut",
+                           "UOM":  "PCS",
+                           "Qty":  19,
+                           "Price":  0.359,
+                           "Value":  6.821
+                       }
+                   ]
+}

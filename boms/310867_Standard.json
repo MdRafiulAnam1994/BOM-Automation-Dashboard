@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310867",
+    "ItemName":  "Control Box Front Cover 7.1k-0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  37.91,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.338735944,
+                           "Price":  111.916,
+                           "Value":  37.909971908704
+                       }
+                   ]
+}

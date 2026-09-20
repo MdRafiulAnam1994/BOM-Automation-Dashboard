@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310937",
+    "ItemName":  "ECB Top Cover 24HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  285.13,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.177707165,
+                           "Price":  130.932,
+                           "Value":  285.13155452778
+                       }
+                   ]
+}

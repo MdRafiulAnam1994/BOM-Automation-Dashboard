@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "535511",
+    "ItemName":  "24K 5mm Evaporator Right Side Clamp Part 2_(0.70t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  13.84,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.123667,
+                           "Price":  111.916,
+                           "Value":  13.840315972
+                       }
+                   ]
+}

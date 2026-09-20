@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "288064",
+    "ItemName":  "Hanging Sheet Metal -HC-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1.25,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.01085,
+                           "Price":  114.828,
+                           "Value":  1.2458838
+                       }
+                   ]
+}

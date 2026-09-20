@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282192",
+    "ItemName":  "Seperation panel clamp-B/C(0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  7.19,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.054036,
+                           "Price":  133.084,
+                           "Value":  7.191327024
+                       }
+                   ]
+}

@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "500838",
+    "ItemName":  "Digital Display Plastic Decoration Part",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  25.61,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "436900",
+                           "RmName":  "2K PU M/C Met WAC Silver",
+                           "UOM":  "LTR",
+                           "Qty":  0.00888,
+                           "Price":  1139.841,
+                           "Value":  10.12178808
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "435911",
+                           "RmName":  "Hardener for 2K Monocoat",
+                           "UOM":  "LTR",
+                           "Qty":  0.00177,
+                           "Price":  3720.942,
+                           "Value":  6.58606734
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "436901",
+                           "RmName":  "PU Thinner for mono coat (WAC)",
+                           "UOM":  "LTR",
+                           "Qty":  0.00753,
+                           "Price":  394.023,
+                           "Value":  2.96699319
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.033,
+                           "Price":  179.99,
+                           "Value":  5.93967
+                       }
+                   ]
+}

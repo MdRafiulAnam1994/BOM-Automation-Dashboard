@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "490420",
+    "ItemName":  "Indoor Blower Part Middle",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  23.76,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113534",
+                           "RmName":  "ABS Resin GP-2305A",
+                           "UOM":  "KG",
+                           "Qty":  0.064831667,
+                           "Price":  357.574,
+                           "Value":  23.182118495858
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.002139,
+                           "Price":  268.159,
+                           "Value":  0.573592101
+                       }
+                   ]
+}

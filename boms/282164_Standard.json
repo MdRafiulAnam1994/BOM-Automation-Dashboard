@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282164",
+    "ItemName":  "Cable Guide-common (0.6t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  0.93,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.007,
+                           "Price":  133.084,
+                           "Value":  0.931588
+                       }
+                   ]
+}

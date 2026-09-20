@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310875",
+    "ItemName":  "Top Filter Support 7.1k-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  37.55,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.326947014,
+                           "Price":  114.864,
+                           "Value":  37.554441816096
+                       }
+                   ]
+}

@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "387119",
+    "ItemName":  "Base-18F Non INV-Rechi (1.0t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  326.59,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222356",
+                           "RmName":  "Aluzinc Sheet (1.00x1030)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.7604,
+                           "Price":  117.252,
+                           "Value":  323.6624208
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "102823",
+                           "RmName":  "Mig Wire 1mm",
+                           "UOM":  "KG",
+                           "Qty":  0.01526,
+                           "Price":  192.024,
+                           "Value":  2.93028624
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "244130",
+                           "RmName":  "Round head bolt with shank M8-1.25x54 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

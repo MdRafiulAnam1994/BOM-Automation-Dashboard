@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "478736",
+    "ItemName":  "12K Non Inverter Power Cable 2M (Without Power Plug)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  114.39,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.006,
+                           "Price":  2.322,
+                           "Value":  4.657932
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  2.344,
+                           "Value":  2.35572
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112994",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube  5mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0224,
+                           "Price":  6.169,
+                           "Value":  0.1381856
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113170",
+                           "RmName":  "Cable 3X1.0rm Flexible-FR- (Red, Blue, Greenish yellow)",
+                           "UOM":  "MTR",
+                           "Qty":  2.018,
+                           "Price":  49.962,
+                           "Value":  100.823316
+                       }
+                   ]
+}

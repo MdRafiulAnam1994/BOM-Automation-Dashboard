@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "415449",
+    "ItemName":  "Outdoor Back Net M/F (MFC)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  22.78,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116446",
+                           "RmName":  "MS Wire 2.5mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.26,
+                           "Price":  87.616,
+                           "Value":  22.78016
+                       }
+                   ]
+}

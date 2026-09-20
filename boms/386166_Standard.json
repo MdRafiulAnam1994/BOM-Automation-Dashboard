@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "386166",
+    "ItemName":  "Compressor Jacket Outer Part-775*345mm(2 Layer)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  221.77,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "276622",
+                           "RmName":  "Cotton Thread (RM)",
+                           "UOM":  "PCS",
+                           "Qty":  0.0058,
+                           "Price":  47.482,
+                           "Value":  0.2753956
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "406102",
+                           "RmName":  "Velcro 25mm For AC",
+                           "UOM":  "COL",
+                           "Qty":  0.00726102,
+                           "Price":  452.184,
+                           "Value":  3.28331706768
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "387352",
+                           "RmName":  "Rubber Sheet (Thickness: 2.0mm)",
+                           "UOM":  "SQM",
+                           "Qty":  0.34,
+                           "Price":  486.755,
+                           "Value":  165.4967
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "314100",
+                           "RmName":  "Cotton Wool (Recycled Demin), (40000*1590*5)mm",
+                           "UOM":  "ROL",
+                           "Qty":  0.005,
+                           "Price":  10543.639,
+                           "Value":  52.718195
+                       }
+                   ]
+}

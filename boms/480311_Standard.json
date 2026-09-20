@@ -1,0 +1,143 @@
+﻿{
+    "ItemCode":  "480311",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER MSI12AMB2-RVSH",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  234004.33,
+    "TotalRMCount":  12,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "373236",
+                           "RmName":  "Megmeet 12K Solar AC Inverter ODU PCB 25W DC Motor  M12F6ICIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  16734.593,
+                           "Value":  167345.93
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "373234",
+                           "RmName":  "Megmeet 12K Solar AC Inverter IDU PCB 30W DC Motor M12H3ICIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  1022.088,
+                           "Value":  10220.88
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "244680",
+                           "RmName":  "BLDC ODU Motor 25 Watt (Wolong), Model: ZWA138DB7B",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  1370.69,
+                           "Value":  13706.9
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "152150",
+                           "RmName":  "INV IDU 30W BLDC Motor Wolong ZWA108D17C",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  1139.769,
+                           "Value":  11397.69
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "361102",
+                           "RmName":  "KONGTOP Unprinted 0.5 Remote-WK14-T01",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  229.56,
+                           "Value":  2295.6
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123431",
+                           "RmName":  "IDU Sensor Coil TEMP  10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  449.705,
+                           "Value":  4497.05
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123432",
+                           "RmName":  "IDU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  447.605,
+                           "Value":  4476.05
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123428",
+                           "RmName":  "ODU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  451.488,
+                           "Value":  4514.88
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123429",
+                           "RmName":  "ODU Sensor Coil TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  451.563,
+                           "Value":  4515.63
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123430",
+                           "RmName":  "ODU Sensor Discharge TEMP    50K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  451.343,
+                           "Value":  4513.43
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "378494",
+                           "RmName":  "R1205 Reactor 12A, 5mH",
+                           "UOM":  "PCS",
+                           "Qty":  20,
+                           "Price":  188.932,
+                           "Value":  3778.64
+                       },
+                       {
+                           "SL":  12,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "440731",
+                           "RmName":  "Display PCBA 02 M01 Megmeet, P/N: MM1L450",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  274.165,
+                           "Value":  2741.65
+                       }
+                   ]
+}

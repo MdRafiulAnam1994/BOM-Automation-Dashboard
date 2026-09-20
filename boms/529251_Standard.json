@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "529251",
+    "ItemName":  "18K Non Inverter Indoor service Cable (4.5 Meters) Black",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  614.8,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.344,
+                           "Value":  4.71144
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.949,
+                           "Value":  5.92749
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.006,
+                           "Price":  2.322,
+                           "Value":  4.657932
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0896,
+                           "Price":  6.169,
+                           "Value":  0.5527424
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "529298",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3X1.5 rm(30/0.25 mm) Black",
+                           "UOM":  "MTR",
+                           "Qty":  4.545,
+                           "Price":  130.37,
+                           "Value":  592.53165
+                       }
+                   ]
+}

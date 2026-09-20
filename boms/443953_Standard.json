@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "443953",
+    "ItemName":  "Water Drain Pump PSB-7(A)0V-5,SH-280 (SFG)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1597.37,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "268410",
+                           "RmName":  "Water Drain Pump PSB-7(A)0V-5,SH-280",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1546.304,
+                           "Value":  1546.304
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  1.111,
+                           "Price":  23.106,
+                           "Value":  25.670766
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112996",
+                           "RmName":  "Connector  CE-5",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  6.018,
+                           "Value":  12.51744
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124380",
+                           "RmName":  "Nylon Resin/Polymide ULT A3SK/N200SL PA66",
+                           "UOM":  "KG",
+                           "Qty":  0.00328,
+                           "Price":  428.282,
+                           "Value":  1.40476496
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  3.192,
+                           "Value":  6.63936
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  2.322,
+                           "Value":  4.82976
+                       }
+                   ]
+}

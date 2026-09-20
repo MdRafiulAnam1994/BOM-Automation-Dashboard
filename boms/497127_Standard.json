@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "497127",
+    "ItemName":  "A IDU Krystaline Decoration Parts (Left+Right)-ABS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  61.54,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.02949,
+                           "Price":  179.99,
+                           "Value":  5.3079051
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "123557",
+                           "RmName":  "UV paint Base Coat",
+                           "UOM":  "KG",
+                           "Qty":  0.02662,
+                           "Price":  1250.712,
+                           "Value":  33.29395344
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113987",
+                           "RmName":  "UV paint Top Coat",
+                           "UOM":  "KG",
+                           "Qty":  0.01648,
+                           "Price":  1237.456,
+                           "Value":  20.39327488
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128501",
+                           "RmName":  "Aluminium Coil",
+                           "UOM":  "KG",
+                           "Qty":  6E-05,
+                           "Price":  2649.59,
+                           "Value":  0.1589754
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128696",
+                           "RmName":  "Tungsten wire",
+                           "UOM":  "KG",
+                           "Qty":  0.00018,
+                           "Price":  9683.638,
+                           "Value":  1.74305484
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113475",
+                           "RmName":  "Isopropanol (IPA)",
+                           "UOM":  "KG",
+                           "Qty":  0.0008,
+                           "Price":  290.633,
+                           "Value":  0.2325064
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "135563",
+                           "RmName":  "Thinner Walton made-88 (KG)",
+                           "UOM":  "KG",
+                           "Qty":  0.00062,
+                           "Price":  452.95,
+                           "Value":  0.280829
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.0016,
+                           "Price":  78.005,
+                           "Value":  0.124808
+                       }
+                   ]
+}

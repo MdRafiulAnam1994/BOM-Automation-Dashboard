@@ -1,0 +1,187 @@
+﻿{
+    "ItemCode":  "515143",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI12AJB2-SLEX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  46726.23,
+    "TotalRMCount":  16,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123428",
+                           "RmName":  "ODU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  5,
+                           "Price":  451.488,
+                           "Value":  2257.44
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123429",
+                           "RmName":  "ODU Sensor Coil TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  6,
+                           "Price":  451.563,
+                           "Value":  2709.378
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123430",
+                           "RmName":  "ODU Sensor Discharge TEMP    50K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  5,
+                           "Price":  451.343,
+                           "Value":  2256.715
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123431",
+                           "RmName":  "IDU Sensor Coil TEMP  10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  7,
+                           "Price":  449.705,
+                           "Value":  3147.935
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123432",
+                           "RmName":  "IDU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  7,
+                           "Price":  447.605,
+                           "Value":  3133.235
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "148199",
+                           "RmName":  "Stepper Motor 24BYJ48-2145W",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  102.282,
+                           "Value":  409.128
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "404804",
+                           "RmName":  "Fixed Speed ODU 54W AC Motor Wolong KFD-55K, P/N: W1A54OPG",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  1021.585,
+                           "Value":  2043.17
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "408456",
+                           "RmName":  "12K HIGHLY inverter compressor (GSX088BKQA6JT8)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  4023.96,
+                           "Value":  8047.92
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "408473",
+                           "RmName":  "18K Inverter Compressor,GSD130SKRA6JV8B (Highly)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  4316.872,
+                           "Value":  8633.744
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "424162",
+                           "RmName":  "Fixed Speed ODU 25W AL AC Motor Wolong (YYW25-6-17048L), P/N: W4A25OPG",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  805.639,
+                           "Value":  1611.278
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "428387",
+                           "RmName":  "Stepper Motor 28BYJ48-454 (MS28BYJ48-1 99) MinSheng for UP/Down Swing",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  90.882,
+                           "Value":  272.646
+                       },
+                       {
+                           "SL":  12,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430122",
+                           "RmName":  "12K \u0026 18K Inverter F4 Common ODU PCB, P/N: M18F4ICOAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  1590.985,
+                           "Value":  6363.94
+                       },
+                       {
+                           "SL":  13,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430129",
+                           "RmName":  "Inverter IDU 30W AL BLDC Motor Wolong ZWC1010D04AL, P/N: W4A30IDC",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  826.464,
+                           "Value":  3305.856
+                       },
+                       {
+                           "SL":  14,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "440731",
+                           "RmName":  "Display PCBA 02 M01 Megmeet, P/N: MM1L450",
+                           "UOM":  "PCS",
+                           "Qty":  6,
+                           "Price":  274.165,
+                           "Value":  1644.99
+                       },
+                       {
+                           "SL":  15,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "469208",
+                           "RmName":  "RAC 18K Single UART Inverter IDU PCB BLDC Motor, P/N: M18H3IHIDZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  222.157,
+                           "Value":  666.471
+                       },
+                       {
+                           "SL":  16,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "469225",
+                           "RmName":  "RAC 12K Single UART Inverter IDU PCB BLDC Motor, Part N: M12H3IHIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  222.388,
+                           "Value":  222.388
+                       }
+                   ]
+}

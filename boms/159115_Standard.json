@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "159115",
+    "ItemName":  "Carton box, 5 Ply (16\" X 12\" X 6\")",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  25.96,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.01722,
+                           "Price":  66.899,
+                           "Value":  1.15200078
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.00038,
+                           "Price":  78.005,
+                           "Value":  0.0296419
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.00104,
+                           "Price":  85.451,
+                           "Value":  0.08886904
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.00229,
+                           "Price":  258.011,
+                           "Value":  0.59084519
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113248",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 2150mm (84.6\")",
+                           "UOM":  "KG",
+                           "Qty":  0.12478,
+                           "Price":  90.36,
+                           "Value":  11.2751208
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "152717",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 2150mm (84.6\")",
+                           "UOM":  "KG",
+                           "Qty":  0.12478,
+                           "Price":  57.952,
+                           "Value":  7.23125056
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.00037,
+                           "Price":  137.087,
+                           "Value":  0.05072219
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "219949",
+                           "RmName":  "Medium Paper (120 GSM) 2150mm (84.6\u0027\u0027)",
+                           "UOM":  "KG",
+                           "Qty":  0.38972,
+                           "Price":  14.209,
+                           "Value":  5.53753148
+                       }
+                   ]
+}

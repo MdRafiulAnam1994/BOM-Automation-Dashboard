@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "235046",
+    "ItemName":  "18A Non Inv Outdoor Earthing Cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  15.76,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "218133",
+                           "RmName":  "1X1.5rm Flex Cable WCP- Yellow Green",
+                           "UOM":  "MTR",
+                           "Qty":  0.4032,
+                           "Price":  26.719,
+                           "Value":  10.7731008
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112994",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube  5mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0448,
+                           "Price":  6.169,
+                           "Value":  0.2763712
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.344,
+                           "Value":  4.71144
+                       }
+                   ]
+}

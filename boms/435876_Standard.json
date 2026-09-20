@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "435876",
+    "ItemName":  "5.6kw New Duct Evaporator Part-1",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2796.77,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113979",
+                           "RmName":  "Copper Tube (OD 7.0 x T 0.25)  x IGT",
+                           "UOM":  "KG",
+                           "Qty":  1.298,
+                           "Price":  1588.733,
+                           "Value":  2062.175434
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "191078",
+                           "RmName":  "Aluminum Fin 0.095x775 GOLDEN FOIL",
+                           "UOM":  "KG",
+                           "Qty":  1.31,
+                           "Price":  529.428,
+                           "Value":  693.55068
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "307375",
+                           "RmName":  "Fin Stamping Oil/Lubricant (Dyna Punch), Punch 4300 S",
+                           "UOM":  "LTR",
+                           "Qty":  0.062,
+                           "Price":  404.191,
+                           "Value":  25.059842
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "246133",
+                           "RmName":  "Volatile Oil, Model: L8C06-2",
+                           "UOM":  "LTR",
+                           "Qty":  0.031,
+                           "Price":  323.284,
+                           "Value":  10.021804
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "478564",
+                           "RmName":  "Truss Phillips (#8) M4.17-18x10 Self Tapping Screw with Tapper Point",
+                           "UOM":  "PCS",
+                           "Qty":  6,
+                           "Price":  0.993,
+                           "Value":  5.958
+                       }
+                   ]
+}

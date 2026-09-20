@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "369809",
+    "ItemName":  "Ducted-Split ODU Neutral Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  44.63,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.785,
+                           "Price":  23.106,
+                           "Value":  18.13821
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112996",
+                           "RmName":  "Connector  CE-5",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  6.018,
+                           "Value":  6.25872
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  3.192,
+                           "Value":  9.95904
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  2.322,
+                           "Value":  7.24464
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.021,
+                           "Price":  6.153,
+                           "Value":  0.129213
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  2.788,
+                           "Value":  2.89952
+                       }
+                   ]
+}

@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "293028",
+    "ItemName":  "VRF Ducted Type IDU AC Motor Connector Cable Set (14KW)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  241.18,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124489",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube (OD: 4mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.504,
+                           "Price":  5.465,
+                           "Value":  2.75436
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "170714",
+                           "RmName":  "Cable tie 150mm (Pcs)",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  0.52,
+                           "Value":  2.08
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  2.323,
+                           "Price":  23.106,
+                           "Value":  53.675238
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195266",
+                           "RmName":  "1x1.0 rm Cable WCP Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  2.323,
+                           "Price":  17.24,
+                           "Value":  40.04852
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195269",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Blue",
+                           "UOM":  "MTR",
+                           "Qty":  2.323,
+                           "Price":  18.471,
+                           "Value":  42.908133
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195271",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Red",
+                           "UOM":  "MTR",
+                           "Qty":  2.323,
+                           "Price":  23.175,
+                           "Value":  53.835525
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  8.32,
+                           "Price":  3.192,
+                           "Value":  26.55744
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  8.32,
+                           "Price":  2.322,
+                           "Value":  19.31904
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "244806",
+                           "RmName":  "Walton Made Black PVC Tube -12.5 mm",
+                           "UOM":  "KG",
+                           "Qty":  0.08364,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

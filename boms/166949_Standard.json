@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "166949",
+    "ItemName":  "PET  Strapping Belt",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  75.84,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "142318",
+                           "RmName":  "Pet Recycle Flakes (Green)",
+                           "UOM":  "KG",
+                           "Qty":  1.0185,
+                           "Price":  62.846,
+                           "Value":  64.008651
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "154644",
+                           "RmName":  "PET Antisplit Masterbatch 220000008/Totryl-29MA03T/Antisplit-100",
+                           "UOM":  "KG",
+                           "Qty":  0.0315,
+                           "Price":  375.552,
+                           "Value":  11.829888
+                       }
+                   ]
+}

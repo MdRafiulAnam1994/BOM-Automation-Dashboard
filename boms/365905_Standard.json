@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "365905",
+    "ItemName":  "Poly (W-11\"x L-18\")",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  150.33,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113432",
+                           "RmName":  "LLDPE Resin Q2018H/218WJ",
+                           "UOM":  "KG",
+                           "Qty":  0.525,
+                           "Price":  137.127,
+                           "Value":  71.991675
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113436",
+                           "RmName":  "LDPE Resin  FD0274/HP4024WN",
+                           "UOM":  "KG",
+                           "Qty":  0.525,
+                           "Price":  149.217,
+                           "Value":  78.338925
+                       }
+                   ]
+}

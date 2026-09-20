@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "506902",
+    "ItemName":  "Separation Panel F\u0026T LCP - D (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  462.45,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.0273,
+                           "Price":  114.828,
+                           "Value":  462.4468044
+                       }
+                   ]
+}

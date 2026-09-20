@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "488111",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI24CHB1-ACXX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  193958.06,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487732",
+                           "RmName":  "12K Diamond Dummy IDU for Srilanka Market",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  1411.958,
+                           "Value":  5647.832
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487733",
+                           "RmName":  "12K J ODU Dummy for Srilanka",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  3228.742,
+                           "Value":  12914.968
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487734",
+                           "RmName":  "12K Oceanus (Voice Control \u0026 UV) Functional - 1216",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  9797.629,
+                           "Value":  39190.516
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487736",
+                           "RmName":  "WSI24CHB2-ACXX Functional Dummy IDU",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  14301.072,
+                           "Value":  57204.288
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487741",
+                           "RmName":  "WSI24CHB2-AVXX Functional Dummy IDU",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  11805.64,
+                           "Value":  47222.56
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487952",
+                           "RmName":  "KRYSTALINE- 1.5 ton Dummy Indoor",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  1578.135,
+                           "Value":  6312.54
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487953",
+                           "RmName":  "SKYLINE- 1.5 ton Dummy Indoor",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  1335.171,
+                           "Value":  5340.684
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487954",
+                           "RmName":  "M ODU Dummy",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  5031.167,
+                           "Value":  20124.668
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "403627",
+    "ItemName":  "Upper Panel Support 16HP-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  35.62,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.28,
+                           "Price":  127.198,
+                           "Value":  35.61544
+                       }
+                   ]
+}

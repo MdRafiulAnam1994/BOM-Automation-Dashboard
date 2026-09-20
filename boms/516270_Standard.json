@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "516270",
+    "ItemName":  "Evaporator Support Clamp - U Side - FRD - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  53.18,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.463165626,
+                           "Price":  114.828,
+                           "Value":  53.184382502328
+                       }
+                   ]
+}

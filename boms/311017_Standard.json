@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311017",
+    "ItemName":  "RHS Evaporator Clamp 19.25k FCU-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  51.9,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.396427053,
+                           "Price":  130.932,
+                           "Value":  51.904986903396
+                       }
+                   ]
+}

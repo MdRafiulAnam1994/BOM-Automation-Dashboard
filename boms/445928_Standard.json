@@ -1,0 +1,132 @@
+﻿{
+    "ItemCode":  "445928",
+    "ItemName":  "VRF Fresh Air Unit IDU Motor Controller Cable Set",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  109.84,
+    "TotalRMCount":  11,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.57057,
+                           "Price":  23.106,
+                           "Value":  13.18359042
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195271",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.3003,
+                           "Price":  23.175,
+                           "Value":  6.9594525
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  7.28,
+                           "Price":  3.192,
+                           "Value":  23.23776
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  7.28,
+                           "Price":  2.322,
+                           "Value":  16.90416
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112762",
+                           "RmName":  "Straight Blade Connector 187(1.25rm), China, (STO-1.0T-187N-5)",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  0.89,
+                           "Value":  3.7024
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195266",
+                           "RmName":  "1x1.0 rm Cable WCP Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.3636,
+                           "Price":  17.24,
+                           "Value":  6.268464
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271850",
+                           "RmName":  "Metal Connector, Model: JS 1121-T",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  3.618,
+                           "Value":  3.76272
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271851",
+                           "RmName":  "Plastic Terminal JS 1121-07",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  27.258,
+                           "Value":  28.34832
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482279",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3 mm- for 1.0rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.09855,
+                           "Price":  10.83,
+                           "Value":  1.0672965
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.09855,
+                           "Price":  43.682,
+                           "Value":  4.3048611
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "173206",
+                           "RmName":  "Cable terminal plastic cover 187-25",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  0.505,
+                           "Value":  2.1008
+                       }
+                   ]
+}

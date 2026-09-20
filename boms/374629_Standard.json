@@ -1,0 +1,121 @@
+﻿{
+    "ItemCode":  "374629",
+    "ItemName":  "12K Portable AC Body Carton",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  121.94,
+    "TotalRMCount":  10,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "293251",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 2220mm (87.4\")",
+                           "UOM":  "KG",
+                           "Qty":  0.32301,
+                           "Price":  93.906,
+                           "Value":  30.33257706
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "293259",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 2220mm (87.4\")",
+                           "UOM":  "KG",
+                           "Qty":  0.32301,
+                           "Price":  56.523,
+                           "Value":  18.25749423
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "293270",
+                           "RmName":  "Medium Paper-140 GSM, 2220mm (87.4\")",
+                           "UOM":  "KG",
+                           "Qty":  1.15767,
+                           "Price":  55.573,
+                           "Value":  64.33519491
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.04561,
+                           "Price":  66.899,
+                           "Value":  3.05126339
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.00104,
+                           "Price":  78.005,
+                           "Value":  0.0811252
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.0026,
+                           "Price":  85.451,
+                           "Value":  0.2221726
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.00091,
+                           "Price":  137.087,
+                           "Value":  0.12474917
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113812",
+                           "RmName":  "Flexo Print Ink-Black",
+                           "UOM":  "KG",
+                           "Qty":  0.00498,
+                           "Price":  423.777,
+                           "Value":  2.11040946
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.00729,
+                           "Price":  258.011,
+                           "Value":  1.88090019
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "434176",
+                           "RmName":  "Anti-Fungus (MS-F019)",
+                           "UOM":  "KG",
+                           "Qty":  0.0004623,
+                           "Price":  3350.629,
+                           "Value":  1.5489957867
+                       }
+                   ]
+}

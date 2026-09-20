@@ -1,0 +1,17 @@
+﻿{
+  primary: {
+    userId: YOUR_PRIMARY_ID,
+    password: ",
+ name: Primary Employee
+ },
+ secondary: {
+ userId: YOUR_FALLBACK_ID,
+ password: ,
+ name: Secondary Fallback User
+ },
+ lastAuthStatus: logged_out,
+ activeUser: ,
+ lastLoginDate: ,
+ authMessage: Oracle EBS session initialized. Please log in with your Employee ID & Password.,
+ lastChecked: 
+}

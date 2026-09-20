@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "515653",
+    "ItemName":  "Fresh Air MS Drain Pipe",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  9.15,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "102784",
+                           "RmName":  "MS Tube (25x2.5)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.0737,
+                           "Price":  124.15,
+                           "Value":  9.149855
+                       }
+                   ]
+}

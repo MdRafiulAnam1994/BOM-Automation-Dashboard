@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "365874",
+    "ItemName":  "Indoor Poly (W- 25\"x L-53\") (18K/1.5 Ton)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  145.32,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113432",
+                           "RmName":  "LLDPE Resin Q2018H/218WJ",
+                           "UOM":  "KG",
+                           "Qty":  0.117,
+                           "Price":  137.127,
+                           "Value":  16.043859
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "185679",
+                           "RmName":  "HDPE Resin FI0750 SABIC",
+                           "UOM":  "KG",
+                           "Qty":  0.933,
+                           "Price":  138.561,
+                           "Value":  129.277413
+                       }
+                   ]
+}

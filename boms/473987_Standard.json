@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "473987",
+    "ItemName":  "Front Panel-Z (505mm Curling) (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1194.56,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  10.403,
+                           "Price":  114.828,
+                           "Value":  1194.555684
+                       }
+                   ]
+}

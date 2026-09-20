@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "468576",
+    "ItemName":  "IDU AC Motor Cable for WDM56IFM23EX-0101",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  25.69,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195271",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.2002,
+                           "Price":  23.175,
+                           "Value":  4.639635
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195266",
+                           "RmName":  "1x1.0 rm Cable WCP Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.2002,
+                           "Price":  17.24,
+                           "Value":  3.451448
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195269",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.2002,
+                           "Price":  18.471,
+                           "Value":  3.6978942
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "252842",
+                           "RmName":  "Conncector, Model: JS-1121-05(White)",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  5.009,
+                           "Value":  5.20936
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112902",
+                           "RmName":  "Y type connector  2-S3A-JST",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  2.674,
+                           "Value":  8.34288
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124489",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube (OD: 4mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.063,
+                           "Price":  5.465,
+                           "Value":  0.344295
+                       }
+                   ]
+}

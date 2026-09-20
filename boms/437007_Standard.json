@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "437007",
+    "ItemName":  "Outdoor Electric Box 24K INV-M (1.2t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  56.02,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.396,
+                           "Price":  130.781,
+                           "Value":  51.789276
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128374",
+                           "RmName":  "Electric Rivet Nut",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2.117,
+                           "Value":  4.234
+                       }
+                   ]
+}

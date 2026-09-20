@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "369308",
+    "ItemName":  "HexaComb Indoor Air Filter Net",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  193.69,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124284",
+                           "RmName":  "HIPS Resin-4440/476L/PS 350/325/MA5210/S834/RT441M/3331/HI650/HP835G",
+                           "UOM":  "KG",
+                           "Qty":  0.324153806,
+                           "Price":  154.118,
+                           "Value":  49.957936273108
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.007097615,
+                           "Price":  267.754,
+                           "Value":  1.90041480671
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "136016",
+                           "RmName":  "Air Filter Net-550mm",
+                           "UOM":  "MTR",
+                           "Qty":  1.677,
+                           "Price":  84.572,
+                           "Value":  141.827244
+                       }
+                   ]
+}

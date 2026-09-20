@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "356411",
+    "ItemName":  "Base Support 1 W150-2T",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  562.02,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.41848,
+                           "Price":  127.198,
+                           "Value":  562.02181904
+                       }
+                   ]
+}

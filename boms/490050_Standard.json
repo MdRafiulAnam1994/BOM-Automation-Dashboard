@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "490050",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI09AJB2-DMEX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  14871.26,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "487732",
+                           "RmName":  "12K Diamond Dummy IDU for Srilanka Market",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  1411.958,
+                           "Value":  2823.916
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "317166",
+                           "RmName":  "Tianhao Remote AH-2017",
+                           "UOM":  "PCS",
+                           "Qty":  25,
+                           "Price":  197.954,
+                           "Value":  4948.85
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "501001",
+                           "RmName":  "WSI09AJB2-DMEX Indoor Unit (SFG)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  7098.496,
+                           "Value":  7098.496
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "287549",
+    "ItemName":  "Condenser Clamp 02 D Side Inner-G-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  35.14,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.305986536,
+                           "Price":  114.828,
+                           "Value":  35.135821955808
+                       }
+                   ]
+}

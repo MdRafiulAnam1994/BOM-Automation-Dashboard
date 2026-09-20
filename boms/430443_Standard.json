@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "430443",
+    "ItemName":  "Base 3TR SP (1.2t, 1.5t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  669.92,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.372925053,
+                           "Price":  124.203,
+                           "Value":  170.521410357759
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "422768",
+                           "RmName":  "Round Head Bolt with Shank M8-1.25x78.5 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  19.28,
+                           "Value":  57.84
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  3.372414984,
+                           "Price":  130.932,
+                           "Value":  441.557038685088
+                       }
+                   ]
+}

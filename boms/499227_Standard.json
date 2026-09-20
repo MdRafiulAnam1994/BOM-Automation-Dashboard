@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "499227",
+    "ItemName":  "B IDU Blower Motor Cover",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  21.3,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "147981",
+                           "RmName":  "PP Compound WC-PGF30(Walton Made)",
+                           "UOM":  "KG",
+                           "Qty":  0.10823,
+                           "Price":  193.435,
+                           "Value":  20.93547005
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.00135,
+                           "Price":  268.159,
+                           "Value":  0.36201465
+                       }
+                   ]
+}

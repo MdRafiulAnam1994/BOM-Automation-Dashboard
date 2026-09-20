@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "309262",
+    "ItemName":  "Control Box Hanger 10HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  5.87,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.044862203,
+                           "Price":  130.932,
+                           "Value":  5.873897963196
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "510295",
+    "ItemName":  "Side Panel 32HP-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  289.46,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.52,
+                           "Price":  114.864,
+                           "Value":  289.45728
+                       }
+                   ]
+}

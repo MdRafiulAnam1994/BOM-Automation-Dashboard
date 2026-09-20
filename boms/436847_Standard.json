@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "436847",
+    "ItemName":  "Separation panel Non INV-M (0.4t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  74.77,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456354",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.4x1090)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.58854,
+                           "Price":  127.047,
+                           "Value":  74.77224138
+                       }
+                   ]
+}

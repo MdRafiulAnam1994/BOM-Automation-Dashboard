@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "509366",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI18AJB2-DMEX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  704.34,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "509116",
+                           "RmName":  "Remote Hanger for Tianho Remote",
+                           "UOM":  "PCS",
+                           "Qty":  172,
+                           "Price":  4.095,
+                           "Value":  704.34
+                       }
+                   ]
+}

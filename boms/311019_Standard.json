@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311019",
+    "ItemName":  "Separation Panel Bottom 19.25k FCU-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  195.01,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.489385475,
+                           "Price":  130.932,
+                           "Value":  195.0082190127
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "426121",
+    "ItemName":  "Top panel FA14 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  700.97,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  6.102569811,
+                           "Price":  114.864,
+                           "Value":  700.965578770704
+                       }
+                   ]
+}

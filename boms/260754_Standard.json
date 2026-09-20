@@ -1,0 +1,253 @@
+﻿{
+    "ItemCode":  "260754",
+    "ItemName":  "12K (24HP) Inv Condenser 0302/0502/0602",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  4671.03,
+    "TotalRMCount":  22,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113942",
+                           "RmName":  "Copper Tube (OD 7.0 x T 0.7)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.032061832,
+                           "Price":  1516.65,
+                           "Value":  48.6265775028
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113950",
+                           "RmName":  "Copper Tube (OD 9.52mmX T 0.7)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.032484816,
+                           "Price":  1732.088,
+                           "Value":  56.266559975808
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113965",
+                           "RmName":  "Copper Tube (OD 6.0 x T 0.7) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.014096163,
+                           "Price":  1651.624,
+                           "Value":  23.281561118712
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113979",
+                           "RmName":  "Copper Tube (OD 7.0 x T 0.25)  x IGT",
+                           "UOM":  "KG",
+                           "Qty":  1.925632646,
+                           "Price":  1588.733,
+                           "Value":  3059.3161305775179
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113989",
+                           "RmName":  "Copper Tube (OD 7.0 x T 0.5) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.088696929,
+                           "Price":  1626.418,
+                           "Value":  144.258281870322
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113991",
+                           "RmName":  "Liquid Gas Flux-FB402L",
+                           "UOM":  "KG",
+                           "Qty":  0.000609,
+                           "Price":  1869.985,
+                           "Value":  1.138820865
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114063",
+                           "RmName":  "Copper Tube (OD 8.0 x T 0.7)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.038692337,
+                           "Price":  1562.325,
+                           "Value":  60.450005403525
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114065",
+                           "RmName":  "Brazing Silver Alloy 0%",
+                           "UOM":  "KG",
+                           "Qty":  0.009863101,
+                           "Price":  1481.19,
+                           "Value":  14.60912657019
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114172",
+                           "RmName":  "Copper O-Ring  (T:1.6*ID:6.8xOD:10)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.023380056,
+                           "Price":  1613.021,
+                           "Value":  37.712521309176
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "115060",
+                           "RmName":  "Helium Gas",
+                           "UOM":  "CUM",
+                           "Qty":  0.0023,
+                           "Price":  3828.437,
+                           "Value":  8.8054051
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "170714",
+                           "RmName":  "Cable tie 150mm (Pcs)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.52,
+                           "Value":  1.04
+                       },
+                       {
+                           "SL":  12,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "191078",
+                           "RmName":  "Aluminum Fin 0.095x775 GOLDEN FOIL",
+                           "UOM":  "KG",
+                           "Qty":  1.806980739,
+                           "Price":  529.428,
+                           "Value":  956.666198687292
+                       },
+                       {
+                           "SL":  13,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "193792",
+                           "RmName":  "Copper-2-way distributor (1x7-2x7)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  30.358,
+                           "Value":  30.358
+                       },
+                       {
+                           "SL":  14,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194488",
+                           "RmName":  "Y Joint (1x6.1-2x7)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  30.461,
+                           "Value":  30.461
+                       },
+                       {
+                           "SL":  15,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "230539",
+                           "RmName":  "Y Joint (1x8.15-2x7)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  92.557,
+                           "Value":  92.557
+                       },
+                       {
+                           "SL":  16,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249535",
+                           "RmName":  "Barcode Blank Label AC (15x15)mm",
+                           "UOM":  "PCS",
+                           "Qty":  3.15,
+                           "Price":  0.077,
+                           "Value":  0.24255
+                       },
+                       {
+                           "SL":  17,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "282168",
+                           "RmName":  "Condenser Clamp D side-A (0.7t)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  15.433,
+                           "Value":  30.866
+                       },
+                       {
+                           "SL":  18,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "282170",
+                           "RmName":  "Condenser Clamp U side-A (.0.7t)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2.368,
+                           "Value":  4.736
+                       },
+                       {
+                           "SL":  19,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "246133",
+                           "RmName":  "Volatile Oil, Model: L8C06-2",
+                           "UOM":  "LTR",
+                           "Qty":  0.02465,
+                           "Price":  323.284,
+                           "Value":  7.9689506
+                       },
+                       {
+                           "SL":  20,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "307375",
+                           "RmName":  "Fin Stamping Oil/Lubricant (Dyna Punch), Punch 4300 S",
+                           "UOM":  "LTR",
+                           "Qty":  0.14841,
+                           "Price":  404.191,
+                           "Value":  59.98598631
+                       },
+                       {
+                           "SL":  21,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "384721",
+                           "RmName":  "Copper U-Shaped Tube Specialized Cleaning Detergent, Model: CX-068",
+                           "UOM":  "KG",
+                           "Qty":  0.003590748,
+                           "Price":  443.768,
+                           "Value":  1.593459058464
+                       },
+                       {
+                           "SL":  22,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "158247",
+                           "RmName":  "Barcode Ribbon-AC(45mmx300M)",
+                           "UOM":  "ROL",
+                           "Qty":  0.000201923,
+                           "Price":  453.619,
+                           "Value":  0.091596109337
+                       }
+                   ]
+}

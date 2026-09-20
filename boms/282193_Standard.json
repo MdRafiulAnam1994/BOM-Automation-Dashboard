@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282193",
+    "ItemName":  "Seperation panel Non inv-F (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  123.97,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.9315,
+                           "Price":  133.084,
+                           "Value":  123.967746
+                       }
+                   ]
+}

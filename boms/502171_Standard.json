@@ -1,0 +1,121 @@
+﻿{
+    "ItemCode":  "502171",
+    "ItemName":  "48K/60K Inverter Power Cable (PLC)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  689.08,
+    "TotalRMCount":  10,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "432226",
+                           "RmName":  "Inverter Power Cable, Length: 580mm, Red+Black, Connector: Ring Connector- Ring Connector, Fiber Tube: 450mm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  645.71,
+                           "Value":  645.71
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195273",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.5 rm (30/0.25 mm)-Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.253,
+                           "Price":  17.582,
+                           "Value":  4.448246
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "368031",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.5 rm (30/0.25 mm) - Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.253,
+                           "Price":  21.579,
+                           "Value":  5.459487
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "234465",
+                           "RmName":  "Copper Lugs (Y-Type) 10 Rm",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  10.275,
+                           "Value":  21.372
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113039",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube   10mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.04,
+                           "Price":  10.221,
+                           "Value":  0.40884
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482281",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 7 mm- for 10rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.053,
+                           "Price":  22.69,
+                           "Value":  1.20257
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482280",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3.5 mm- for 1.5rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.038,
+                           "Price":  12.17,
+                           "Value":  0.46246
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.091,
+                           "Price":  43.682,
+                           "Value":  3.975062
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.04,
+                           "Price":  6.153,
+                           "Value":  0.24612
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  2.788,
+                           "Value":  5.79904
+                       }
+                   ]
+}

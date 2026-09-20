@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "499095",
+    "ItemName":  "WALTON 30-60k HexaComb Cassette IDU Carton for Shaped Packaging EPS (930mm x 930mm x 385mm)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  234.1,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "293247",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 1610mm (63.4\")",
+                           "UOM":  "KG",
+                           "Qty":  0.9892,
+                           "Price":  88.979,
+                           "Value":  88.0180268
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "293255",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 1610mm (63.4\")",
+                           "UOM":  "KG",
+                           "Qty":  2.34692,
+                           "Price":  56.769,
+                           "Value":  133.23230148
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.13461,
+                           "Price":  43,
+                           "Value":  5.78823
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.00817,
+                           "Price":  94.207,
+                           "Value":  0.76967119
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.003,
+                           "Price":  70.38,
+                           "Value":  0.21114
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.00287,
+                           "Price":  149.171,
+                           "Value":  0.42812077
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "144527",
+                           "RmName":  "Screen Print Ink-Blue",
+                           "UOM":  "KG",
+                           "Qty":  0.00536,
+                           "Price":  554.12,
+                           "Value":  2.9700832
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.01039,
+                           "Price":  258.011,
+                           "Value":  2.68073429
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484070",
+    "ItemName":  "HexaComb Front Panel Louver Styrofoam",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  4.63,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124281",
+                           "RmName":  "Expandable Polystyrene-Resin E-S/250FC/271BL",
+                           "UOM":  "KG",
+                           "Qty":  0.029491875,
+                           "Price":  156.941,
+                           "Value":  4.628484354375
+                       }
+                   ]
+}

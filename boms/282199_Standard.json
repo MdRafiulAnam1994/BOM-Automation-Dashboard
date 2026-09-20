@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282199",
+    "ItemName":  "Valve side panel-F (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  134.39,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.0098,
+                           "Price":  133.084,
+                           "Value":  134.3882232
+                       }
+                   ]
+}

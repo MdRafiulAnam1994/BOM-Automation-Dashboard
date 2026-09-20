@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "363640",
+    "ItemName":  "Outdoor Back Net C (OEM)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  17.03,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116446",
+                           "RmName":  "MS Wire 2.5mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.196,
+                           "Price":  86.897,
+                           "Value":  17.031812
+                       }
+                   ]
+}

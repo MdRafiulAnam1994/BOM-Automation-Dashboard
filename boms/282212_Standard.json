@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282212",
+    "ItemName":  "Left Side Top Clamp -E/G (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  11.72,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.102049872,
+                           "Price":  114.828,
+                           "Value":  11.718182702016
+                       }
+                   ]
+}

@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "248299",
+    "ItemName":  "24BH Indoor Valve \u0026 Fan cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  224.9,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "252095",
+                           "RmName":  "2 x 1.2 rm(40/0.19mm) Walton Flexible Cord WCP-White",
+                           "UOM":  "MTR",
+                           "Qty":  5.045,
+                           "Price":  41.131,
+                           "Value":  207.505895
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.344,
+                           "Value":  4.71144
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  4.02,
+                           "Price":  2.949,
+                           "Value":  11.85498
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.1344,
+                           "Price":  6.169,
+                           "Value":  0.8291136
+                       }
+                   ]
+}

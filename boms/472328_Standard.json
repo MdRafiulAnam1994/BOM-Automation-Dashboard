@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "472328",
+    "ItemName":  "Base Beam W80-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1097.94,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  9.561648,
+                           "Price":  114.828,
+                           "Value":  1097.944916544
+                       }
+                   ]
+}

@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "144787",
+    "ItemName":  "Carton-10*10*16\" (For AC Compressor)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  25.27,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "152724",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 2090mm (82.3\")",
+                           "UOM":  "KG",
+                           "Qty":  0.228855,
+                           "Price":  40.549,
+                           "Value":  9.279841395
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "123348",
+                           "RmName":  "Medium Paper-140 GSM, 2090mm (82.3\")",
+                           "UOM":  "KG",
+                           "Qty":  0.4463,
+                           "Price":  34.009,
+                           "Value":  15.1782167
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.001,
+                           "Price":  85.451,
+                           "Value":  0.085451
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.00035854,
+                           "Price":  78.005,
+                           "Value":  0.0279679127
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.0003433,
+                           "Price":  137.087,
+                           "Value":  0.0470619671
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.00252448,
+                           "Price":  258.011,
+                           "Value":  0.65134360928
+                       }
+                   ]
+}

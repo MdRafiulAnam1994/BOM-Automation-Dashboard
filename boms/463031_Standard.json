@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "463031",
+    "ItemName":  "Base- H (1.2t-B1)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  518.78,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "244122",
+                           "RmName":  "Round head bolt with shank M8-1.25x57 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  3.721,
+                           "Value":  11.163
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  3.834,
+                           "Price":  130.781,
+                           "Value":  501.414354
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "102823",
+                           "RmName":  "Mig Wire 1mm",
+                           "UOM":  "KG",
+                           "Qty":  0.03231,
+                           "Price":  192.024,
+                           "Value":  6.20429544
+                       }
+                   ]
+}

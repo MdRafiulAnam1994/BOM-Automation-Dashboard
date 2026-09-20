@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "476435",
+    "ItemName":  "Wooden Pallet 24HP",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1756.79,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "141269",
+                           "RmName":  "Nail T-50",
+                           "UOM":  "BOX",
+                           "Qty":  0.05,
+                           "Price":  200.912,
+                           "Value":  10.0456
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "110727",
+                           "RmName":  "Screw 2 inch",
+                           "UOM":  "PCS",
+                           "Qty":  82,
+                           "Price":  0.55,
+                           "Value":  45.1
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "102315",
+                           "RmName":  "Cutting Disc 4 inch (105x1x16)mm",
+                           "UOM":  "PCS",
+                           "Qty":  0.02,
+                           "Price":  32,
+                           "Value":  0.64
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "420831",
+                           "RmName":  "Nail T-32",
+                           "UOM":  "BOX",
+                           "Qty":  0.05,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "131909",
+                           "RmName":  "Wood(Mehogony)",
+                           "UOM":  "CFT",
+                           "Qty":  1.26,
+                           "Price":  1350,
+                           "Value":  1701
+                       }
+                   ]
+}

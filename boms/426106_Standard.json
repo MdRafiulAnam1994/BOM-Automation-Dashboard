@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "426106",
+    "ItemName":  "Blower side panel FA14 1.5t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  805.39,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  6.484454811,
+                           "Price":  124.203,
+                           "Value":  805.388740890633
+                       }
+                   ]
+}

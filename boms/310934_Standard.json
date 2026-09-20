@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310934",
+    "ItemName":  "Service Valve Stand 24HP-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  185.24,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.456347994,
+                           "Price":  127.198,
+                           "Value":  185.244552140812
+                       }
+                   ]
+}

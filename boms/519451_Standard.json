@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "519451",
+    "ItemName":  "Back Casing Assembly - FRD - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  588.88,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "516081",
+                           "RmName":  "Back Casing - FRD - 1t",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  444.102,
+                           "Value":  444.102
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "516271",
+                           "RmName":  "Electric Box Stand - FRD - 1t",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  144.783,
+                           "Value":  144.783
+                       }
+                   ]
+}

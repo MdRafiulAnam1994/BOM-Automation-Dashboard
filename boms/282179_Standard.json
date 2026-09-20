@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282179",
+    "ItemName":  "Front Panel- B/C (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  506.29,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.5238,
+                           "Price":  111.916,
+                           "Value":  506.2856008
+                       }
+                   ]
+}

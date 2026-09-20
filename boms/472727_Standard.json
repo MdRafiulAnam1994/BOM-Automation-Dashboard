@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "472727",
+    "ItemName":  "Separation Panel Clamp 7mm- J(0.7t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  21.17,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.1892,
+                           "Price":  111.916,
+                           "Value":  21.1745072
+                       }
+                   ]
+}

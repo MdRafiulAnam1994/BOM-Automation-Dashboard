@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "509116",
+    "ItemName":  "Remote Hanger for Tianho Remote",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  4.09,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "144390",
+                           "RmName":  "Walton PP milky white master batch (WM-WPP 002)",
+                           "UOM":  "KG",
+                           "Qty":  0.000420608,
+                           "Price":  327.242,
+                           "Value":  0.137640603136
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "166562",
+                           "RmName":  "Truss Phillips (#8) M4.17-18x16 self tapping (AB) AC1",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.2,
+                           "Value":  0.4
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "164838",
+                           "RmName":  "Wrapping Poly.Size:W-4.8\", T-20um",
+                           "UOM":  "KG",
+                           "Qty":  0.000116,
+                           "Price":  431.821,
+                           "Value":  0.050091236
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.01948054,
+                           "Price":  179.99,
+                           "Value":  3.5063023946
+                       }
+                   ]
+}

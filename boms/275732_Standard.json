@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "275732",
+    "ItemName":  "VRF ODU Solinoid Valve Connector Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  179.46,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "250605",
+                           "RmName":  "Connector Model: JS-1121-07 (White)",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  124.258,
+                           "Value":  129.22832
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.828,
+                           "Price":  23.106,
+                           "Value":  19.131768
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482279",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3 mm- for 1.0rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.126,
+                           "Price":  10.83,
+                           "Value":  1.36458
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.126,
+                           "Price":  43.682,
+                           "Value":  5.503932
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.168,
+                           "Price":  6.153,
+                           "Value":  1.033704
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  8.32,
+                           "Price":  2.788,
+                           "Value":  23.19616
+                       }
+                   ]
+}

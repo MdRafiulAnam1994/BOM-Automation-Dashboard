@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "521685",
+    "ItemName":  "Upper Panel HPM 32HP-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  500.52,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.3575,
+                           "Price":  114.864,
+                           "Value":  500.51988
+                       }
+                   ]
+}

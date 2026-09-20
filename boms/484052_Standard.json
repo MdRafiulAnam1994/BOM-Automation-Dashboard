@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "484052",
+    "ItemName":  "HexaComb Indoor Front Lock Part 1 - Black",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.93,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.004318741,
+                           "Price":  180.143,
+                           "Value":  0.777990959963
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249643",
+                           "RmName":  "ABS UV Stabilizer Master Batch",
+                           "UOM":  "KG",
+                           "Qty":  0.000302781,
+                           "Price":  418.689,
+                           "Value":  0.126771074109
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  9.95584E-05,
+                           "Price":  267.754,
+                           "Value":  0.0266571598336
+                       }
+                   ]
+}

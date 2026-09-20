@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "499179",
+    "ItemName":  "C IDU Krystaline Decoration Parts (Left+Right)-ABS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  64.25,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.03,
+                           "Price":  179.99,
+                           "Value":  5.3997
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.0016,
+                           "Price":  78.005,
+                           "Value":  0.124808
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "123557",
+                           "RmName":  "UV paint Base Coat",
+                           "UOM":  "KG",
+                           "Qty":  0.02662,
+                           "Price":  1250.712,
+                           "Value":  33.29395344
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "113987",
+                           "RmName":  "UV paint Top Coat",
+                           "UOM":  "KG",
+                           "Qty":  0.016478,
+                           "Price":  1237.456,
+                           "Value":  20.390799968
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "128501",
+                           "RmName":  "Aluminium Coil",
+                           "UOM":  "KG",
+                           "Qty":  0.000138,
+                           "Price":  2649.59,
+                           "Value":  0.36564342
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "128696",
+                           "RmName":  "Tungsten wire",
+                           "UOM":  "KG",
+                           "Qty":  0.00035,
+                           "Price":  9683.638,
+                           "Value":  3.3892733
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "113475",
+                           "RmName":  "Isopropanol (IPA)",
+                           "UOM":  "KG",
+                           "Qty":  0.0008,
+                           "Price":  290.633,
+                           "Value":  0.2325064
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "123584",
+                           "RmName":  "Plasticoat Thinner-613 .",
+                           "UOM":  "KG",
+                           "Qty":  0.0009,
+                           "Price":  460.786,
+                           "Value":  0.4147074
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "135563",
+                           "RmName":  "Thinner Walton made-88 (KG)",
+                           "UOM":  "KG",
+                           "Qty":  0.0014,
+                           "Price":  452.95,
+                           "Value":  0.63413
+                       }
+                   ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "484058",
+    "ItemName":  "HexaComb Indoor Drain Hose Support",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2.54,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113491",
+                           "RmName":  "HDPE Resin 200056/17450N",
+                           "UOM":  "KG",
+                           "Qty":  0.019380075,
+                           "Price":  127.462,
+                           "Value":  2.47022311965
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000255629,
+                           "Price":  267.754,
+                           "Value":  0.068445687266
+                       }
+                   ]
+}

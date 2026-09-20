@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "147981",
+    "ItemName":  "PP Compound WC-PGF30(Walton Made)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  193.44,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113616",
+                           "RmName":  "Glass Fiber for Masterbatch(ABS)",
+                           "UOM":  "KG",
+                           "Qty":  0.31242,
+                           "Price":  227.737,
+                           "Value":  71.14959354
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124279",
+                           "RmName":  "Polymeric process additive in thermoplastic compound-SCONA TPPP 9212 GA",
+                           "UOM":  "KG",
+                           "Qty":  0.01041,
+                           "Price":  1239.853,
+                           "Value":  12.90686973
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113772",
+                           "RmName":  "PE Wax Luwax A (Powder) /VB Additive-9087/PR-700/Finawax-E/Finalux G-151/PE-H110A",
+                           "UOM":  "KG",
+                           "Qty":  0.01041,
+                           "Price":  447.523,
+                           "Value":  4.65871443
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114003",
+                           "RmName":  "Anti-Oxidant Additive Irganox B 900/VB Additive-9088",
+                           "UOM":  "KG",
+                           "Qty":  0.0031,
+                           "Price":  812.367,
+                           "Value":  2.5183377
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113417",
+                           "RmName":  "PP Resin-EP440G/Yungsox 3010/HB240T/J740/J945/2500H/HJ800R/ J801R/T-8002",
+                           "UOM":  "KG",
+                           "Qty":  0.70365,
+                           "Price":  145.245,
+                           "Value":  102.20164425
+                       }
+                   ]
+}

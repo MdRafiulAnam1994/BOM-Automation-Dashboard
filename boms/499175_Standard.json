@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "499175",
+    "ItemName":  "C IDU Inverna Top Panel-ABS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  225.62,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.867768534,
+                           "Price":  179.99,
+                           "Value":  156.18965843466
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "193089",
+                           "RmName":  "ABS Protect (O) White Masterbatch CMR-08191281",
+                           "UOM":  "KG",
+                           "Qty":  0.03465,
+                           "Price":  905.755,
+                           "Value":  31.38441075
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249643",
+                           "RmName":  "ABS UV Stabilizer Master Batch",
+                           "UOM":  "KG",
+                           "Qty":  0.07972,
+                           "Price":  477.221,
+                           "Value":  38.04405812
+                       }
+                   ]
+}

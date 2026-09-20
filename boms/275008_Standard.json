@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "275008",
+    "ItemName":  "WSN-KRYSTALINE-18F?0305 -Non-inverter earthing cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  15.12,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "218133",
+                           "RmName":  "1X1.5rm Flex Cable WCP- Yellow Green",
+                           "UOM":  "MTR",
+                           "Qty":  0.3737,
+                           "Price":  26.715,
+                           "Value":  9.9833955
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  2.344,
+                           "Value":  4.87552
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.042,
+                           "Price":  6.153,
+                           "Value":  0.258426
+                       }
+                   ]
+}

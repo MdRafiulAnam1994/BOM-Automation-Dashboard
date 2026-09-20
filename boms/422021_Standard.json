@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "422021",
+    "ItemName":  "Ionizer",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  173.15,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "144664",
+                           "RmName":  "WM Pan Washer Phillips M3.5-20x13 Self tapping(AB)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  0.121,
+                           "Value":  0.121
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "225515",
+                           "RmName":  "Lungs Doctor Small Lonizer Sticker 12K/18K/24K",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  5.495,
+                           "Value":  5.495
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "133066",
+                           "RmName":  "Ionizer/ Negative Ion generator",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  167.533,
+                           "Value":  167.533
+                       }
+                   ]
+}

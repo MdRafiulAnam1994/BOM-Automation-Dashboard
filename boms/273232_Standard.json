@@ -1,0 +1,121 @@
+﻿{
+    "ItemCode":  "273232",
+    "ItemName":  "48K ODU Compressor Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  171.92,
+    "TotalRMCount":  10,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195276",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x2.5 rm (50/0.25 mm)-Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.909,
+                           "Price":  55.625,
+                           "Value":  50.563125
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195277",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x2.5 rm (50/0.25 mm)-Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.909,
+                           "Price":  41.825,
+                           "Value":  38.018925
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "384564",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 2.5 rm(50/0.25mm) Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.905,
+                           "Price":  54.338,
+                           "Value":  49.17589
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423605",
+                           "RmName":  "Right Angle Blade Connector 0101404661 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  2.792,
+                           "Value":  8.71104
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423604",
+                           "RmName":  "Sleeve for Right Angle Connector-TH250 KM-2 UL-G JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  4.228,
+                           "Value":  13.19136
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "244806",
+                           "RmName":  "Walton Made Black PVC Tube -12.5 mm",
+                           "UOM":  "KG",
+                           "Qty":  0.0292739,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482278",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 4 mm- for 2.5rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.05475,
+                           "Price":  14.23,
+                           "Value":  0.7790925
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.05475,
+                           "Price":  43.682,
+                           "Value":  2.3915895
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.063,
+                           "Price":  6.153,
+                           "Value":  0.387639
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  2.788,
+                           "Value":  8.69856
+                       }
+                   ]
+}

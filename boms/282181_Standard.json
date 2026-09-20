@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282181",
+    "ItemName":  "Front panel-F (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  388.62,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.920112,
+                           "Price":  133.084,
+                           "Value":  388.620185408
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "220263",
+    "ItemName":  "IDU Right Side Packaging Styrofoam for 18K",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  25.18,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113431",
+                           "RmName":  "Expandable Polystyrene (EPS Resin) B-SA /200BL/391S",
+                           "UOM":  "KG",
+                           "Qty":  0.1505,
+                           "Price":  167.294,
+                           "Value":  25.177747
+                       }
+                   ]
+}

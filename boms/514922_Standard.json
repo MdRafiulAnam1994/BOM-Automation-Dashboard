@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "514922",
+    "ItemName":  "Marcel Dangler",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1.88,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "482250",
+                           "RmName":  "Art Card (22x28)inch 300gsm (RM)",
+                           "UOM":  "PCS",
+                           "Qty":  0.1622,
+                           "Price":  10.444,
+                           "Value":  1.6940168
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "509865",
+                           "RmName":  "Kham of Dangler 10\"x12\"(Iner Gap 20mm)",
+                           "UOM":  "PCS",
+                           "Qty":  0.017897,
+                           "Price":  5.1,
+                           "Value":  0.0912747
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "510415",
+                           "RmName":  "String for Dangler",
+                           "UOM":  "KG",
+                           "Qty":  0.000447,
+                           "Price":  221.14,
+                           "Value":  0.09884958
+                       }
+                   ]
+}

@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BOM Observation & Modification Report</title>
+  <link rel="stylesheet" href="styles.css?v=20260916_04">
+  <!-- Chart.js and Plugins (Local Offline Bundle) -->
+  <script src="lib/chart.umd.min.js"></script>
+  <script src="lib/chartjs-plugin-datalabels.min.js"></script>
+  <!-- PapaParse for CSV parsing -->
+  <script src="lib/papaparse.min.js"></script>
+  <!-- SheetJS for local Excel/XLSX file reading -->
+  <script src="lib/xlsx.full.min.js"></script>
+</head>
+<body>
+  <div class="dashboard-card">
+    
+    <!-- Primary Tab Bar & Live EBS Session Control Center -->
+    <div class="main-tab-bar">
+      <div class="main-tab-nav">
+        <button id="tabBtnObservation" class="tab-btn active">
+          📊 BOM Observation Report
+        </button>
+        <button id="tabBtnModification" class="tab-btn">
+          📝 BOM Modification Report
+        </button>
+        <button id="tabBtnCrossVerification" class="tab-btn">
+          ⚖️ Active BOM Cross Verification
+        </button>
+      </div>
+
+      <!-- EBS Live Session Control Center (Login/Logout) -->
+      <div id="ebsAuthWidget" class="ebs-auth-widget logged-out">
+        <div class="ebs-user-pill">
+          <span id="ebsUserDot" class="ebs-user-dot inactive"></span>
+          <span id="ebsUserAvatar" style="font-size: 15px;">🔒</span>
+          <div class="ebs-user-details">
+            <span id="ebsUserTitle" class="ebs-user-title">EBS: Offline</span>
+            <span id="ebsUserSubtitle" class="ebs-user-subtitle">Not Authenticated</span>
+          </div>
+        </div>
+        <div class="ebs-hdr-actions" id="ebsHdrActions">
+          <button type="button" class="ebs-hdr-btn ebs-hdr-btn-login" onclick="openEbsLoginModal()" title="Log in with Employee ID & Password">
+            🔐 EBS Login
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 1: BOM OBSERVATION REPORT -->
+    <div id="tabObservation" class="tab-content">
+      <!-- Top Filter Bar -->
+      <div class="top-filter-bar">
+        <div class="filter-group">
+          <div class="filter-item">
+            <label for="monthSelect">Select Month (2026):</label>
+            <select id="monthSelect" class="custom-select">
+              <option value="Jan 26">January 2026</option>
+              <option value="Feb 26">February 2026</option>
+              <option value="Mar 26">March 2026</option>
+              <option value="April 26">April 2026</option>
+              <option value="May 26">May 2026</option>
+              <option value="Jun 26">June 2026</option>
+              <option value="Jul 26" selected>July 2026</option>
+              <option value="Aug 26">August 2026</option>
+              <option value="Sep 26">September 2026</option>
+              <option value="Oct 26">October 2026</option>
+              <option value="Nov 26">November 2026</option>
+              <option value="Dec 26">December 2026</option>
+            </select>
+          </div>
+
+          <div class="filter-item">
+            <label for="orgSelect">Org:</label>
+            <select id="orgSelect" class="custom-select">
+              <option value="ALL" selected>All (RAC + CAC)</option>
+              <option value="RAC">RAC</option>
+              <option value="CAC">CAC</option>
+            </select>
+          </div>
+
+          <div class="filter-item">
+            <label for="unitSelect">Unit:</label>
+            <select id="unitSelect" class="custom-select">
+              <option value="ALL" selected>All (IDU + ODU)</option>
+              <option value="IDU">IDU</option>
+              <option value="ODU">ODU</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="store-indicator">
+          <span class="pulse-dot"></span>
+          <span>Dynamic Month Store (Jan - Dec 2026)</span>
+        </div>
+
+        <div class="action-buttons">
+          <button id="btnDataSource" class="btn btn-primary" title="Toggle between Benchmark Demo & Live Google Sheet Data">
+            <span id="sourceIcon">📊</span> <span id="sourceModeText">Mode: Live Sheet Data</span>
+          </button>
+          <button id="btnSyncModal" class="btn" title="Sync or change Google Sheet Settings">
+            🔄 Google Sheet Sync
+          </button>
+          <button id="btnUploadLocal" class="btn" title="Upload local Excel or CSV file">
+            📁 Upload File
+          </button>
+          <input type="file" id="localFileInput" accept=".csv, .xlsx, .xls" style="display:none;">
+        </div>
+      </div>
+
+      <!-- Header Section -->
+      <div class="report-header">
+        <div class="report-title-area">
+          <h1>BOM Observation Report</h1>
+          <div class="report-subtitle" id="reportSubtitle">Summary — July 2026 | RAC & CAC</div>
+        </div>
+
+        <!-- Top Right KPI Card -->
+        <div class="kpi-total-card">
+          <div class="kpi-total-num" id="kpiTotalObservations">348</div>
+          <div class="kpi-total-text">
+            <span>Total BOM</span>
+            <span>Observations</span>
+            <span id="kpiMonthText">July 2026</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main Content Grid -->
+      <div class="dashboard-grid">
+        
+        <!-- LEFT COLUMN -->
+        <div class="grid-left">
+          <!-- Summary Comparison Table -->
+          <div class="section-title">Summary Report — Comparison Table</div>
+          <div class="table-wrapper">
+            <table class="comparison-table">
+              <thead>
+                <tr>
+                  <th>Categories</th>
+                  <th>UOM</th>
+                  <th id="thPrevMonth">June 2026</th>
+                  <th id="thCurrMonth">July 2026</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="row-highlight-orange">
+                  <td>BOM vs Physical Observation</td>
+                  <td>Pcs</td>
+                  <td id="tblPrevObservation">280</td>
+                  <td id="tblCurrObservation">348</td>
+                </tr>
+                <tr>
+                  <td>BOM Findings Mail</td>
+                  <td>Pcs</td>
+                  <td id="tblPrevMails">15</td>
+                  <td id="tblCurrMails">19</td>
+                </tr>
+                <tr>
+                  <td>BOM Conversion</td>
+                  <td>Pcs</td>
+                  <td id="tblPrevConversion">47</td>
+                  <td id="tblCurrConversion">75</td>
+                </tr>
+                <tr>
+                  <td>FG BOM Upload</td>
+                  <td>Pcs</td>
+                  <td id="tblPrevFgUpload">110</td>
+                  <td id="tblCurrFgUpload">139</td>
+                </tr>
+                <tr>
+                  <td>SFG BOM Upload</td>
+                  <td>Pcs</td>
+                  <td id="tblPrevSfgUpload">45</td>
+                  <td id="tblCurrSfgUpload">53</td>
+                </tr>
+                <tr class="row-highlight-sum">
+                  <td>BOM Upload SUM</td>
+                  <td></td>
+                  <td id="tblPrevSum">155</td>
+                  <td id="tblCurrSum">192</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Clustered Bar Chart -->
+          <div class="chart-card">
+            <div class="section-title" id="barChartHeader">RAC vs CAC — Total Count by Category (July 2026)</div>
+            <div class="bar-legend">
+              <div><span class="legend-indicator" style="background-color: #1d4ed8;"></span> RAC</div>
+              <div><span class="legend-indicator" style="background-color: #ea580c;"></span> CAC</div>
+            </div>
+            <div class="bar-chart-container">
+              <canvas id="categoryBarChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <!-- RIGHT COLUMN -->
+        <div class="grid-right">
+          <!-- Category Breakdown Donut Chart -->
+          <div class="badge-yellow-title" id="categoryBreakdownBadge">BOM Observation — Category Breakdown (RAC + CAC)</div>
+          <div class="donut-section">
+            <div class="donut-chart-box">
+              <canvas id="categoryDonutChart"></canvas>
+            </div>
+            <div class="donut-legend-list" id="donutLegendContainer">
+              <!-- Populated via JS -->
+            </div>
+          </div>
+
+          <!-- Unit Split & Ratio Section -->
+          <div class="split-ratio-section">
+            <div>
+              <div class="pie-chart-box">
+                <canvas id="racCacPieChart"></canvas>
+              </div>
+              <div class="pie-legend-labels">
+                <div style="color: #1d4ed8;">■ RAC <span id="racPercentLabel">80%</span></div>
+                <div style="color: #ea580c;">■ CAC <span id="cacPercentLabel">20%</span></div>
+              </div>
+            </div>
+
+            <div class="unit-split-container">
+              <div class="unit-split-header">Unit Split — IDU vs ODU</div>
+              <div class="unit-cards-grid">
+                <div class="unit-kpi-card">
+                  <div class="unit-kpi-val" id="valRacIdu">145</div>
+                  <div class="unit-kpi-lbl">RAC • IDU</div>
+                </div>
+                <div class="unit-kpi-card">
+                  <div class="unit-kpi-val" id="valRacOdu">135</div>
+                  <div class="unit-kpi-lbl">RAC • ODU</div>
+                </div>
+                <div class="unit-kpi-card">
+                  <div class="unit-kpi-val" id="valCacIdu">50</div>
+                  <div class="unit-kpi-lbl">CAC • IDU</div>
+                </div>
+                <div class="unit-kpi-card">
+                  <div class="unit-kpi-val" id="valCacOdu">18</div>
+                  <div class="unit-kpi-lbl">CAC • ODU</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Important Note -->
+          <div class="note-section">
+            <div class="note-heading">IMPORTANT NOTE</div>
+            <div class="note-card" id="importantNoteBox">
+              RAC Org. Need To Focus On "Alternative Use"
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- TAB 2: BOM MODIFICATION REPORT -->
+    <div id="tabModification" class="tab-content hidden">
+      
+      <!-- Modification Report Header -->
+      <div class="report-header">
+        <div class="report-title-area">
+          <h1>BOM Modification Report</h1>
+          <div class="report-subtitle">Track Before vs After BOM Quantity Revisions, Deviations & Impacts</div>
+        </div>
+      </div>
+
+      <!-- EBS Live Auto-Sync Status & Action Toolbar -->
+      <div class="ebs-sync-card">
+        <div class="ebs-sync-left">
+          <div class="ebs-status-indicator">
+            <span class="ebs-status-dot"></span>
+            <span class="ebs-status-title">Oracle EBS Auto-Sync</span>
+            <span class="badge-org badge-org-rac">EBS Session</span>
+          </div>
+          <div class="ebs-sync-meta" id="ebsSyncMetaText">
+            Connected: webs.waltonbd.com (mid=594) | Last Synced: 2026-09-16 09:44:22 | 86,604 Components (275 Deviations)
+          </div>
+        </div>
+        <div class="ebs-sync-actions">
+          <button id="btnTriggerEbsSync" class="btn btn-ebs-sync" title="Fetch live Daily BOM from webs.waltonbd.com">
+            <span id="ebsSyncIcon">🔄</span> Sync EBS Daily BOM
+          </button>
+          <button type="button" id="btnStopEbsSync" class="btn" onclick="stopEbsSync()" style="padding: 7px 14px; font-size: 12.5px; font-weight: 600; background: #fff1f2; color: #be123c; border: 1px solid #fecdd3; border-radius: 6px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px;" title="Stop all EBS synchronization and disconnect">
+            <span>🛑</span> Stop EBS Sync
+          </button>
+          <button id="btnLoadLocalEbsFile" class="btn btn-secondary-ebs" title="Load any downloaded BOM_DETAILS.xls file">
+            📂 Load BOM_DETAILS.xls
+          </button>
+          <input type="file" id="ebsFileInput" accept=".xls,.csv,.xlsx,.html" style="display: none;">
+        </div>
+      </div>
+
+      <!-- Filter Panel (Separate Before/After Date, Org, Type, RM Code, RM Name) -->
+      <div class="mod-filter-panel">
+        <div class="mod-filter-grid">
+          <div class="mod-field">
+            <label for="modBeforeDate">Before Date:</label>
+            <input type="date" id="modBeforeDate" class="date-input" value="2026-06-01">
+          </div>
+
+          <div class="mod-field">
+            <label for="modAfterDate">After Date:</label>
+            <input type="date" id="modAfterDate" class="date-input" value="2026-07-31">
+          </div>
+
+          <div class="mod-field">
+            <label for="modOrgInput">Org (Search & Select):</label>
+            <input type="text" id="modOrgInput" class="search-input" list="orgDatalist" placeholder="e.g. RAC, CAC..." autocomplete="off">
+            <datalist id="orgDatalist">
+              <option value="ALL">All (RAC + CAC)</option>
+              <option value="RAC">RAC (Room Air Conditioner)</option>
+              <option value="CAC">CAC (Commercial Air Conditioner)</option>
+            </datalist>
+          </div>
+
+          <div class="mod-field">
+            <label for="modTypeSelect">Search In (Type):</label>
+            <select id="modTypeSelect" class="custom-select">
+              <option value="ALL" selected>All (FG + SFG)</option>
+              <option value="FG">FG Only</option>
+              <option value="SFG">SFG Only</option>
+            </select>
+          </div>
+
+          <div class="mod-field">
+            <label for="modRmCodeInput">RM Code (Search & Suggest):</label>
+            <input type="text" id="modRmCodeInput" class="search-input" list="rmCodeDatalist" placeholder="e.g. 113965..." autocomplete="off">
+            <datalist id="rmCodeDatalist">
+              <!-- Populated dynamically via JS -->
+            </datalist>
+          </div>
+
+          <div class="mod-field">
+            <label for="modRmNameInput">RM Name (Search & Suggest):</label>
+            <input type="text" id="modRmNameInput" class="search-input" list="rmNameDatalist" placeholder="e.g. Copper Tube..." autocomplete="off">
+            <datalist id="rmNameDatalist">
+              <!-- Populated dynamically via JS -->
+            </datalist>
+          </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 14px; flex-wrap: wrap; gap: 10px;">
+          <div>
+            <label class="toggle-deviation-label" title="When checked, shows only models where BOM QTY changed">
+              <input type="checkbox" id="modOnlyDeviations" checked>
+              <span>Only Deviations (Δ ≠ 0)</span>
+            </label>
+          </div>
+          <div style="display: flex; gap: 10px;">
+            <button id="btnExportModCsv" class="btn btn-success">📥 Export CSV</button>
+            <button id="btnResetModFilters" class="btn">🔄 Reset Filters</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- KPI Summary Bar -->
+      <div class="mod-kpi-bar">
+        <div class="mod-kpi-card">
+          <div class="mod-kpi-title">Active Raw Material</div>
+          <div class="mod-kpi-value" id="kpiModRmName" style="font-size: 15px; line-height: 1.3; color: #0284c7;">--</div>
+          <div class="mod-kpi-badge" id="kpiModRmCode">Code: --</div>
+        </div>
+        <div class="mod-kpi-card">
+          <div class="mod-kpi-title">Linked Models</div>
+          <div class="mod-kpi-value" id="kpiModTotalModels">0</div>
+          <div class="mod-kpi-badge">Total Models</div>
+        </div>
+        <div class="mod-kpi-card">
+          <div class="mod-kpi-title">Models with Deviation</div>
+          <div class="mod-kpi-value" id="kpiModDevModels" style="color: #ea580c;">0</div>
+          <div class="mod-kpi-badge">Quantity Revised</div>
+        </div>
+        <div class="mod-kpi-card">
+          <div class="mod-kpi-title">Net Quantity Variance</div>
+          <div class="mod-kpi-value" id="kpiModNetVariance">0.00</div>
+          <div class="mod-kpi-badge" id="kpiModNetVarianceBadge">Δ Total Variance</div>
+        </div>
+      </div>
+
+      <!-- FG Search Bar positioned DIRECTLY above the table -->
+      <div class="table-action-header">
+        <div class="table-header-title">
+          <span>📋 Model Revisions & Deviations</span>
+          <span class="table-badge-counter" id="tableRecordCounter">Showing 0 models</span>
+        </div>
+        <div class="table-search-group">
+          <input type="text" id="tableFgSearch" class="table-fg-search-input" placeholder="🔍 Quick search FG/SFG model name, version, size... (e.g. KRYSTALINE, DIAMOND)">
+        </div>
+      </div>
+
+      <!-- Table Section -->
+      <div class="mod-table-container">
+        <table class="mod-table">
+          <thead>
+            <tr>
+              <th style="width: 35px; text-align: center;">#</th>
+              <th>Org</th>
+              <th>RM Code</th>
+              <th>RM Item Name</th>
+              <th>Product Size</th>
+              <th>Type</th>
+              <th>FG / SFG Model</th>
+              <th>Version</th>
+              <th style="text-align: right;">Before BOM QTY</th>
+              <th style="text-align: right;">After BOM QTY</th>
+              <th style="text-align: center;">Deviation (Δ)</th>
+              <th>Revision Date & Remarks</th>
+            </tr>
+          </thead>
+          <tbody id="modTableBody">
+            <!-- Populated dynamically via JS -->
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+
+    <!-- TAB 3: ACTIVE BOM CROSS VERIFICATION -->
+    <div id="tabCrossVerification" class="tab-content hidden" style="padding: 0; background: transparent;">
+      <div style="display: flex; justify-content: space-between; align-items: center; padding: 12px 18px; background: #ffffff; border-radius: 10px 10px 0 0; border: 1px solid #e2e8f0; border-bottom: none; margin-bottom: 0;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span style="font-size: 20px;">⚖️</span>
+          <div>
+            <strong style="font-size: 15px; color: #0f172a;">Active BOM Cross Verification & Deviation Analyzer</strong>
+            <div style="font-size: 12px; color: #64748b;">Compare BOM versions, single BOM explorer, and RM Where-Used finder</div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 10px; align-items: center;">
+          <a href="bom_cross_verifier.html" target="_blank" class="btn" style="text-decoration: none; padding: 7px 14px; font-size: 12.5px; font-weight: 600; background: #f8fafc; color: #0284c7; border: 1px solid #0284c7; border-radius: 6px; display: inline-flex; align-items: center; gap: 6px;">
+            <span>↗</span> Open in Dedicated Window
+          </a>
+          <button type="button" id="btnReloadCrossFrame" class="btn" style="padding: 7px 12px; font-size: 12px; background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; border-radius: 6px;" title="Reload verification tool">
+            🔄 Reload
+          </button>
+        </div>
+      </div>
+      <iframe id="crossVerificationFrame" src="about:blank" data-src="bom_cross_verifier.html" style="width: 100%; height: calc(100vh - 120px); min-height: 920px; border: 1px solid #e2e8f0; border-radius: 0 0 10px 10px; display: block; background: #ffffff;"></iframe>
+    </div>
+
+  </div>
+
+  <!-- Google Sheet Sync Modal -->
+  <div class="modal-overlay" id="syncModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>Google Sheets Live Data Connection</h3>
+        <button class="modal-close" id="btnCloseModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p style="color: #475569;">Connect directly to your Google Spreadsheet. We fetch published CSV data directly from the <strong>"BOM Findings"</strong> sheet tab:</p>
+        
+        <label style="font-weight: 600; display:block; margin-bottom: 4px;">Spreadsheet URL or ID:</label>
+        <input type="text" id="sheetUrlInput" class="input-field" value="https://docs.google.com/spreadsheets/d/1HzLGHBNKV3X0s07GGHyJrN5znfdVVRXKxCS00b_6020/edit?pli=1&gid=1588891488#gid=1588891488" placeholder="https://docs.google.com/spreadsheets/d/..." />
+        
+        <label style="font-weight: 600; display:block; margin-bottom: 4px; margin-top: 10px;">BOM Findings Tab GID:</label>
+        <input type="text" id="sheetGidInput" class="input-field" value="1588891488" placeholder="1588891488" />
+
+        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
+          <button id="btnFetchSheet" class="btn btn-primary" style="padding: 8px 18px;">
+            ⚡ Fetch & Refresh Live Data
+          </button>
+          <button id="btnCancelModal" class="btn" style="padding: 8px 16px;">Cancel</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Oracle EBS Daily Login Modal -->
+  <div class="modal-overlay" id="ebsPasswordModal">
+    <div class="modal-card" style="max-width: 560px;">
+      <div class="modal-header">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span style="font-size: 24px;">🔐</span>
+          <div>
+            <h3 style="margin: 0; font-size: 16px; color: #0f172a;">Oracle EBS Employee Login</h3>
+            <div style="font-size: 12px; color: #64748b;">Log in once per day with Walton HRMS credentials. Session stays active all day.</div>
+          </div>
+        </div>
+        <button type="button" class="modal-close" id="btnCloseEbsPasswordModal" onclick="closeEbsLoginModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        
+        <div style="background: #f8fafc; border-left: 4px solid #0284c7; padding: 12px 14px; border-radius: 4px; margin-bottom: 16px; font-size: 12.5px; color: #334155; line-height: 1.5;">
+          💡 <strong>Daily Login Policy:</strong> Oracle EBS credentials can be updated here. Logging in once per day retains your session for the rest of today. If Primary ID fails, the Secondary Fallback ID is automatically engaged.
+        </div>
+
+        <!-- Live Auth Status Box -->
+        <div id="ebsModalStatusBox" style="margin-bottom: 16px; padding: 12px 14px; border-radius: 6px; font-size: 13px; font-weight: 600; display: flex; align-items: center; gap: 10px; background: #fff1f2; color: #be123c; border: 1px solid #fecdd3;">
+          <span id="ebsModalStatusIcon" style="font-size: 18px;">⚠️</span>
+          <span id="ebsModalStatusText">Please enter Employee ID & HRMS Password:</span>
+        </div>
+
+        <form id="ebsPasswordForm" onsubmit="submitEbsLogin(); return false;">
+          <!-- Primary Account -->
+          <div id="ebsPrimaryBox" style="background: #ffffff; border: 1.5px solid #0284c7; border-radius: 8px; padding: 14px 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.03);">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+              <strong style="font-size: 13.5px; color: #0f172a;">1️⃣ Primary Account (Default)</strong>
+              <div style="display: flex; gap: 6px;">
+                <span class="badge" style="background: #0284c7; color: #fff; font-size: 10.5px; padding: 2px 8px; border-radius: 999px; font-weight: 700;">Default</span>
+              </div>
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1.6fr; gap: 10px;">
+              <div>
+                <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">Employee ID</label>
+                <input type="text" id="ebsPrimaryUser" class="input-field" placeholder="Enter Primary ID..." style="font-weight: 700;" />
+              </div>
+              <div>
+                <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">HRMS Password</label>
+                <div style="position: relative;">
+                  <input type="password" id="ebsPrimaryPass" class="input-field" placeholder="Enter HRMS password..." onkeydown="if(event.key==='Enter') submitEbsLogin()" />
+                  <button type="button" id="btnTogglePrimaryPass" onclick="togglePasswordVis('ebsPrimaryPass')" style="position: absolute; right: 8px; top: 50%; transform: translateY(-50%); background: none; border: none; cursor: pointer; color: #64748b; font-size: 14px;">👁️</button>
+                </div>
+              </div>
+            </div>
+            <div style="font-size: 11px; color: #64748b; margin-top: 6px;">Primary Corporate Employee Account</div>
+          </div>
+
+          <!-- Secondary Account -->
+          <div id="ebsSecondaryBox" style="background: #ffffff; border: 1.5px solid #e2e8f0; border-radius: 8px; padding: 14px 16px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.03);">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+              <strong style="font-size: 13.5px; color: #0f172a;">2️⃣ Secondary Fallback Account</strong>
+              <div style="display: flex; gap: 6px;">
+                <span class="badge" style="background: #f59e0b; color: #fff; font-size: 10.5px; padding: 2px 8px; border-radius: 999px; font-weight: 700;">Fallback</span>
+              </div>
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1.6fr; gap: 10px;">
+              <div>
+                <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">Employee ID</label>
+                <input type="text" id="ebsSecondaryUser" class="input-field" placeholder="Enter Fallback ID..." style="font-weight: 700;" />
+              </div>
+              <div>
+                <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">HRMS Password</label>
+                <div style="position: relative;">
+                  <input type="password" id="ebsSecondaryPass" class="input-field" placeholder="Enter Fallback password..." onkeydown="if(event.key==='Enter') submitEbsLogin()" />
+                  <button type="button" id="btnToggleSecondaryPass" onclick="togglePasswordVis('ebsSecondaryPass')" style="position: absolute; right: 8px; top: 50%; transform: translateY(-50%); background: none; border: none; cursor: pointer; color: #64748b; font-size: 14px;">👁️</button>
+                </div>
+              </div>
+            </div>
+            <div style="font-size: 11px; color: #64748b; margin-top: 6px;">Secondary Backup / Fallback Account</div>
+          </div>
+
+          <!-- Session Checkbox -->
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px; background: #f8fafc; padding: 8px 12px; border-radius: 6px; border: 1px solid #e2e8f0;">
+            <input type="checkbox" id="chkKeepSessionDay" checked style="width: 16px; height: 16px; cursor: pointer;" />
+            <label for="chkKeepSessionDay" style="font-size: 12.5px; font-weight: 600; color: #334155; cursor: pointer;">
+              Keep session active for today (Once daily login)
+            </label>
+          </div>
+
+          <!-- Actions -->
+          <div style="display: flex; gap: 10px; justify-content: space-between; align-items: center; border-top: 1px solid #e2e8f0; padding-top: 14px;">
+            <div style="display: flex; gap: 8px; align-items: center;">
+              <button type="button" id="btnTestEbsLoginNow" class="btn" onclick="testEbsLogin()" style="padding: 9px 15px; font-size: 12.5px; background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;">
+                <span id="testLoginSpinner">🔍</span> Test Connection
+              </button>
+              <button type="button" id="btnModalLogout" class="btn" onclick="logoutEbs()" style="display: none; padding: 9px 14px; font-size: 12.5px; background: #fff1f2; color: #be123c; border: 1px solid #fecdd3; border-radius: 6px; font-weight: 600; cursor: pointer;">
+                🚪 Log Out
+              </button>
+            </div>
+            <div style="display: flex; gap: 8px;">
+              <button type="button" id="btnCancelEbsPasswordModal" class="btn" onclick="closeEbsLoginModal()" style="padding: 9px 16px; font-size: 12.5px; background: #ffffff; color: #64748b; border: 1px solid #cbd5e1; border-radius: 6px; cursor: pointer;">
+                Close
+              </button>
+              <button type="button" id="btnSaveEbsPassword" class="btn btn-primary" onclick="submitEbsLogin()" style="padding: 9px 20px; font-size: 13px; font-weight: 700; background: #0284c7; color: white; border: none; border-radius: 6px; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 2px 5px rgba(2, 132, 199, 0.3); cursor: pointer;">
+                <span id="loginBtnIcon">🔓</span> Login to Oracle EBS
+              </button>
+            </div>
+          </div>
+        </form>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toastMessage" class="toast-msg">Data successfully updated!</div>
+
+  <!-- Scripts -->
+  <script src="bom_data.js?v=20260916_05"></script>
+  <script src="ebs_daily_bom_data.js?v=20260916_05"></script>
+  <script src="app.js?v=20260916_05"></script>
+
+  <!-- Global EBS Modal Controller (Guaranteed Immediate Availability) -->
+  <script>
+    window.updateEbsHeaderWidget = function(cfg) {
+      var widget = document.getElementById('ebsAuthWidget');
+      var dot = document.getElementById('ebsUserDot');
+      var avatar = document.getElementById('ebsUserAvatar');
+      var title = document.getElementById('ebsUserTitle');
+      var subtitle = document.getElementById('ebsUserSubtitle');
+      var actions = document.getElementById('ebsHdrActions');
+      var modalLogoutBtn = document.getElementById('btnModalLogout');
+
+      if (!widget || !cfg) return;
+
+      var todayStr = new Date().toISOString().split('T')[0];
+      var isToday = cfg.lastLoginDate === todayStr;
+
+      if ((cfg.lastAuthStatus === 'success' || cfg.lastAuthStatus === 'fallback_success') && isToday) {
+        var isFallback = cfg.lastAuthStatus === 'fallback_success';
+        widget.className = isFallback ? 'ebs-auth-widget warning' : 'ebs-auth-widget logged-in';
+        if (dot) dot.className = isFallback ? 'ebs-user-dot warning' : 'ebs-user-dot active';
+        if (avatar) avatar.textContent = '👤';
+        if (title) title.textContent = 'Active: ' + (cfg.activeUser || (isFallback ? 'Fallback User' : 'Primary User'));
+        if (subtitle) subtitle.textContent = isFallback ? 'Fallback Account' : 'Daily Session Active';
+        if (actions) {
+          actions.innerHTML = '<button type="button" class="ebs-hdr-btn ebs-hdr-btn-switch" onclick="openEbsLoginModal()" title="Switch Account or Update Password">🔄 Switch</button>' +
+                              '<button type="button" class="ebs-hdr-btn ebs-hdr-btn-logout" onclick="logoutEbs()" title="Log out from Oracle EBS">🚪 Log Out</button>';
+        }
+        if (modalLogoutBtn) modalLogoutBtn.style.display = 'inline-flex';
+      } else {
+        widget.className = 'ebs-auth-widget logged-out';
+        if (dot) dot.className = 'ebs-user-dot inactive';
+        if (avatar) avatar.textContent = '🔒';
+        if (title) title.textContent = 'EBS: Logged Out';
+        if (subtitle) subtitle.textContent = 'Click to Log In';
+        if (actions) {
+          actions.innerHTML = '<button type="button" class="ebs-hdr-btn ebs-hdr-btn-login" onclick="openEbsLoginModal()" title="Log in with Employee ID & Password">🔐 EBS Login</button>';
+        }
+        if (modalLogoutBtn) modalLogoutBtn.style.display = 'none';
+      }
+    };
+
+    window.logoutEbs = async function() {
+      if (!confirm('Are you sure you want to log out from Oracle EBS session?')) return;
+      try {
+        var res = await fetch('/api/ebs-logout', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({})
+        });
+        var result = await res.json();
+        if (typeof showToast === 'function') {
+          showToast('🚪 Successfully logged out of Oracle EBS.');
+        }
+        if (typeof checkEbsAuthStatus === 'function') {
+          checkEbsAuthStatus();
+        }
+        window.closeEbsLoginModal();
+      } catch (err) {
+        if (typeof showToast === 'function') {
+          showToast('Error logging out from server.');
+        }
+      }
+    };
+
+    window.stopEbsSync = async function() {
+      if (!confirm('Are you sure you want to stop all synchronization from Oracle EBS?')) return;
+      try {
+        var res = await fetch('/api/stop-sync', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({})
+        });
+        var result = await res.json();
+        if (typeof showToast === 'function') {
+          showToast('🛑 Oracle EBS synchronization has been stopped and disabled.');
+        }
+        var meta = document.getElementById('ebsSyncMetaText');
+        if (meta) {
+          meta.textContent = 'Oracle EBS Auto-Sync: Stopped & Disabled (Offline Mode)';
+        }
+        var dot = document.querySelector('.ebs-status-dot');
+        if (dot) dot.style.background = '#94a3b8';
+        if (typeof checkEbsAuthStatus === 'function') {
+          checkEbsAuthStatus();
+        }
+      } catch (err) {
+        if (typeof showToast === 'function') {
+          showToast('🛑 EBS sync stopped.');
+        }
+      }
+    };
+
+    window.openEbsLoginModal = async function() {
+      var modal = document.getElementById('ebsPasswordModal');
+      if (modal) {
+        modal.classList.add('active');
+        modal.style.display = 'flex';
+        modal.style.zIndex = '99999';
+      }
+      var passInput = document.getElementById('ebsPrimaryPass');
+      if (passInput) {
+        setTimeout(function() { passInput.focus(); }, 150);
+      }
+      try {
+        var res = await fetch('/api/ebs-config');
+        var cfg = await res.json();
+        window.updateEbsHeaderWidget(cfg);
+
+        var pUser = document.getElementById('ebsPrimaryUser');
+        var pPass = document.getElementById('ebsPrimaryPass');
+        var sUser = document.getElementById('ebsSecondaryUser');
+        var sPass = document.getElementById('ebsSecondaryPass');
+        if (pUser && cfg.primary && cfg.primary.userId) pUser.value = cfg.primary.userId;
+        if (sUser && cfg.secondary && cfg.secondary.userId) sUser.value = cfg.secondary.userId;
+        if (sPass && cfg.secondary && cfg.secondary.password) sPass.value = cfg.secondary.password;
+
+        var statusBox = document.getElementById('ebsModalStatusBox');
+        var statusIcon = document.getElementById('ebsModalStatusIcon');
+        var statusText = document.getElementById('ebsModalStatusText');
+        var modalLogoutBtn = document.getElementById('btnModalLogout');
+
+        var todayStr = new Date().toISOString().split('T')[0];
+        var isToday = cfg.lastLoginDate === todayStr;
+
+        if (statusBox && statusText && statusIcon) {
+          if ((cfg.lastAuthStatus === 'success' || cfg.lastAuthStatus === 'fallback_success') && isToday) {
+            statusBox.style.background = '#f0fdf4';
+            statusBox.style.borderColor = '#bbf7d0';
+            statusBox.style.color = '#166534';
+            statusIcon.textContent = '🟢';
+            statusText.textContent = 'Active Session: Logged in as Employee ID ' + (cfg.activeUser || 'Active') + ' (Valid for today).';
+            if (modalLogoutBtn) modalLogoutBtn.style.display = 'inline-flex';
+          } else if (cfg.lastAuthStatus === 'fallback_success') {
+            statusBox.style.background = '#fffbeb';
+            statusBox.style.borderColor = '#fde68a';
+            statusBox.style.color = '#92400e';
+            statusIcon.textContent = 'ℹ️';
+            statusText.textContent = 'Connected via Secondary ID: ' + (cfg.activeUser || 'Fallback User') + '.';
+            if (modalLogoutBtn) modalLogoutBtn.style.display = 'inline-flex';
+          } else {
+            statusBox.style.background = '#fff1f2';
+            statusBox.style.borderColor = '#fecdd3';
+            statusBox.style.color = '#be123c';
+            statusIcon.textContent = '⚠️';
+            statusText.textContent = 'Please enter your Employee ID and current HRMS Password below:';
+            if (modalLogoutBtn) modalLogoutBtn.style.display = 'none';
+          }
+        }
+      } catch(e) {}
+    };
+
+    window.closeEbsLoginModal = function() {
+      var modal = document.getElementById('ebsPasswordModal');
+      if (modal) {
+        modal.classList.remove('active');
+        modal.style.display = 'none';
+      }
+    };
+
+    window.togglePasswordVis = function(inputId) {
+      var el = document.getElementById(inputId);
+      if (el) {
+        el.type = el.type === 'password' ? 'text' : 'password';
+      }
+    };
+
+    window.submitEbsLogin = async function() {
+      var btnSave = document.getElementById('btnSaveEbsPassword');
+      var statusBox = document.getElementById('ebsModalStatusBox');
+      var statusIcon = document.getElementById('ebsModalStatusIcon');
+      var statusText = document.getElementById('ebsModalStatusText');
+      var pUser = (document.getElementById('ebsPrimaryUser') && document.getElementById('ebsPrimaryUser').value) ? document.getElementById('ebsPrimaryUser').value.trim() : '';
+      var pPass = (document.getElementById('ebsPrimaryPass') && document.getElementById('ebsPrimaryPass').value) ? document.getElementById('ebsPrimaryPass').value : '';
+      var sUser = (document.getElementById('ebsSecondaryUser') && document.getElementById('ebsSecondaryUser').value) ? document.getElementById('ebsSecondaryUser').value.trim() : '';
+      var sPass = (document.getElementById('ebsSecondaryPass') && document.getElementById('ebsSecondaryPass').value) ? document.getElementById('ebsSecondaryPass').value : '';
+
+      if (btnSave) {
+        btnSave.disabled = true;
+        btnSave.innerHTML = '<span>⏳</span> Logging in...';
+      }
+      if (statusText) statusText.textContent = 'Authenticating with Walton Oracle EBS (webs.waltonbd.com)...';
+
+      try {
+        var res = await fetch('/api/ebs-login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            userId: pUser,
+            password: pPass,
+            fallbackUserId: sUser,
+            fallbackPassword: sPass
+          })
+        });
+        var result = await res.json();
+        var status = result.status || result.lastAuthStatus;
+
+        if (statusBox && statusText && statusIcon) {
+          if (status === 'success') {
+            statusBox.style.background = '#f0fdf4';
+            statusBox.style.borderColor = '#bbf7d0';
+            statusBox.style.color = '#166534';
+            statusIcon.textContent = '🟢';
+            statusText.textContent = 'Login Successful! Authenticated as Employee ID: ' + (result.activeUser || pUser) + '. Active for today.';
+            if (typeof showToast === 'function') showToast('✓ Logged in as ' + (result.activeUser || pUser) + '! Valid for today.');
+            if (typeof checkEbsAuthStatus === 'function') checkEbsAuthStatus();
+            setTimeout(function() { closeEbsLoginModal(); }, 1200);
+          } else if (status === 'fallback_success') {
+            statusBox.style.background = '#fffbeb';
+            statusBox.style.borderColor = '#fde68a';
+            statusBox.style.color = '#92400e';
+            statusIcon.textContent = 'ℹ️';
+            statusText.textContent = 'Primary ID failed. Authenticated using Fallback ID: ' + (result.activeUser || sUser) + '. Active for today.';
+            if (typeof showToast === 'function') showToast('✓ Logged in via Fallback ID ' + (result.activeUser || sUser) + '! Valid for today.');
+            if (typeof checkEbsAuthStatus === 'function') checkEbsAuthStatus();
+            setTimeout(function() { closeEbsLoginModal(); }, 1200);
+          } else {
+            statusBox.style.background = '#fff1f2';
+            statusBox.style.borderColor = '#fecdd3';
+            statusBox.style.color = '#be123c';
+            statusIcon.textContent = '❌';
+            statusText.textContent = 'Login Failed: Invalid Employee ID or HRMS Password. Please re-enter.';
+            if (typeof showToast === 'function') showToast('✗ Login Failed. Please check Employee ID & Password.');
+            if (typeof checkEbsAuthStatus === 'function') checkEbsAuthStatus();
+          }
+        }
+      } catch(err) {
+        if (statusText) statusText.textContent = 'Connection error reaching server.';
+      } finally {
+        if (btnSave) {
+          btnSave.disabled = false;
+          btnSave.innerHTML = '<span id="loginBtnIcon">🔓</span> Login to Oracle EBS';
+        }
+      }
+    };
+
+    window.testEbsLogin = async function() {
+      var btnTest = document.getElementById('btnTestEbsLoginNow');
+      var spinner = document.getElementById('testLoginSpinner');
+      var statusBox = document.getElementById('ebsModalStatusBox');
+      var statusIcon = document.getElementById('ebsModalStatusIcon');
+      var statusText = document.getElementById('ebsModalStatusText');
+      var pUser = (document.getElementById('ebsPrimaryUser') && document.getElementById('ebsPrimaryUser').value) ? document.getElementById('ebsPrimaryUser').value.trim() : '';
+      var pPass = (document.getElementById('ebsPrimaryPass') && document.getElementById('ebsPrimaryPass').value) ? document.getElementById('ebsPrimaryPass').value : '';
+      var sUser = (document.getElementById('ebsSecondaryUser') && document.getElementById('ebsSecondaryUser').value) ? document.getElementById('ebsSecondaryUser').value.trim() : '';
+      var sPass = (document.getElementById('ebsSecondaryPass') && document.getElementById('ebsSecondaryPass').value) ? document.getElementById('ebsSecondaryPass').value : '';
+
+      if (btnTest) btnTest.disabled = true;
+      if (spinner) spinner.textContent = '⏳';
+      if (statusText) statusText.textContent = 'Testing connection with Oracle EBS...';
+
+      try {
+        var res = await fetch('/api/ebs-login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            userId: pUser,
+            password: pPass,
+            fallbackUserId: sUser,
+            fallbackPassword: sPass
+          })
+        });
+        var result = await res.json();
+        var status = result.status || result.lastAuthStatus;
+
+        if (statusBox && statusText && statusIcon) {
+          if (status === 'success') {
+            statusBox.style.background = '#f0fdf4';
+            statusBox.style.borderColor = '#bbf7d0';
+            statusBox.style.color = '#166534';
+            statusIcon.textContent = '🟢';
+            statusText.textContent = 'Connection Verified! Connected as Employee ID ' + (result.activeUser || pUser) + '.';
+            if (typeof checkEbsAuthStatus === 'function') checkEbsAuthStatus();
+          } else if (status === 'fallback_success') {
+            statusBox.style.background = '#fffbeb';
+            statusBox.style.borderColor = '#fde68a';
+            statusBox.style.color = '#92400e';
+            statusIcon.textContent = 'ℹ️';
+            statusText.textContent = 'Primary failed. Connected via Fallback ID ' + (result.activeUser || sUser) + '.';
+            if (typeof checkEbsAuthStatus === 'function') checkEbsAuthStatus();
+          } else {
+            statusBox.style.background = '#fff1f2';
+            statusBox.style.borderColor = '#fecdd3';
+            statusBox.style.color = '#be123c';
+            statusIcon.textContent = '❌';
+            statusText.textContent = 'Connection test failed: Rejected by Walton EBS.';
+            if (typeof checkEbsAuthStatus === 'function') checkEbsAuthStatus();
+          }
+        }
+      } catch(e) {
+        if (statusText) statusText.textContent = 'Connection error.';
+      } finally {
+        if (btnTest) btnTest.disabled = false;
+        if (spinner) spinner.textContent = '🔍';
+      }
+    };
+
+    // Initialize header widget state on load
+    document.addEventListener('DOMContentLoaded', function() {
+      fetch('/api/ebs-config')
+        .then(function(r) { return r.json(); })
+        .then(function(cfg) { window.updateEbsHeaderWidget(cfg); })
+        .catch(function() {});
+    });
+  </script>
+</body>
+</html>

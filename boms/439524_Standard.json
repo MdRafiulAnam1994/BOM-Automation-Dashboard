@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "439524",
+    "ItemName":  "Compressor Jacket 24M OEM Inv. Top Part-245*220mm(2 Layer)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  33.46,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "276622",
+                           "RmName":  "Cotton Thread (RM)",
+                           "UOM":  "PCS",
+                           "Qty":  0.00322,
+                           "Price":  47.63,
+                           "Value":  0.1533686
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "387352",
+                           "RmName":  "Rubber Sheet (Thickness: 2.0mm)",
+                           "UOM":  "SQM",
+                           "Qty":  0.051678,
+                           "Price":  486.755,
+                           "Value":  25.15452489
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "314100",
+                           "RmName":  "Cotton Wool (Recycled Demin), (40000*1590*5)mm",
+                           "UOM":  "ROL",
+                           "Qty":  0.000773438,
+                           "Price":  10543.639,
+                           "Value":  8.154851060882
+                       }
+                   ]
+}

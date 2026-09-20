@@ -1,0 +1,121 @@
+﻿{
+    "ItemCode":  "231473",
+    "ItemName":  "18K Inverter Indoor Power Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  253.26,
+    "TotalRMCount":  10,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113692",
+                           "RmName":  "Titanium Dioxide Rutile TI-Pure R 350/Tiona-288",
+                           "UOM":  "KG",
+                           "Qty":  0.000151131,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114122",
+                           "RmName":  "Processing Additive for Masterbatch  BYK-P 4102/MAX-P-4102/PLASTAID-T/120D/500D",
+                           "UOM":  "KG",
+                           "Qty":  0.0001282,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113963",
+                           "RmName":  "Flame Retardant Masterbatch-FR 2126/FR-2100/FR-165/FR-1049/061/060",
+                           "UOM":  "KG",
+                           "Qty":  0.001216,
+                           "Price":  1221.714,
+                           "Value":  1.485604224
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128753",
+                           "RmName":  "Microlen Black Pigment-0062 MC",
+                           "UOM":  "KG",
+                           "Qty":  0.0002311,
+                           "Price":  674.065,
+                           "Value":  0.1557764215
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195279",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3X1.5 rm(30/0.25 mm) - gray",
+                           "UOM":  "MTR",
+                           "Qty":  2.02,
+                           "Price":  104.565,
+                           "Value":  211.2213
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "293897",
+                           "RmName":  "Hollow Plug Insert 250V, 16A, P/N: B35N1",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  22.977,
+                           "Value":  23.89608
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "100180",
+                           "RmName":  "PVC Soft Compound Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.0469522,
+                           "Price":  164.966,
+                           "Value":  7.7455166252
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  2.344,
+                           "Value":  2.43776
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.084,
+                           "Price":  6.153,
+                           "Value":  0.516852
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  2.788,
+                           "Value":  5.79904
+                       }
+                   ]
+}

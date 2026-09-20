@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "231480",
+    "ItemName":  "24K Non Inverter Indoor Service Cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  989.39,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195281",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3X2.5 rm(50/0.25 mm)-gray",
+                           "UOM":  "MTR",
+                           "Qty":  5.033,
+                           "Price":  191.999,
+                           "Value":  966.330967
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255175",
+                           "RmName":  "Barcode Blank Label (Common for A)-PET-42mm*10mm",
+                           "UOM":  "PCS",
+                           "Qty":  6,
+                           "Price":  0.085,
+                           "Value":  0.51
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.344,
+                           "Value":  4.71144
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.006,
+                           "Price":  2.322,
+                           "Value":  4.657932
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "158247",
+                           "RmName":  "Barcode Ribbon-AC(45mmx300M)",
+                           "UOM":  "ROL",
+                           "Qty":  0.000705,
+                           "Price":  453.619,
+                           "Value":  0.319801395
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.949,
+                           "Value":  5.92749
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.084,
+                           "Price":  6.169,
+                           "Value":  0.518196
+                       }
+                   ]
+}

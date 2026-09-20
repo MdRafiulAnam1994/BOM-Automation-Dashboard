@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "511288",
+    "ItemName":  "Non Inverter High Pressure Switch Cable (Red)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  29.87,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195271",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.909,
+                           "Price":  23.175,
+                           "Value":  21.066075
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  3.192,
+                           "Value":  3.31968
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  2.322,
+                           "Value":  2.41488
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112762",
+                           "RmName":  "Straight Blade Connector 187(1.25rm), China, (STO-1.0T-187N-5)",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  0.89,
+                           "Value":  0.9256
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112761",
+                           "RmName":  "Straight PVC Cap 187(1.25rm)",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  0.49,
+                           "Value":  0.5096
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482279",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3 mm- for 1.0rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.03,
+                           "Price":  10.83,
+                           "Value":  0.3249
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.03,
+                           "Price":  43.682,
+                           "Value":  1.31046
+                       }
+                   ]
+}

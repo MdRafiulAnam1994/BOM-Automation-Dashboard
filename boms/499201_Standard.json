@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "499201",
+    "ItemName":  "B IDU Air Filter Net",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  35.32,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.05284,
+                           "Price":  139.813,
+                           "Value":  7.38771892
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.00069,
+                           "Price":  268.159,
+                           "Value":  0.18502971
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134048",
+                           "RmName":  "Air Filter Net-360mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.399,
+                           "Price":  69.542,
+                           "Value":  27.747258
+                       }
+                   ]
+}

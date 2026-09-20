@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "510312",
+    "ItemName":  "Corner Pillar Right 32HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  336.82,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.5725,
+                           "Price":  130.932,
+                           "Value":  336.82257
+                       }
+                   ]
+}

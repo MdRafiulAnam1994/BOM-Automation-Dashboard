@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "521700",
+    "ItemName":  "28HP VRF ODU TB to Filter PCB#2 Line Cable (10 rm)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  304.18,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "515868",
+                           "RmName":  "Ring Terminal R-Type (R 8-6)",
+                           "UOM":  "PCS",
+                           "Qty":  6.24,
+                           "Price":  29.87,
+                           "Value":  186.3888
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482281",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 7 mm- for 10rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.1056,
+                           "Price":  22.69,
+                           "Value":  2.396064
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.1056,
+                           "Price":  43.682,
+                           "Value":  4.6128192
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113039",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube   10mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.165,
+                           "Price":  10.221,
+                           "Value":  1.686465
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "488182",
+                           "RmName":  "Flexible Cable 10 RM (Blue)",
+                           "UOM":  "MTR",
+                           "Qty":  0.182,
+                           "Price":  212.286,
+                           "Value":  38.636052
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "488185",
+                           "RmName":  "Flexible Cable 10 RM (Yellow)",
+                           "UOM":  "MTR",
+                           "Qty":  0.172,
+                           "Price":  210.947,
+                           "Value":  36.282884
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "488186",
+                           "RmName":  "Flexible Cable 10 RM (Red)",
+                           "UOM":  "MTR",
+                           "Qty":  0.162,
+                           "Price":  210.947,
+                           "Value":  34.173414
+                       }
+                   ]
+}

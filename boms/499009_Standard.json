@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "499009",
+    "ItemName":  "28HP VRF ODU TB to Filter PCB#2 Line Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  85.53,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429564",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 6 rm(84/0.30mm) Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.162,
+                           "Price":  118.74,
+                           "Value":  19.23588
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429565",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 6 rm(84/0.30mm) Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.172,
+                           "Price":  128.425,
+                           "Value":  22.0891
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429566",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 6 rm(84/0.30mm) Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.182,
+                           "Price":  130.731,
+                           "Value":  23.793042
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "234466",
+                           "RmName":  "Insulated Copper Lugs (O-Type) 6 Rm",
+                           "UOM":  "PCS",
+                           "Qty":  6.24,
+                           "Price":  2.284,
+                           "Value":  14.25216
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.121,
+                           "Price":  43.682,
+                           "Value":  5.285522
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "523954",
+                           "RmName":  "Heat Shrinkable Ferrule Tube (White) Inner Dia: 6mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.121,
+                           "Price":  7.22,
+                           "Value":  0.87362
+                       }
+                   ]
+}

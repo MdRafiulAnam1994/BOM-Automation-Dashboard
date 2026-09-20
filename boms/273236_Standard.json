@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "273236",
+    "ItemName":  "48K/60K ODU Short Cable-1",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  94.83,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195276",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x2.5 rm (50/0.25 mm)-Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.505,
+                           "Price":  55.625,
+                           "Value":  28.090625
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195277",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x2.5 rm (50/0.25 mm)-Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.505,
+                           "Price":  41.825,
+                           "Value":  21.121625
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "384564",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 2.5 rm(50/0.25mm) Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.505,
+                           "Price":  54.338,
+                           "Value":  27.44069
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.126,
+                           "Price":  6.153,
+                           "Value":  0.775278
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  6.24,
+                           "Price":  2.788,
+                           "Value":  17.39712
+                       }
+                   ]
+}

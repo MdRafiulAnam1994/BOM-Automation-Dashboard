@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "496628",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSN18BMB1-DMXX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  59701.53,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "519454",
+                           "RmName":  "Coated Sheet Metal and Condenser of WSN12AJB2-DMXX-0206",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  2719.107,
+                           "Value":  2719.107
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "519453",
+                           "RmName":  "Coated Sheet Metal and Condenser of WSN18BMB1-DMXX-0509",
+                           "UOM":  "PCS",
+                           "Qty":  11,
+                           "Price":  5180.22,
+                           "Value":  56982.42
+                       }
+                   ]
+}

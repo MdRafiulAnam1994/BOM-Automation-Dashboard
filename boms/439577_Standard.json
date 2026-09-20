@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "439577",
+    "ItemName":  "Capsule Plastic Display Cover",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  3.67,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.02510625,
+                           "Price":  139.813,
+                           "Value":  3.51018013125
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "175953",
+                           "RmName":  "Paste Color Master Batch WM-WPE 25001",
+                           "UOM":  "KG",
+                           "Qty":  0.00071875,
+                           "Price":  218.761,
+                           "Value":  0.15723446875
+                       }
+                   ]
+}

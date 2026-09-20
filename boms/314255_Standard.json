@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "314255",
+    "ItemName":  "Upper Panel 20HP-0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  232.49,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.077359037,
+                           "Price":  111.916,
+                           "Value":  232.489713984892
+                       }
+                   ]
+}

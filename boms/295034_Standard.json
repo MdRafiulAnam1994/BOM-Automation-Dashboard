@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "295034",
+    "ItemName":  "Evaporator Clamp D Side (10H) -OC-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  8.04,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.07,
+                           "Price":  114.828,
+                           "Value":  8.03796
+                       }
+                   ]
+}

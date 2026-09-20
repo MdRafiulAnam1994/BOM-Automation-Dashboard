@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "363589",
+    "ItemName":  "Left Side Panel- H (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  150.65,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.132,
+                           "Price":  133.084,
+                           "Value":  150.651088
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "291135",
+    "ItemName":  "Valve Side Panel 2 -Z (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  625.61,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  5.448232515,
+                           "Price":  114.828,
+                           "Value":  625.60964323242
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "231495",
+    "ItemName":  "Terminal Cover 24K",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  13.7,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124289",
+                           "RmName":  "Abs Resin Fr V0/MW100 015 (Natural Color)",
+                           "UOM":  "KG",
+                           "Qty":  0.0338125,
+                           "Price":  405.105,
+                           "Value":  13.6976128125
+                       }
+                   ]
+}

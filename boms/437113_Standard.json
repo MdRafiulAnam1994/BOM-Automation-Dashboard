@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "437113",
+    "ItemName":  "1.5TR/2TR Cassette Evaporator End Connecting Clamp - OEM - 0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  44.54,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.397992,
+                           "Price":  111.916,
+                           "Value":  44.541672672
+                       }
+                   ]
+}

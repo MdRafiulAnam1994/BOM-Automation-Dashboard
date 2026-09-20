@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "516080",
+    "ItemName":  "Indoor Base - FRD - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1069.48,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  9.313759614,
+                           "Price":  114.828,
+                           "Value":  1069.4803889563921
+                       }
+                   ]
+}

@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "304416",
+    "ItemName":  "36K OEM Short Cable-2",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  20.95,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195928",
+                           "RmName":  "1X2.5 rm Flex Cable WCP- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.3535,
+                           "Price":  25.003,
+                           "Value":  8.8385605
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "223756",
+                           "RmName":  "Cable 1X2.5rm Red (BYA) Marcel",
+                           "UOM":  "MTR",
+                           "Qty":  0.3535,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.084,
+                           "Price":  6.153,
+                           "Value":  0.516852
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  2.788,
+                           "Value":  11.59808
+                       }
+                   ]
+}

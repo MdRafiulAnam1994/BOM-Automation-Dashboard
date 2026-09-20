@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "518556",
+    "ItemName":  "A IDU 5mm Evaporator Plastic Support",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  15.91,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "147981",
+                           "RmName":  "PP Compound WC-PGF30(Walton Made)",
+                           "UOM":  "KG",
+                           "Qty":  0.07977515,
+                           "Price":  193.435,
+                           "Value":  15.43130614025
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.00178066,
+                           "Price":  268.159,
+                           "Value":  0.47750000494
+                       }
+                   ]
+}

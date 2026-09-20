@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "535639",
+    "ItemName":  "Compressor Jacket Outer Part 18H-2122/1722 ((Black Polyester Wool: 730*250)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  162.5,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "276622",
+                           "RmName":  "Cotton Thread (RM)",
+                           "UOM":  "PCS",
+                           "Qty":  0.00812,
+                           "Price":  47.63,
+                           "Value":  0.3867556
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "387352",
+                           "RmName":  "Rubber Sheet (Thickness: 2.0mm)",
+                           "UOM":  "SQM",
+                           "Qty":  0.1825,
+                           "Price":  486.755,
+                           "Value":  88.8327875
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "519553",
+                           "RmName":  "Cotton Wool (Recycled Demin), (20000*1590*10) mm",
+                           "UOM":  "ROL",
+                           "Qty":  0.00620834,
+                           "Price":  10921.777,
+                           "Value":  67.80610502018
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "406102",
+                           "RmName":  "Velcro 25mm For AC",
+                           "UOM":  "COL",
+                           "Qty":  0.0121017,
+                           "Price":  452.178,
+                           "Value":  5.4721225026
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282152",
+    "ItemName":  "24K Evaporator Left Side Clamp Part 1_(0.70t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  3.05,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.027295,
+                           "Price":  111.916,
+                           "Value":  3.05474722
+                       }
+                   ]
+}

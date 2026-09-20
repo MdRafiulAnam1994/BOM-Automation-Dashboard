@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282195",
+    "ItemName":  "Top panel-A (1.2t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  339.46,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "193795",
+                           "RmName":  "Aluzinc/HDGS Sheet (1.2x780)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.28,
+                           "Price":  148.888,
+                           "Value":  339.46464
+                       }
+                   ]
+}

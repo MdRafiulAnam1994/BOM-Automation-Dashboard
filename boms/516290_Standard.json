@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "516290",
+    "ItemName":  "Freddo Indoor Louver Stepper Motor Bush",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.2,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113423",
+                           "RmName":  "Poly Acetal Copolymer Resin (POM) K300/CE66/M90-44",
+                           "UOM":  "KG",
+                           "Qty":  0.0009,
+                           "Price":  219.247,
+                           "Value":  0.1973223
+                       }
+                   ]
+}

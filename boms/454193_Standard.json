@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "454193",
+    "ItemName":  "Strainer 8.45mm (OD) X 3.2mm (ID) [OD30mm X L125mm]",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  165.68,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "251105",
+                           "RmName":  "Mesh (28x40)mm",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  26.379,
+                           "Value":  27.43416
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255383",
+                           "RmName":  "Copper Tube (30x1x1950)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.0916,
+                           "Price":  1509.24,
+                           "Value":  138.246384
+                       }
+                   ]
+}

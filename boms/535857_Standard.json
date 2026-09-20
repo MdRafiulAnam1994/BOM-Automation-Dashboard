@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "535857",
+    "ItemName":  "18K D IDU Vertical vane Guide",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  3.34,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113423",
+                           "RmName":  "Poly Acetal Copolymer Resin (POM) K300/CE66/M90-44",
+                           "UOM":  "KG",
+                           "Qty":  0.014971,
+                           "Price":  219.247,
+                           "Value":  3.282346837
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000201306,
+                           "Price":  268.159,
+                           "Value":  0.053982015654
+                       }
+                   ]
+}

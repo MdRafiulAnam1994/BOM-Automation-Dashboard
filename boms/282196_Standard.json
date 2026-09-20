@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282196",
+    "ItemName":  "Top panel-F,M (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  170.3,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222359",
+                           "RmName":  "Aluzinc Sheet (0.6x1250)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.2978,
+                           "Price":  131.223,
+                           "Value":  170.3012094
+                       }
+                   ]
+}

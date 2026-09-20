@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "499219",
+    "ItemName":  "IDU Wire Clip Top \u0026 Bottom",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  0.78,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.00343,
+                           "Price":  139.813,
+                           "Value":  0.47955859
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113963",
+                           "RmName":  "Flame Retardant Masterbatch-FR 2126/FR-2100/FR-165/FR-1049/061/060",
+                           "UOM":  "KG",
+                           "Qty":  0.00021,
+                           "Price":  1437.966,
+                           "Value":  0.30197286
+                       }
+                   ]
+}

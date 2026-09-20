@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "521698",
+    "ItemName":  "16HP VRF ODU Reactor Cable (10 rm)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  861.26,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "515868",
+                           "RmName":  "Ring Terminal R-Type (R 8-6)",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  29.87,
+                           "Value":  124.2592
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "233999",
+                           "RmName":  "Fiber Tube ID-16",
+                           "UOM":  "MTR",
+                           "Qty":  1.05,
+                           "Price":  45.397,
+                           "Value":  47.66685
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482281",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 7 mm- for 10rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.0968,
+                           "Price":  22.69,
+                           "Value":  2.196392
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0968,
+                           "Price":  43.682,
+                           "Value":  4.2284176
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113039",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube   10mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.11,
+                           "Price":  10.221,
+                           "Value":  1.12431
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "488186",
+                           "RmName":  "Flexible Cable 10 RM (Red)",
+                           "UOM":  "MTR",
+                           "Qty":  3.232,
+                           "Price":  210.947,
+                           "Value":  681.780704
+                       }
+                   ]
+}

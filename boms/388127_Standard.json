@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "388127",
+    "ItemName":  "30K Non Inevrter ODU Earthing cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  44.19,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "363063",
+                           "RmName":  "Ring Type Connector RV 3.5-4",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  8.666,
+                           "Value":  17.41866
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "403168",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1 x 3.0 rm(110/0.190mm) Yellow-Green",
+                           "UOM":  "MTR",
+                           "Qty":  0.4032,
+                           "Price":  66.386,
+                           "Value":  26.7668352
+                       }
+                   ]
+}

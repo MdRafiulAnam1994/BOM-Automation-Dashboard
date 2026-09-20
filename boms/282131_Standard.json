@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282131",
+    "ItemName":  "12K Evaporator Left Side Clamp Part 1_(0.7t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  2.45,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.021851,
+                           "Price":  111.916,
+                           "Value":  2.445476516
+                       }
+                   ]
+}

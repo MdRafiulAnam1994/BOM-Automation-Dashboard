@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "436843",
+    "ItemName":  "Front panel-M (0.5t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456352",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.5x1100)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.302038,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

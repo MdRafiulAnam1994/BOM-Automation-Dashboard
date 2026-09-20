@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484069",
+    "ItemName":  "HexaComb Indoor Top Base Styrofoam",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  142.83,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124281",
+                           "RmName":  "Expandable Polystyrene-Resin E-S/250FC/271BL",
+                           "UOM":  "KG",
+                           "Qty":  0.91011375,
+                           "Price":  156.941,
+                           "Value":  142.83416203875
+                       }
+                   ]
+}

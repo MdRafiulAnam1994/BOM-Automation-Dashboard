@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "403633",
+    "ItemName":  "Tube Stand 3 16HP-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  50.88,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.4,
+                           "Price":  127.198,
+                           "Value":  50.8792
+                       }
+                   ]
+}

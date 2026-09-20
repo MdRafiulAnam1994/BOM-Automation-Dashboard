@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282130",
+    "ItemName":  "12K Evaporator Fitting Clamp(1t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  2.59,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222357",
+                           "RmName":  "Aluzinc Sheet (1.00x1160)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.023142,
+                           "Price":  111.933,
+                           "Value":  2.590353486
+                       }
+                   ]
+}

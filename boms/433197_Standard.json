@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "433197",
+    "ItemName":  "VRF ODU SV-4 Coil with Connector",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  537.69,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222938",
+                           "RmName":  "Solenoid Valve Coil (Model:FQ-509), 220-240V",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  407.777,
+                           "Value":  424.08808
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "250613",
+                           "RmName":  "Connector Model: JS-1121-03 (Red)",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  109.229,
+                           "Value":  113.59816
+                       }
+                   ]
+}

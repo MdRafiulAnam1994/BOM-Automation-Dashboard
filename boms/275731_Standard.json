@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "275731",
+    "ItemName":  "VRF ODU Fire Alarm Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  86.25,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "233994",
+                           "RmName":  "Cable Gray Colour AWG24",
+                           "UOM":  "MTR",
+                           "Qty":  0.08,
+                           "Price":  16.041,
+                           "Value":  1.28328
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "250603",
+                           "RmName":  "Connector Model: JST XAP-02v",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  81.695,
+                           "Value":  84.9628
+                       }
+                   ]
+}

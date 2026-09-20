@@ -1,0 +1,231 @@
+﻿{
+    "ItemCode":  "481249",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WCI48ZBD2-HXXX",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  50327.79,
+    "TotalRMCount":  20,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "284254",
+                           "RmName":  "KONGTOP WALTON 0.5 REMOTE -  WK14-T01",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  235.989,
+                           "Value":  471.978
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "451497",
+                           "RmName":  "Broad Ocean 100W IDU AC Motor, Model: Y6S820C501",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2582.461,
+                           "Value":  5164.922
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "270458",
+                           "RmName":  "VRF Hexacomb Stepper Motor (Model: 24BYJ48), 12V, D-24mm,L-200mm",
+                           "UOM":  "PCS",
+                           "Qty":  6,
+                           "Price":  120.31,
+                           "Value":  721.86
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "270461",
+                           "RmName":  "VRF Hexacomb Stepper Motor Connection Wire, 26AWG (Connector 4 x SM-5Y 1 x XH-5Y) L-1000mm",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  252.555,
+                           "Value":  505.11
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "164543",
+                           "RmName":  "Drain Pump for Hexacomb,10.8W, Model: PSB12A19, Connector-VH",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  1286.263,
+                           "Value":  5145.052
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "451720",
+                           "RmName":  "Float Switch for Hexacomb, D/N: YKG-A01010-514,L-900mm, Connector: VH-2N",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  284.434,
+                           "Value":  1137.736
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "456052",
+                           "RmName":  "New Hexacomb IDU Control PCB, Model: HICG140WA-RUC",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  2370.683,
+                           "Value":  7112.049
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "266517",
+                           "RmName":  "Hexa-comb IDU Room Temperature Sensor (TR), Model: KTM41",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  77.132,
+                           "Value":  231.396
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "266518",
+                           "RmName":  "Hexa-comb IDU Coil Temperature Sensor (TE), Model: KTEC51",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  58.792,
+                           "Value":  176.376
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "114043",
+                           "RmName":  "Capacitor 5uf, 450V",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  88.404,
+                           "Value":  265.212
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "380267",
+                           "RmName":  "Hexacomb Digital Display PCB HD140WA-B",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  414.401,
+                           "Value":  1243.203
+                       },
+                       {
+                           "SL":  12,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "405826",
+                           "RmName":  "48K Inverter ODU Logic PCB, HLG140WA-RS4UC",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  1714.07,
+                           "Value":  3428.14
+                       },
+                       {
+                           "SL":  13,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "405828",
+                           "RmName":  "48K Inverter ODU Compressor Driver, Hiker140WA-RS4UC(120)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  19356.904,
+                           "Value":  19356.904
+                       },
+                       {
+                           "SL":  14,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417520",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-1(TA), R-10K",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  58.752,
+                           "Value":  176.256
+                       },
+                       {
+                           "SL":  15,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417522",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-2(TSU),  R-10K",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  58.526,
+                           "Value":  175.578
+                       },
+                       {
+                           "SL":  16,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417523",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-3(TD), R-50K",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  58.533,
+                           "Value":  175.599
+                       },
+                       {
+                           "SL":  17,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417524",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-4(TC), R-10K",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  58.219,
+                           "Value":  174.657
+                       },
+                       {
+                           "SL":  18,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "443416",
+                           "RmName":  "Broad Ocean 75W Double Speed AC Motor with VH Connector, RPM 880/600, Model: Y6S696C547",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2275.865,
+                           "Value":  4551.73
+                       },
+                       {
+                           "SL":  19,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "149555",
+                           "RmName":  "Capacitor 4uF 450V",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  36.923,
+                           "Value":  110.769
+                       },
+                       {
+                           "SL":  20,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "190031",
+                           "RmName":  "AC Carton Sticker Paper (90x160)mm",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  1.087,
+                           "Value":  3.261
+                       }
+                   ]
+}

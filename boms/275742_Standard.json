@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "275742",
+    "ItemName":  "VRF ODU CrankCase Heater #2",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  557.71,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112996",
+                           "RmName":  "Connector  CE-5",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  6.018,
+                           "Value":  12.51744
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482279",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3 mm- for 1.0rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.0315,
+                           "Price":  10.83,
+                           "Value":  0.341145
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423607",
+                           "RmName":  "Crank Case Heater (Match-Well), 220VAC, 33W, 1745 Ohm, Body: 486mm, Cable: 300mm, Spring: 43.5mm, Model: MQW JRD-240V",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  268.71,
+                           "Value":  537.42
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0315,
+                           "Price":  43.682,
+                           "Value":  1.375983
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.042,
+                           "Price":  6.153,
+                           "Value":  0.258426
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  2.788,
+                           "Value":  5.79904
+                       }
+                   ]
+}

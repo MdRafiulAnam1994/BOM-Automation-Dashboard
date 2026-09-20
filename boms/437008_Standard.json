@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "437008",
+    "ItemName":  "24K F2 PCB and Fan Stand Support Clamp - M(1.2t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  9.61,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.0735,
+                           "Price":  130.781,
+                           "Value":  9.6124035
+                       }
+                   ]
+}

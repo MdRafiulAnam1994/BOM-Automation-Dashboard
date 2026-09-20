@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "361685",
+    "ItemName":  "Indoor Base 18K Black (HIPS)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  332.67,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124284",
+                           "RmName":  "HIPS Resin-4440/476L/PS 350/325/MA5210/S834/RT441M/3331/HI650/HP835G",
+                           "UOM":  "KG",
+                           "Qty":  1.903676231,
+                           "Price":  154.105,
+                           "Value":  293.366025578255
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113757",
+                           "RmName":  "Styroflex Resin  2G 66",
+                           "UOM":  "KG",
+                           "Qty":  0.076903,
+                           "Price":  417.121,
+                           "Value":  32.077856263
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.026936,
+                           "Price":  268.159,
+                           "Value":  7.223130824
+                       }
+                   ]
+}

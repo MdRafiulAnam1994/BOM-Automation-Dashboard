@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "463748",
+    "ItemName":  "Evaporator Support Clamp 14kW Ceiling- 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  13.61,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.11852,
+                           "Price":  114.828,
+                           "Value":  13.60941456
+                       }
+                   ]
+}

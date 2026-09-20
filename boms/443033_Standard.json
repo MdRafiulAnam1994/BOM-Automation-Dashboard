@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "443033",
+    "ItemName":  "Top Panel- J (0.5t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  105.4,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456353",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.5x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.87,
+                           "Price":  121.151,
+                           "Value":  105.40137
+                       }
+                   ]
+}

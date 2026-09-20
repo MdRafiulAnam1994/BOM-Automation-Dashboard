@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "491589",
+    "ItemName":  "M ODU Valve Stand Cover",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  13.51,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.093417258,
+                           "Price":  139.787,
+                           "Value":  13.058518244046
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255911",
+                           "RmName":  "PP Ivory CMR-02201609",
+                           "UOM":  "KG",
+                           "Qty":  0.001770492,
+                           "Price":  253.959,
+                           "Value":  0.449632377828
+                       }
+                   ]
+}

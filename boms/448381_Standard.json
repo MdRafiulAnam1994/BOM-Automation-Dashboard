@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "448381",
+    "ItemName":  "12K Solar Inverter Power Cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  450.33,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195280",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3X1.0 rm(32/0.20 mm) -gray",
+                           "UOM":  "MTR",
+                           "Qty":  5.045,
+                           "Price":  87.539,
+                           "Value":  441.634255
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  2.344,
+                           "Value":  2.35572
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.949,
+                           "Value":  5.92749
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0672,
+                           "Price":  6.169,
+                           "Value":  0.4145568
+                       }
+                   ]
+}

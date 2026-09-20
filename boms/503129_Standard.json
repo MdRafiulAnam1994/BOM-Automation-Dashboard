@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "503129",
+    "ItemName":  "RAC Digital Warranty Card - SFG",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  3.09,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "365967",
+                           "RmName":  "Art Paper (23\"*36\") - 150 GSM",
+                           "UOM":  "PCS",
+                           "Qty":  0.17,
+                           "Price":  11.771,
+                           "Value":  2.00107
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361090",
+                           "RmName":  "INK (Cyan)",
+                           "UOM":  "LB",
+                           "Qty":  0.000375,
+                           "Price":  402.175,
+                           "Value":  0.150815625
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361091",
+                           "RmName":  "INK (Magenta)",
+                           "UOM":  "LB",
+                           "Qty":  0.000375,
+                           "Price":  397.554,
+                           "Value":  0.14908275
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361092",
+                           "RmName":  "INK (Yellow)",
+                           "UOM":  "LB",
+                           "Qty":  0.000375,
+                           "Price":  400.292,
+                           "Value":  0.1501095
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361093",
+                           "RmName":  "INK (Black)",
+                           "UOM":  "LB",
+                           "Qty":  0.000375,
+                           "Price":  386.427,
+                           "Value":  0.144910125
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "402389",
+                           "RmName":  "Laminated Plastic Film- 900mm",
+                           "UOM":  "KG",
+                           "Qty":  0.001072,
+                           "Price":  348.95,
+                           "Value":  0.3740744
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "368115",
+                           "RmName":  "Bainder Glue",
+                           "UOM":  "KG",
+                           "Qty":  0.00051,
+                           "Price":  239.59,
+                           "Value":  0.1221909
+                       }
+                   ]
+}

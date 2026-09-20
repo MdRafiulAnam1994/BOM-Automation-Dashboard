@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310973",
+    "ItemName":  "Blower Cover 3.5k FCU-0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  222.16,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.985032789,
+                           "Price":  111.916,
+                           "Value":  222.156929613724
+                       }
+                   ]
+}

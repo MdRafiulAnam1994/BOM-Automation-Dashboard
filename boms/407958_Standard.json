@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "407958",
+    "ItemName":  "Separation Panel-Z-MCHX (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  312.68,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.723,
+                           "Price":  114.828,
+                           "Value":  312.676644
+                       }
+                   ]
+}

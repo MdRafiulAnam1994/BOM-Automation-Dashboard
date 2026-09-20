@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "282232",
+    "ItemName":  "Electric Box -E (0.7t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  131.23,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128374",
+                           "RmName":  "Electric Rivet Nut",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  2.12,
+                           "Value":  8.48
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.0968,
+                           "Price":  111.916,
+                           "Value":  122.7494688
+                       }
+                   ]
+}

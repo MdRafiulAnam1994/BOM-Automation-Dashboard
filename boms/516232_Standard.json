@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "516232",
+    "ItemName":  "48W Motor (Match-Well) SFG",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2368.96,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271851",
+                           "RmName":  "Plastic Terminal JS 1121-07",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  27.258,
+                           "Value":  28.34832
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271850",
+                           "RmName":  "Metal Connector, Model: JS 1121-T",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  3.618,
+                           "Value":  15.05088
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "419226",
+                           "RmName":  "AC Motor 48W (Match-Well), Model: YF110-48-4S32, 230VAC, 50Hz",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  2325.563,
+                           "Value":  2325.563
+                       }
+                   ]
+}

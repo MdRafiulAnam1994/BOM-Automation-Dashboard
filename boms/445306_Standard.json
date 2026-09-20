@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "445306",
+    "ItemName":  "Microchannel Condenser Clamp Right-J (0.7t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  23.17,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.207,
+                           "Price":  111.916,
+                           "Value":  23.166612
+                       }
+                   ]
+}

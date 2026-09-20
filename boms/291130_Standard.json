@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "291130",
+    "ItemName":  "Front Panel-Z (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1174.82,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  10.2311397,
+                           "Price":  114.828,
+                           "Value":  1174.8213094716
+                       }
+                   ]
+}

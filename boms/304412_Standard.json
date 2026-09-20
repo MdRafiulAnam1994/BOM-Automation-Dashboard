@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "304412",
+    "ItemName":  "36K OEM Phase Sequence Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  67.74,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.303,
+                           "Price":  23.106,
+                           "Value":  7.001118
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195266",
+                           "RmName":  "1x1.0 rm Cable WCP Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.303,
+                           "Price":  17.24,
+                           "Value":  5.22372
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "223739",
+                           "RmName":  "Cable 1X1.0rm Blue Marcel",
+                           "UOM":  "MTR",
+                           "Qty":  0.303,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "223741",
+                           "RmName":  "Cable 1X1.0rm Red Marcel",
+                           "UOM":  "MTR",
+                           "Qty":  0.303,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "271850",
+                           "RmName":  "Metal Connector, Model: JS 1121-T",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  3.618,
+                           "Value":  15.05088
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "271851",
+                           "RmName":  "Plastic Terminal JS 1121-07",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  27.258,
+                           "Value":  28.34832
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.084,
+                           "Price":  6.153,
+                           "Value":  0.516852
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  2.788,
+                           "Value":  11.59808
+                       }
+                   ]
+}

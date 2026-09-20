@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311006",
+    "ItemName":  "Evaporator Upper Clamp 19.25k FCU-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  147.95,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.288411855,
+                           "Price":  114.828,
+                           "Value":  147.94575648594
+                       }
+                   ]
+}

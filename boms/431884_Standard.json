@@ -1,0 +1,121 @@
+﻿{
+    "ItemCode":  "431884",
+    "ItemName":  "Marcel Common User Manual",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  13.79,
+    "TotalRMCount":  10,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "365967",
+                           "RmName":  "Art Paper (23\"*36\") - 150 GSM",
+                           "UOM":  "PCS",
+                           "Qty":  0.1313,
+                           "Price":  11.771,
+                           "Value":  1.5455323
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "365957",
+                           "RmName":  "Art Paper (23\"*36\") - 100 GSM",
+                           "UOM":  "PCS",
+                           "Qty":  1.275,
+                           "Price":  8.171,
+                           "Value":  10.418025
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "376551",
+                           "RmName":  "Offset Paper (120GSM) 23\u0027*36\u0027",
+                           "UOM":  "PCS",
+                           "Qty":  0.1313,
+                           "Price":  10.562,
+                           "Value":  1.3867906
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361090",
+                           "RmName":  "INK (Cyan)",
+                           "UOM":  "LB",
+                           "Qty":  2.242E-05,
+                           "Price":  402.175,
+                           "Value":  0.0090167635
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361091",
+                           "RmName":  "INK (Magenta)",
+                           "UOM":  "LB",
+                           "Qty":  2.242E-05,
+                           "Price":  397.554,
+                           "Value":  0.00891316068
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361092",
+                           "RmName":  "INK (Yellow)",
+                           "UOM":  "LB",
+                           "Qty":  2.242E-05,
+                           "Price":  400.292,
+                           "Value":  0.00897454664
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361093",
+                           "RmName":  "INK (Black)",
+                           "UOM":  "LB",
+                           "Qty":  0.00031385,
+                           "Price":  386.427,
+                           "Value":  0.12128011395
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "402389",
+                           "RmName":  "Laminated Plastic Film- 900mm",
+                           "UOM":  "KG",
+                           "Qty":  0.00042,
+                           "Price":  348.95,
+                           "Value":  0.146559
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "368115",
+                           "RmName":  "Bainder Glue",
+                           "UOM":  "KG",
+                           "Qty":  0.00038,
+                           "Price":  239.59,
+                           "Value":  0.0910442
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "372684",
+                           "RmName":  "Stapler Pin For Manual Book (24/6)",
+                           "UOM":  "PKG",
+                           "Qty":  0.002,
+                           "Price":  24.873,
+                           "Value":  0.049746
+                       }
+                   ]
+}

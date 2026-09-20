@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "299220",
+    "ItemName":  "VRF 10HP ODU SV-2 Coil with Connector",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  533.75,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222938",
+                           "RmName":  "Solenoid Valve Coil (Model:FQ-509), 220-240V",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  407.777,
+                           "Value":  407.777
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "250605",
+                           "RmName":  "Connector Model: JS-1121-07 (White)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  124.258,
+                           "Value":  124.258
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482279",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3 mm- for 1.0rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.0315,
+                           "Price":  10.83,
+                           "Value":  0.341145
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0315,
+                           "Price":  43.682,
+                           "Value":  1.375983
+                       }
+                   ]
+}

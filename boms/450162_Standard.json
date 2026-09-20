@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "450162",
+    "ItemName":  "Drain Pump Stand Base 5.6K-F 0.6t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  9.66,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222359",
+                           "RmName":  "Aluzinc Sheet (0.6x1250)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.0736088,
+                           "Price":  131.223,
+                           "Value":  9.6591675624
+                       }
+                   ]
+}

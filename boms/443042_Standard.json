@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "443042",
+    "ItemName":  "Outdoor Electric Box INV-J (0.5t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  4.36,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128374",
+                           "RmName":  "Electric Rivet Nut",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2.117,
+                           "Value":  4.234
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456352",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.5x1100)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.001,
+                           "Price":  125.355,
+                           "Value":  0.125355
+                       }
+                   ]
+}

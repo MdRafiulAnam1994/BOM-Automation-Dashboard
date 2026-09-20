@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310995",
+    "ItemName":  "Blower Lock 19.25k FCU-1.5t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  4.73,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.038105897,
+                           "Price":  124.203,
+                           "Value":  4.732866725091
+                       }
+                   ]
+}

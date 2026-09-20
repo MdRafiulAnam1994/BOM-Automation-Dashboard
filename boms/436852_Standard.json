@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "436852",
+    "ItemName":  "Outdoor Fan (Dia:454mm)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  189.57,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113521",
+                           "RmName":  "ABS Resin GP2200",
+                           "UOM":  "KG",
+                           "Qty":  0.6845643,
+                           "Price":  262.543,
+                           "Value":  179.7275650149
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.0136857,
+                           "Price":  267.754,
+                           "Value":  3.6644009178
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112903",
+                           "RmName":  "Balance Punch",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2.401,
+                           "Value":  4.802
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.009221,
+                           "Price":  127.198,
+                           "Value":  1.172892758
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "150261",
+                           "RmName":  "Super Glue (Love Bond)",
+                           "UOM":  "PCS",
+                           "Qty":  0.00484,
+                           "Price":  42.253,
+                           "Value":  0.20450452
+                       }
+                   ]
+}

@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "365863",
+    "ItemName":  "28 mm Insulation Pipe-12K/1 Ton (Length 770 mm)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  53.92,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271720",
+                           "RmName":  "Eva Foam 25T, Specification-(9X1250)mmX25M",
+                           "UOM":  "ROL",
+                           "Qty":  0.003979,
+                           "Price":  13311.561,
+                           "Value":  52.966701219
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113432",
+                           "RmName":  "LLDPE Resin Q2018H/218WJ",
+                           "UOM":  "KG",
+                           "Qty":  0.002886345,
+                           "Price":  137.127,
+                           "Value":  0.395795830815
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "185679",
+                           "RmName":  "HDPE Resin FI0750 SABIC",
+                           "UOM":  "KG",
+                           "Qty":  0.002886345,
+                           "Price":  138.561,
+                           "Value":  0.399934849545
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114790",
+                           "RmName":  "LP Gas (Cylinder Size - 45KG)",
+                           "UOM":  "KG",
+                           "Qty":  0.000865801,
+                           "Price":  112.983,
+                           "Value":  0.097820794383
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249643",
+                           "RmName":  "ABS UV Stabilizer Master Batch",
+                           "UOM":  "KG",
+                           "Qty":  0.00011781,
+                           "Price":  477.221,
+                           "Value":  0.05622140601
+                       }
+                   ]
+}

@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "151610",
+    "ItemName":  "Walton ABS light Grey Masterbatch",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  252.06,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114149",
+                           "RmName":  "Light Stabilizer Uvinul 4050.",
+                           "UOM":  "KG",
+                           "Qty":  0.002,
+                           "Price":  2936.883,
+                           "Value":  5.873766
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114003",
+                           "RmName":  "Anti-Oxidant Additive Irganox B 900/VB Additive-9088",
+                           "UOM":  "KG",
+                           "Qty":  0.003,
+                           "Price":  812.367,
+                           "Value":  2.437101
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113426",
+                           "RmName":  "Resin-SAN Grade 82TR/A20C 333/310 NTR",
+                           "UOM":  "KG",
+                           "Qty":  0.738,
+                           "Price":  212.456,
+                           "Value":  156.792528
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114122",
+                           "RmName":  "Processing Additive for Masterbatch  BYK-P 4102/MAX-P-4102/PLASTAID-T/120D/500D",
+                           "UOM":  "KG",
+                           "Qty":  0.005,
+                           "Price":  1654.648,
+                           "Value":  8.27324
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128753",
+                           "RmName":  "Microlen Black Pigment-0062 MC",
+                           "UOM":  "KG",
+                           "Qty":  0.0017,
+                           "Price":  679.666,
+                           "Value":  1.1554322
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113692",
+                           "RmName":  "Titanium Dioxide Rutile TI-Pure R 350/Tiona-288",
+                           "UOM":  "KG",
+                           "Qty":  0.25,
+                           "Price":  310.121,
+                           "Value":  77.53025
+                       }
+                   ]
+}

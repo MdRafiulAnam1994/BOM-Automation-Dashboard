@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "518638",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI12BHB2-PGID",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  3200.32,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "462855",
+                           "RmName":  "RAC 18K Dual UART Inverter IDU PCB BLDC Motor, P/N: M18H2IHIDZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  215.242,
+                           "Value":  215.242
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "307921",
+                           "RmName":  "Digital Display PCB, Model: MD50WA-TFT",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  840.801,
+                           "Value":  840.801
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "148198",
+                           "RmName":  "Stepper Motor 24BYJ48-2286",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  121.764,
+                           "Value":  121.764
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123431",
+                           "RmName":  "IDU Sensor Coil TEMP  10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  449.705,
+                           "Value":  449.705
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123432",
+                           "RmName":  "IDU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  447.605,
+                           "Value":  447.605
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123429",
+                           "RmName":  "ODU Sensor Coil TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  451.563,
+                           "Value":  451.563
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123428",
+                           "RmName":  "ODU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  451.488,
+                           "Value":  451.488
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "469208",
+                           "RmName":  "RAC 18K Single UART Inverter IDU PCB BLDC Motor, P/N: M18H3IHIDZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  222.157,
+                           "Value":  222.157
+                       }
+                   ]
+}

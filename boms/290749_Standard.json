@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "290749",
+    "ItemName":  "Wooden Pallet 60K/48K/36K/30K ODU",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  247.55,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "124219",
+                           "RmName":  "Gorjon Plywood (2440x1220x18)mm",
+                           "UOM":  "PCS",
+                           "Qty":  0.06,
+                           "Price":  2216,
+                           "Value":  132.96
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "131909",
+                           "RmName":  "Wood(Mehogony)",
+                           "UOM":  "CFT",
+                           "Qty":  0.07,
+                           "Price":  1350,
+                           "Value":  94.5
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "141269",
+                           "RmName":  "Nail T-50",
+                           "UOM":  "BOX",
+                           "Qty":  0.1,
+                           "Price":  200.912,
+                           "Value":  20.0912
+                       }
+                   ]
+}

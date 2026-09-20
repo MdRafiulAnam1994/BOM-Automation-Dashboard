@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "239409",
+    "ItemName":  "12K Non Inv Outdoor Compressor Cable (Without Logo)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  65.04,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195271",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.51,
+                           "Price":  23.175,
+                           "Value":  11.81925
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195269",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.345,
+                           "Price":  18.475,
+                           "Value":  6.373875
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195272",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Green",
+                           "UOM":  "MTR",
+                           "Qty":  0.375,
+                           "Price":  13.388,
+                           "Value":  5.0205
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "123597",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube   OD: 3mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.155,
+                           "Price":  4.808,
+                           "Value":  0.74524
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113049",
+                           "RmName":  "Ampair Tube  10mm",
+                           "UOM":  "PCS",
+                           "Qty":  0.22,
+                           "Price":  14.72,
+                           "Value":  3.2384
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  3.015,
+                           "Price":  3.192,
+                           "Value":  9.62388
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  3.009,
+                           "Price":  2.322,
+                           "Value":  6.986898
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423605",
+                           "RmName":  "Right Angle Blade Connector 0101404661 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.015,
+                           "Price":  2.792,
+                           "Value":  8.41788
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423604",
+                           "RmName":  "Sleeve for Right Angle Connector-TH250 KM-2 UL-G JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.03,
+                           "Price":  4.228,
+                           "Value":  12.81084
+                       }
+                   ]
+}

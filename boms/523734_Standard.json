@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "523734",
+    "ItemName":  "Fan Stand -H (1.2t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  250.4,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456349",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.2x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.11446,
+                           "Price":  118.425,
+                           "Value":  250.4049255
+                       }
+                   ]
+}

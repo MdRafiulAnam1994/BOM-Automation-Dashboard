@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "422019",
+    "ItemName":  "UV Care",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1388.74,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ST AC",
+                           "MinorCategory":  "SFG ST AC",
+                           "RmCode":  "282197",
+                           "RmName":  "UVC IDU clamp-Common (0.7t)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  2.893,
+                           "Value":  2.893
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "151633",
+                           "RmName":  "Pan Phillips (#4) M3-24x7 Self Tapping Screw (AB)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.046,
+                           "Value":  0.092
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "251106",
+                           "RmName":  "Connector for UVC Module, Model: PHR2.0",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  86.948,
+                           "Value":  86.948
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "238430",
+                           "RmName":  "UVC Light  Model: CMW-FCE-CO1C",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  645.1,
+                           "Value":  1290.2
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "178531",
+                           "RmName":  "Close End Connector",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  4.301,
+                           "Value":  8.602
+                       }
+                   ]
+}

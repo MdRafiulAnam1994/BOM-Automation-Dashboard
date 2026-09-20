@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484065",
+    "ItemName":  "Round Safety Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1.27,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "100180",
+                           "RmName":  "PVC Soft Compound Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.007714744,
+                           "Price":  164.966,
+                           "Value":  1.272670458704
+                       }
+                   ]
+}

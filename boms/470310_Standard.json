@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "470310",
+    "ItemName":  "7 mm Condenser Clamp D Side-J (0.7t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  10.69,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.09555,
+                           "Price":  111.916,
+                           "Value":  10.6935738
+                       }
+                   ]
+}

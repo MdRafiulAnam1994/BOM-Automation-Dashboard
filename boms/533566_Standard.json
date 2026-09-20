@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "533566",
+    "ItemName":  "Cable tie 100mm (SFG)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  0.12,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124380",
+                           "RmName":  "Nylon Resin/Polymide ULT A3SK/N200SL PA66",
+                           "UOM":  "KG",
+                           "Qty":  0.00027,
+                           "Price":  428.282,
+                           "Value":  0.11563614
+                       }
+                   ]
+}

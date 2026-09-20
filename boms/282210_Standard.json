@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282210",
+    "ItemName":  "Fan Stand -G (1.5t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  501.38,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.036776,
+                           "Price":  124.203,
+                           "Value":  501.379689528
+                       }
+                   ]
+}

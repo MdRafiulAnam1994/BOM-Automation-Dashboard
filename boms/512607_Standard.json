@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "512607",
+    "ItemName":  "Muffler 7.8mm (OD) X 9.5mm (OD) [OD 30mm X L125mm]-Without Mesh",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  163.49,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255383",
+                           "RmName":  "Copper Tube (30x1x1950)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.0916,
+                           "Price":  1784.863,
+                           "Value":  163.4934508
+                       }
+                   ]
+}

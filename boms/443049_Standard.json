@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "443049",
+    "ItemName":  "ODU PCB \u0026 Fan stand Support- J (0.8t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  0.11,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456358",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.8x1120)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.001,
+                           "Price":  112.089,
+                           "Value":  0.112089
+                       }
+                   ]
+}

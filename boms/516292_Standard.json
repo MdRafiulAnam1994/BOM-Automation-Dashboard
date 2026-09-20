@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "516292",
+    "ItemName":  "Freddo Indoor Air Filter Net",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  313,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124284",
+                           "RmName":  "HIPS Resin-4440/476L/PS 350/325/MA5210/S834/RT441M/3331/HI650/HP835G",
+                           "UOM":  "KG",
+                           "Qty":  0.1411,
+                           "Price":  154.118,
+                           "Value":  21.7460498
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.0025,
+                           "Price":  267.754,
+                           "Value":  0.669385
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "515225",
+                           "RmName":  "Air Filter Net-260mm, Material - PP",
+                           "UOM":  "MTR",
+                           "Qty":  3.354,
+                           "Price":  86.638,
+                           "Value":  290.583852
+                       }
+                   ]
+}

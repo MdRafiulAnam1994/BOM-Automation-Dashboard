@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310898",
+    "ItemName":  "Left Side Panel 14k-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  180.55,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.571835885,
+                           "Price":  114.864,
+                           "Value":  180.54735709464
+                       }
+                   ]
+}

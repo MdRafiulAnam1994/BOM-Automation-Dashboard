@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "507698",
+    "ItemName":  "MCHX Condenser Clamp 2 -G (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  63.23,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.55068,
+                           "Price":  114.828,
+                           "Value":  63.23348304
+                       }
+                   ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "527717",
+    "ItemName":  "5TR ODU Driver PCB Protection Cover V1",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  185.26,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113424",
+                           "RmName":  "HIPS Resin Extrusion-2710/2157/8265/LG-309/HP-825S/ICE S900/ET-65/H835/R-940D /HI470R/SH-03/PH-88S/HI-615/ 632E/D-6007/HP945S",
+                           "UOM":  "KG",
+                           "Qty":  0.928125,
+                           "Price":  180.977,
+                           "Value":  167.969278125
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "288707",
+                           "RmName":  "Walton Made HIPS Deep Bluish White MB",
+                           "UOM":  "KG",
+                           "Qty":  0.061875,
+                           "Price":  279.412,
+                           "Value":  17.2886175
+                       }
+                   ]
+}

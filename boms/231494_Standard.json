@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "231494",
+    "ItemName":  "Terminal Cover 18K",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.87,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "193089",
+                           "RmName":  "ABS Protect (O) White Masterbatch CMR-08191281",
+                           "UOM":  "KG",
+                           "Qty":  2.9814E-05,
+                           "Price":  883.247,
+                           "Value":  0.026333126058
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.004676604,
+                           "Price":  180.143,
+                           "Value":  0.842457474372
+                       }
+                   ]
+}

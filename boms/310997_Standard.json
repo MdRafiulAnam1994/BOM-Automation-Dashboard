@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310997",
+    "ItemName":  "Blower Bottom panel 19.25k FCU-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  473.35,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.122228619,
+                           "Price":  114.828,
+                           "Value":  473.347267862532
+                       }
+                   ]
+}

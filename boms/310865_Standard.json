@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310865",
+    "ItemName":  "Pipe Front Cover 7.1k-0.6t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  48.26,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222359",
+                           "RmName":  "Aluzinc Sheet (0.6x1250)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.367756037,
+                           "Price":  131.223,
+                           "Value":  48.258050443251
+                       }
+                   ]
+}

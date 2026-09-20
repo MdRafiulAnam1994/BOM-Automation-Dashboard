@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "314250",
+    "ItemName":  "Front Right Panel 20HP-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  959.11,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  8.35,
+                           "Price":  114.864,
+                           "Value":  959.1144
+                       }
+                   ]
+}

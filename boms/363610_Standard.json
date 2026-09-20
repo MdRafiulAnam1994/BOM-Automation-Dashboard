@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "363610",
+    "ItemName":  "Outdoor Plastic Front Net H",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  124.57,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255911",
+                           "RmName":  "PP Ivory CMR-02201609",
+                           "UOM":  "KG",
+                           "Qty":  0.021393,
+                           "Price":  253.959,
+                           "Value":  5.432944887
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.7373,
+                           "Price":  139.787,
+                           "Value":  103.0649551
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113421",
+                           "RmName":  "Calcium Filler Compound Resin(Masterbatch1262/4300) PP80/DS-TCB/HP2580R/VCP80I",
+                           "UOM":  "KG",
+                           "Qty":  0.319984,
+                           "Price":  50.219,
+                           "Value":  16.069276496
+                       }
+                   ]
+}

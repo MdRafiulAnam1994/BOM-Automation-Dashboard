@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "460632",
+    "ItemName":  "Dead Cap Male 6mm (1/4\u0027)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  0.47,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.000996999,
+                           "Price":  139.813,
+                           "Value":  0.139393421187
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113871",
+                           "RmName":  "Resin Milastomer  5030BS  MITSUI \u0026 CO",
+                           "UOM":  "KG",
+                           "Qty":  0.000678,
+                           "Price":  486.307,
+                           "Value":  0.329716146
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "175953",
+                           "RmName":  "Paste Color Master Batch WM-WPE 25001",
+                           "UOM":  "KG",
+                           "Qty":  2.0001E-05,
+                           "Price":  218.761,
+                           "Value":  0.004375438761
+                       }
+                   ]
+}

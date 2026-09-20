@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "499922",
+    "ItemName":  "B IDU Aroma Decoration Parts (Left+Right)-ABS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  22.37,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "123557",
+                           "RmName":  "UV paint Base Coat",
+                           "UOM":  "KG",
+                           "Qty":  0.0088,
+                           "Price":  1250.712,
+                           "Value":  11.0062656
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "113987",
+                           "RmName":  "UV paint Top Coat",
+                           "UOM":  "KG",
+                           "Qty":  0.0056,
+                           "Price":  1237.456,
+                           "Value":  6.9297536
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "128501",
+                           "RmName":  "Aluminium Coil",
+                           "UOM":  "KG",
+                           "Qty":  6E-05,
+                           "Price":  2649.59,
+                           "Value":  0.1589754
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "128696",
+                           "RmName":  "Tungsten wire",
+                           "UOM":  "KG",
+                           "Qty":  0.00014,
+                           "Price":  9683.638,
+                           "Value":  1.35570932
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "113475",
+                           "RmName":  "Isopropanol (IPA)",
+                           "UOM":  "KG",
+                           "Qty":  0.0008,
+                           "Price":  290.633,
+                           "Value":  0.2325064
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "135563",
+                           "RmName":  "Thinner Walton made-88 (KG)",
+                           "UOM":  "KG",
+                           "Qty":  0.00056,
+                           "Price":  452.95,
+                           "Value":  0.253652
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.0002,
+                           "Price":  78.005,
+                           "Value":  0.015601
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "123584",
+                           "RmName":  "Plasticoat Thinner-613 .",
+                           "UOM":  "KG",
+                           "Qty":  0.00032,
+                           "Price":  460.786,
+                           "Value":  0.14745152
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.0126,
+                           "Price":  179.99,
+                           "Value":  2.267874
+                       }
+                   ]
+}

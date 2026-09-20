@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "473994",
+    "ItemName":  "MCHX Condenser Clamp 02 U Side-D (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  74.91,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.652339391,
+                           "Price":  114.828,
+                           "Value":  74.906827589748
+                       }
+                   ]
+}

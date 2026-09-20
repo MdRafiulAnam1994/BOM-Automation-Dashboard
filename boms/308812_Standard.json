@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "308812",
+    "ItemName":  "VRF Ceiling AC Motor - 120 Watt",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  4130.45,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "366562",
+                           "RmName":  "Blower Motor for 5 Ton Ceiling (STO), Model: YSK120-120-4C, 120W, 230V, 50Hz",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  3961.064,
+                           "Value":  4119.50656
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "252842",
+                           "RmName":  "Conncector, Model: JS-1121-05(White)",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  5.009,
+                           "Value":  5.20936
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  3.192,
+                           "Value":  3.31968
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  2.322,
+                           "Value":  2.41488
+                       }
+                   ]
+}

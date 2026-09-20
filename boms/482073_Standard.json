@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "482073",
+    "ItemName":  "SAFE BEW-NC12KRNV ODU Carton",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  74.01,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "293247",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 1610mm (63.4\")",
+                           "UOM":  "KG",
+                           "Qty":  0.30458,
+                           "Price":  88.979,
+                           "Value":  27.10122382
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "293255",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 1610mm (63.4\")",
+                           "UOM":  "KG",
+                           "Qty":  0.73708,
+                           "Price":  56.769,
+                           "Value":  41.84329452
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.04229,
+                           "Price":  43,
+                           "Value":  1.81847
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.00257,
+                           "Price":  94.207,
+                           "Value":  0.24211199
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.00094,
+                           "Price":  70.38,
+                           "Value":  0.0661572
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.0009,
+                           "Price":  149.171,
+                           "Value":  0.1342539
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113481",
+                           "RmName":  "Screen Print Ink-Black",
+                           "UOM":  "KG",
+                           "Qty":  0.00053,
+                           "Price":  241.32,
+                           "Value":  0.1278996
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.01039,
+                           "Price":  258.011,
+                           "Value":  2.68073429
+                       }
+                   ]
+}

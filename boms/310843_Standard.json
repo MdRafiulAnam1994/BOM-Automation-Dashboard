@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310843",
+    "ItemName":  "Separator Panel 5.6k-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  195.03,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.698419967,
+                           "Price":  114.828,
+                           "Value":  195.026167970676
+                       }
+                   ]
+}

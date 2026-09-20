@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "297688",
+    "ItemName":  "Walton HIPS Pure White Master Batch WM-WPS 36 (Double Doze)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  333.55,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "167021",
+                           "RmName":  "HIPS Resin for Milky white MB-3351/HPS-800/HPS-800R",
+                           "UOM":  "KG",
+                           "Qty":  0.699972756,
+                           "Price":  219.004,
+                           "Value":  153.296833455024
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114003",
+                           "RmName":  "Anti-Oxidant Additive Irganox B 900/VB Additive-9088",
+                           "UOM":  "KG",
+                           "Qty":  0.0026265,
+                           "Price":  812.367,
+                           "Value":  2.1336819255
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114122",
+                           "RmName":  "Processing Additive for Masterbatch  BYK-P 4102/MAX-P-4102/PLASTAID-T/120D/500D",
+                           "UOM":  "KG",
+                           "Qty":  0.0131325,
+                           "Price":  1654.648,
+                           "Value":  21.72966486
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113772",
+                           "RmName":  "PE Wax Luwax A (Powder) /VB Additive-9087/PR-700/Finawax-E/Finalux G-151/PE-H110A",
+                           "UOM":  "KG",
+                           "Qty":  0.010506,
+                           "Price":  447.523,
+                           "Value":  4.701676638
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114149",
+                           "RmName":  "Light Stabilizer Uvinul 4050.",
+                           "UOM":  "KG",
+                           "Qty":  0.001071612,
+                           "Price":  2936.883,
+                           "Value":  3.147199065396
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113691",
+                           "RmName":  "Titanium Dioxide Rutile TI-Pure R-104/2220/2450/Tiona-288",
+                           "UOM":  "KG",
+                           "Qty":  0.320433,
+                           "Price":  379.917,
+                           "Value":  121.737944061
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114262",
+                           "RmName":  "Optical Brightner(Hostalux/Tinopal Ob/Telalux KSI P) /VB Additive-9078",
+                           "UOM":  "KG",
+                           "Qty":  0.0026265,
+                           "Price":  10122.263,
+                           "Value":  26.5861237695
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113981",
+                           "RmName":  "Ultramarine Blue  FG-75/Resunplas 465/AL-31177",
+                           "UOM":  "KG",
+                           "Qty":  0.000231132,
+                           "Price":  919.282,
+                           "Value":  0.212475487224
+                       }
+                   ]
+}

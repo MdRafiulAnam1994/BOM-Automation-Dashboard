@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "524139",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI18BHB2-PGID",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  2647.03,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "462855",
+                           "RmName":  "RAC 18K Dual UART Inverter IDU PCB BLDC Motor, P/N: M18H2IHIDZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  215.242,
+                           "Value":  215.242
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "307921",
+                           "RmName":  "Digital Display PCB, Model: MD50WA-TFT",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  840.801,
+                           "Value":  840.801
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430122",
+                           "RmName":  "12K \u0026 18K Inverter F4 Common ODU PCB, P/N: M18F4ICOAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1590.985,
+                           "Value":  1590.985
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "476452",
+    "ItemName":  "Drain Pan Bottom Panel-5.5TR FCU-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  610.56,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.66317,
+                           "Price":  130.932,
+                           "Value":  610.55817444
+                       }
+                   ]
+}

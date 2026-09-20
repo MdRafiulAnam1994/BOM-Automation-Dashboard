@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "476802",
+    "ItemName":  "Control Kit CB  Box 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  98.75,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.86,
+                           "Price":  114.828,
+                           "Value":  98.75208
+                       }
+                   ]
+}

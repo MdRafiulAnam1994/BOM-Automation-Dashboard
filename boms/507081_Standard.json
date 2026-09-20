@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "507081",
+    "ItemName":  "PCB Sheet 16HP Compact - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  183.78,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.6,
+                           "Price":  114.864,
+                           "Value":  183.7824
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282186",
+    "ItemName":  "Right Side Panel- B/C (0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  242.21,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.82,
+                           "Price":  133.084,
+                           "Value":  242.21288
+                       }
+                   ]
+}

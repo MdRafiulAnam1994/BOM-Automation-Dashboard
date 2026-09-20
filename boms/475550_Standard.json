@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "475550",
+    "ItemName":  "FCU Control KIT Assembly Cable Set",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  157.3,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271851",
+                           "RmName":  "Plastic Terminal JS 1121-07",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  27.258,
+                           "Value":  28.34832
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271850",
+                           "RmName":  "Metal Connector, Model: JS 1121-T",
+                           "UOM":  "PCS",
+                           "Qty":  6.24,
+                           "Price":  3.618,
+                           "Value":  22.57632
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112942",
+                           "RmName":  "VH Connector Housing  VHR-3N",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  1.604,
+                           "Value":  1.66816
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195271",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.9595,
+                           "Price":  23.175,
+                           "Value":  22.2364125
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.9595,
+                           "Price":  23.106,
+                           "Value":  22.170207
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195269",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.404,
+                           "Price":  18.471,
+                           "Value":  7.462284
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195266",
+                           "RmName":  "1x1.0 rm Cable WCP Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.404,
+                           "Price":  17.24,
+                           "Value":  6.96496
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  8.32,
+                           "Price":  3.192,
+                           "Value":  26.55744
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  8.32,
+                           "Price":  2.322,
+                           "Value":  19.31904
+                       }
+                   ]
+}

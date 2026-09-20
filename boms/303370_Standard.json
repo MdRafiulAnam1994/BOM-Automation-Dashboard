@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "303370",
+    "ItemName":  "24K Non-Inverter Power Cable for OEM (without logo)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  342.8,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195281",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3X2.5 rm(50/0.25 mm)-gray",
+                           "UOM":  "MTR",
+                           "Qty":  1.5135,
+                           "Price":  191.999,
+                           "Value":  290.5904865
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112994",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube  5mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0224,
+                           "Price":  6.169,
+                           "Value":  0.1381856
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "100180",
+                           "RmName":  "PVC Soft Compound Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.06,
+                           "Price":  165.493,
+                           "Value":  9.92958
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113963",
+                           "RmName":  "Flame Retardant Masterbatch-FR 2126/FR-2100/FR-165/FR-1049/061/060",
+                           "UOM":  "KG",
+                           "Qty":  0.003347,
+                           "Price":  1437.966,
+                           "Value":  4.812872202
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "293897",
+                           "RmName":  "Hollow Plug Insert 250V, 16A, P/N: B35N1",
+                           "UOM":  "PCS",
+                           "Qty":  1.0135,
+                           "Price":  23.58,
+                           "Value":  23.89833
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  2.344,
+                           "Value":  2.35572
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.006,
+                           "Price":  2.322,
+                           "Value":  4.657932
+                       }
+                   ]
+}

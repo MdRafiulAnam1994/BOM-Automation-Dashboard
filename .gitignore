@@ -1,0 +1,24 @@
+﻿# Oracle EBS Credentials & Session Tokens
+ebs_config.json
+scratch/cookie.txt
+scratch/*.txt
+!scratch/.gitkeep
+
+# Archives and Packages
+*.zip
+*.tar.gz
+*.7z
+
+# Logs and Debug files
+*.log
+*.tmp
+*.bak
+dump/
+debug/
+
+# OS and Editor Metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

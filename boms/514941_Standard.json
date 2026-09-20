@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "514941",
+    "ItemName":  "Vertical PCB Separation Panel - J (0.4t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  61.9,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456354",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.4x1090)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.4872,
+                           "Price":  127.047,
+                           "Value":  61.8972984
+                       }
+                   ]
+}

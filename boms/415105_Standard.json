@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "415105",
+    "ItemName":  "SS Spring Length-240mm, ID-10.25mm(In house)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  27.18,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194585",
+                           "RmName":  "Steel Wire/SS Spring Wire 2mm",
+                           "UOM":  "KG",
+                           "Qty":  0.11,
+                           "Price":  247.072,
+                           "Value":  27.17792
+                       }
+                   ]
+}

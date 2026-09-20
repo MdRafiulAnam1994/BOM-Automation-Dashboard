@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "396138",
+    "ItemName":  "36K Single Phase ODU MC(L2) to Comp. Cap. Neutral Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  40.74,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "403165",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1 x 3.0 rm(110/0.190mm) Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.352,
+                           "Price":  71.544,
+                           "Value":  25.183488
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423605",
+                           "RmName":  "Right Angle Blade Connector 0101404661 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  2.792,
+                           "Value":  5.80736
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423604",
+                           "RmName":  "Sleeve for Right Angle Connector-TH250 KM-2 UL-G JAM",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  4.228,
+                           "Value":  8.79424
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482278",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 4 mm- for 2.5rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.016425,
+                           "Price":  14.23,
+                           "Value":  0.23372775
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.016425,
+                           "Price":  43.682,
+                           "Value":  0.71747685
+                       }
+                   ]
+}

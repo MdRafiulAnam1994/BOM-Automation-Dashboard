@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "426111",
+    "ItemName":  "Hanging clamp FA14 2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  8.25,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.064827494,
+                           "Price":  127.198,
+                           "Value":  8.245927581812
+                       }
+                   ]
+}

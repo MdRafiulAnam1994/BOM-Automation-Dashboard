@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "472356",
+    "ItemName":  "Inside Cooling Pad Panel 1 W80-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  266.62,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.036316,
+                           "Price":  130.932,
+                           "Value":  266.618926512
+                       }
+                   ]
+}

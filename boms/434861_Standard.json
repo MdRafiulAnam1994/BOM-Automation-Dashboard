@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "434861",
+    "ItemName":  "Kongtop Text Remote Instruction Leaflet",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  0.78,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "376551",
+                           "RmName":  "Offset Paper (120GSM) 23\u0027*36\u0027",
+                           "UOM":  "PCS",
+                           "Qty":  0.06375,
+                           "Price":  10.562,
+                           "Value":  0.6733275
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "OPP ASM ST",
+                           "MinorCategory":  "OPP ASM ST",
+                           "RmCode":  "361093",
+                           "RmName":  "INK (Black)",
+                           "UOM":  "LB",
+                           "Qty":  0.000281,
+                           "Price":  386.427,
+                           "Value":  0.108585987
+                       }
+                   ]
+}

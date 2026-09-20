@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "388126",
+    "ItemName":  "30K Non Inverter ODU Neutral cable 2 (MC to Comp Cap)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  25.19,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "403165",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1 x 3.0 rm(110/0.190mm) Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.26208,
+                           "Price":  71.631,
+                           "Value":  18.77305248
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       }
+                   ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "384317",
+    "ItemName":  "Flexible Hose Pipe 3/4 inch",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  153.48,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113417",
+                           "RmName":  "PP Resin-EP440G/Yungsox 3010/HB240T/J740/J945/2500H/HJ800R/ J801R/T-8002",
+                           "UOM":  "KG",
+                           "Qty":  1.037547,
+                           "Price":  145.245,
+                           "Value":  150.698514015
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113662",
+                           "RmName":  "Masterbatch PP EP-71187 Gray",
+                           "UOM":  "KG",
+                           "Qty":  0.012453,
+                           "Price":  223.395,
+                           "Value":  2.781937935
+                       }
+                   ]
+}

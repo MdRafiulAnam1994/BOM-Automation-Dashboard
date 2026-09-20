@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "493668",
+    "ItemName":  "Ring Separator-ABS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  0.4,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.00209,
+                           "Price":  179.99,
+                           "Value":  0.3761791
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113757",
+                           "RmName":  "Styroflex Resin  2G 66",
+                           "UOM":  "KG",
+                           "Qty":  6.6E-05,
+                           "Price":  417.121,
+                           "Value":  0.027529986
+                       }
+                   ]
+}

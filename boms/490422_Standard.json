@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "490422",
+    "ItemName":  "Indoor Blower Top \u0026 Bottom",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  79.89,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113534",
+                           "RmName":  "ABS Resin GP-2305A",
+                           "UOM":  "KG",
+                           "Qty":  0.08181468,
+                           "Price":  357.574,
+                           "Value":  29.25480238632
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.001040286,
+                           "Price":  268.159,
+                           "Value":  0.278962053474
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113138",
+                           "RmName":  "Blower Accessories",
+                           "UOM":  "PAR",
+                           "Qty":  1,
+                           "Price":  50.356,
+                           "Value":  50.356
+                       }
+                   ]
+}

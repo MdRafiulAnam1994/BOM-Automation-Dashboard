@@ -1,0 +1,132 @@
+﻿{
+    "ItemCode":  "227361",
+    "ItemName":  "18K/24K Service Pipe",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1998.18,
+    "TotalRMCount":  11,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113099",
+                           "RmName":  "Service pipe Insulation 6.35mm-1/4 inch",
+                           "UOM":  "MTR",
+                           "Qty":  3.005,
+                           "Price":  9.469,
+                           "Value":  28.454345
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113163",
+                           "RmName":  "Service pipe Insulation-12.7 mm-1/2 inch",
+                           "UOM":  "MTR",
+                           "Qty":  3.005,
+                           "Price":  121.456,
+                           "Value":  364.97528
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113182",
+                           "RmName":  "Wire Band-Length 150 Yard",
+                           "UOM":  "COL",
+                           "Qty":  0.01995,
+                           "Price":  106.313,
+                           "Value":  2.12094435
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113260",
+                           "RmName":  "Flare Nut 12-(3/4-16)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  39.454,
+                           "Value":  78.908
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113423",
+                           "RmName":  "Poly Acetal Copolymer Resin (POM) K300/CE66/M90-44",
+                           "UOM":  "KG",
+                           "Qty":  0.015673183,
+                           "Price":  219.247,
+                           "Value":  3.436298353201
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113957",
+                           "RmName":  "Copper Tube (OD 12.0 x T 0.7) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.69063541,
+                           "Price":  1377.779,
+                           "Value":  951.54296455439
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113965",
+                           "RmName":  "Copper Tube (OD 6.0 x T 0.7) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.314585014,
+                           "Price":  1651.537,
+                           "Value":  519.548790266518
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000188757,
+                           "Price":  267.754,
+                           "Value":  0.050540441778
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "455654",
+                           "RmName":  "Flare Nut 6-(7/16-20) (M)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  24.545,
+                           "Value":  49.09
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249535",
+                           "RmName":  "Barcode Blank Label AC (15x15)mm",
+                           "UOM":  "PCS",
+                           "Qty":  0.033333333,
+                           "Price":  0.077,
+                           "Value":  0.002566666641
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "158247",
+                           "RmName":  "Barcode Ribbon-AC(45mmx300M)",
+                           "UOM":  "ROL",
+                           "Qty":  0.000116673,
+                           "Price":  453.619,
+                           "Value":  0.052925089587
+                       }
+                   ]
+}

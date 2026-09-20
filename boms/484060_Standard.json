@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484060",
+    "ItemName":  "Wire Clip - 1",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.23,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.00160965,
+                           "Price":  139.787,
+                           "Value":  0.22500814455
+                       }
+                   ]
+}

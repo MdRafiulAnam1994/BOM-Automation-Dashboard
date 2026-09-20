@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "437003",
+    "ItemName":  "Base-24M  Non Inv (1.0t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  358.92,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222356",
+                           "RmName":  "Aluzinc Sheet (1.00x1030)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.8924,
+                           "Price":  117.252,
+                           "Value":  339.1396848
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "102823",
+                           "RmName":  "Mig Wire 1mm",
+                           "UOM":  "KG",
+                           "Qty":  0.01526,
+                           "Price":  192.024,
+                           "Value":  2.93028624
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "408289",
+                           "RmName":  "Round head bolt with shank M8-1.25*70 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  5.617,
+                           "Value":  16.851
+                       }
+                   ]
+}

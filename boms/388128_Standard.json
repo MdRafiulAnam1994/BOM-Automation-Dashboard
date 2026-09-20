@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "388128",
+    "ItemName":  "30K Non inverter ODU Signal Cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  10.83,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "226257",
+                           "RmName":  "1x1.0 rm-Cable WCP -Orange",
+                           "UOM":  "MTR",
+                           "Qty":  0.19152,
+                           "Price":  23.072,
+                           "Value":  4.41874944
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310944",
+    "ItemName":  "Right Condenser Endcover 24HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  252.86,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.931237838,
+                           "Price":  130.932,
+                           "Value":  252.860832605016
+                       }
+                   ]
+}

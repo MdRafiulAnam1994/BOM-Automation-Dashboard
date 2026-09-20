@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "516262",
+    "ItemName":  "Back Casing Support Part - 1 - FRD - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  10.61,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.092406498,
+                           "Price":  114.828,
+                           "Value":  10.610853352344
+                       }
+                   ]
+}

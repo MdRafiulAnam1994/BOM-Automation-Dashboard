@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282190",
+    "ItemName":  "Separation Panel-A (.7t )",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  128.6,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.966315,
+                           "Price":  133.084,
+                           "Value":  128.60106546
+                       }
+                   ]
+}

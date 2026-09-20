@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "299217",
+    "ItemName":  "VRF 10HP ODU Line-2 Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  184.05,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "234465",
+                           "RmName":  "Copper Lugs (Y-Type) 10 Rm",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  10.275,
+                           "Value":  10.326375
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "234466",
+                           "RmName":  "Insulated Copper Lugs (O-Type) 6 Rm",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  2.284,
+                           "Value":  2.29542
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429565",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 6 rm(84/0.30mm) Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  1.316,
+                           "Price":  128.425,
+                           "Value":  169.0073
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113039",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube   10mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.0275,
+                           "Price":  10.221,
+                           "Value":  0.2810775
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.042,
+                           "Price":  43.682,
+                           "Value":  1.834644
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "523954",
+                           "RmName":  "Heat Shrinkable Ferrule Tube (White) Inner Dia: 6mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.042,
+                           "Price":  7.22,
+                           "Value":  0.30324
+                       }
+                   ]
+}

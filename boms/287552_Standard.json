@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "287552",
+    "ItemName":  "Condenser Clamp 01 D Side Outer-D-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  23.63,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.205803507,
+                           "Price":  114.828,
+                           "Value":  23.632005101796
+                       }
+                   ]
+}

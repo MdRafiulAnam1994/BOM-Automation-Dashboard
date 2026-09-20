@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "442062",
+    "ItemName":  "WALTON 1/2\" Electric Hose Pipe (21.80 mm)  WEHP012G(EAP)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  155.68,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113417",
+                           "RmName":  "PP Resin-EP440G/Yungsox 3010/HB240T/J740/J945/2500H/HJ800R/ J801R/T-8002",
+                           "UOM":  "KG",
+                           "Qty":  1.0375471,
+                           "Price":  146.442,
+                           "Value":  151.9404724182
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "479568",
+                           "RmName":  "Walton PP Deep Grey Masterbatch 425 W79102",
+                           "UOM":  "KG",
+                           "Qty":  0.012453,
+                           "Price":  300,
+                           "Value":  3.7359
+                       }
+                   ]
+}

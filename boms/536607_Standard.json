@@ -1,0 +1,132 @@
+﻿{
+    "ItemCode":  "536607",
+    "ItemName":  "Service Pipe LT (Tube OD-9.52/6mm, L-9ft)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1270.7,
+    "TotalRMCount":  11,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194989",
+                           "RmName":  "Barcode Ribbon (AC Service Pipe), (105x300)mm",
+                           "UOM":  "ROL",
+                           "Qty":  0.00011667,
+                           "Price":  1052.401,
+                           "Value":  0.12278362467
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194584",
+                           "RmName":  "AC Service pipe blank label_PET (80.5x103.5 Di-Cut 11.5x11.5)mm",
+                           "UOM":  "PCS",
+                           "Qty":  0.033333,
+                           "Price":  1.606,
+                           "Value":  0.053532798
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "441030",
+                           "RmName":  "Copper Tube (OD-9.52mmX T-0.6)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.421847316,
+                           "Price":  1681.583,
+                           "Value":  709.371275181228
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "455653",
+                           "RmName":  "Flare Nut 9.52-(5/8-18) (M)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  41.463,
+                           "Value":  82.926
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113182",
+                           "RmName":  "Wire Band-Length 150 Yard",
+                           "UOM":  "COL",
+                           "Qty":  0.01575,
+                           "Price":  106.313,
+                           "Value":  1.67442975
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "455654",
+                           "RmName":  "Flare Nut 6-(7/16-20) (M)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  26.428,
+                           "Value":  52.856
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113946",
+                           "RmName":  "Copper Tube (OD 6.0 x T 0.50) mm",
+                           "UOM":  "KG",
+                           "Qty":  0.216756375,
+                           "Price":  1374.963,
+                           "Value":  298.031995639125
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113139",
+                           "RmName":  "Service pipe Insulation 9.52mm-3/8 inch",
+                           "UOM":  "MTR",
+                           "Qty":  2.832025,
+                           "Price":  23.217,
+                           "Value":  65.751124425
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113099",
+                           "RmName":  "Service pipe Insulation 6.35mm-1/4 inch",
+                           "UOM":  "MTR",
+                           "Qty":  2.832025,
+                           "Price":  20.516,
+                           "Value":  58.1018249
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "460633",
+                           "RmName":  "Dead Cap Male 9.52mm (3/8\u0027)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.435,
+                           "Value":  0.87
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "460632",
+                           "RmName":  "Dead Cap Male 6mm (1/4\u0027)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.473,
+                           "Value":  0.946
+                       }
+                   ]
+}

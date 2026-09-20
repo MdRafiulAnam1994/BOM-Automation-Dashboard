@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "523836",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI12AJB2-DMEX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  2474.09,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "469225",
+                           "RmName":  "RAC 12K Single UART Inverter IDU PCB BLDC Motor, Part N: M12H3IHIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  222.388,
+                           "Value":  222.388
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123431",
+                           "RmName":  "IDU Sensor Coil TEMP  10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  449.705,
+                           "Value":  449.705
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123432",
+                           "RmName":  "IDU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  447.605,
+                           "Value":  447.605
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123429",
+                           "RmName":  "ODU Sensor Coil TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  451.563,
+                           "Value":  451.563
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123428",
+                           "RmName":  "ODU Sensor Ambient TEMP   10K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  451.488,
+                           "Value":  451.488
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "123430",
+                           "RmName":  "ODU Sensor Discharge TEMP    50K ohm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  451.343,
+                           "Value":  451.343
+                       }
+                   ]
+}

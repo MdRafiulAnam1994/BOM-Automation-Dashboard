@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "518551",
+    "ItemName":  "A IDU Hanger 2 (0.7t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  86.18,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.77,
+                           "Price":  111.916,
+                           "Value":  86.17532
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "291405",
+    "ItemName":  "Outdoor Back net -D-MS Wire 2.5mm",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  63.08,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116446",
+                           "RmName":  "MS Wire 2.5mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.72,
+                           "Price":  87.616,
+                           "Value":  63.08352
+                       }
+                   ]
+}

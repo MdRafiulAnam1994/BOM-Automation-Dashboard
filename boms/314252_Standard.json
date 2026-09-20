@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "314252",
+    "ItemName":  "Top Panel 20HP-1t,1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1691.5,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.467566667,
+                           "Price":  130.932,
+                           "Value":  584.947438843644
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "102823",
+                           "RmName":  "Mig Wire 1mm",
+                           "UOM":  "KG",
+                           "Qty":  0.05,
+                           "Price":  192.024,
+                           "Value":  9.6012
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  9.55,
+                           "Price":  114.864,
+                           "Value":  1096.9512
+                       }
+                   ]
+}

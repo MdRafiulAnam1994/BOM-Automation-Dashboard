@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "388124",
+    "ItemName":  "30K Non Inverter ODU Line Cable (TB to MC)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  23.14,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "403166",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1 x 3.0 rm(110/0.190mm) Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.27216,
+                           "Price":  44.324,
+                           "Value":  12.06321984
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.006,
+                           "Price":  2.322,
+                           "Value":  4.657932
+                       }
+                   ]
+}

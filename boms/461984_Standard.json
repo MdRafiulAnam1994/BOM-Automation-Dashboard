@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "461984",
+    "ItemName":  "Compressor Jacket Top Part-250*225mm(24H-Version-0609,0610,0611)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  15.05,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "276622",
+                           "RmName":  "Cotton Thread (RM)",
+                           "UOM":  "PCS",
+                           "Qty":  0.00602,
+                           "Price":  47.63,
+                           "Value":  0.2867326
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "314100",
+                           "RmName":  "Cotton Wool (Recycled Demin), (40000*1590*5)mm",
+                           "UOM":  "ROL",
+                           "Qty":  0.0014,
+                           "Price":  10543.639,
+                           "Value":  14.7610946
+                       }
+                   ]
+}

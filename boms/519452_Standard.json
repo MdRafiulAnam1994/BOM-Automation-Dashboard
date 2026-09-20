@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "519452",
+    "ItemName":  "Electric Box Assembly - FRD - 0.7t, 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  298.58,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "516272",
+                           "RmName":  "Electric Box Base - FRD - 0.7t",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  165.645,
+                           "Value":  165.645
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "516274",
+                           "RmName":  "PCB Plate - FRD - 0.7t",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  85.315,
+                           "Value":  85.315
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "516275",
+                           "RmName":  "Power Line Mounting Plate - FRD - 1t",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  39.143,
+                           "Value":  39.143
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128374",
+                           "RmName":  "Electric Rivet Nut",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  2.12,
+                           "Value":  8.48
+                       }
+                   ]
+}

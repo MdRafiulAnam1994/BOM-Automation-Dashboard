@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484055",
+    "ItemName":  "HexaComb Indoor Louver Bush",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.91,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113423",
+                           "RmName":  "Poly Acetal Copolymer Resin (POM) K300/CE66/M90-44",
+                           "UOM":  "KG",
+                           "Qty":  0.004134375,
+                           "Price":  219.247,
+                           "Value":  0.906449315625
+                       }
+                   ]
+}

@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "423942",
+    "ItemName":  "24K Indoor Blower Assembly (OEM)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  251.52,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112903",
+                           "RmName":  "Balance Punch",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  2.317,
+                           "Value":  9.268
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113138",
+                           "RmName":  "Blower Accessories",
+                           "UOM":  "PAR",
+                           "Qty":  1,
+                           "Price":  50.356,
+                           "Value":  50.356
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113534",
+                           "RmName":  "ABS Resin GP-2305A",
+                           "UOM":  "KG",
+                           "Qty":  0.069036,
+                           "Price":  357.574,
+                           "Value":  24.685478664
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.00076398,
+                           "Price":  268.159,
+                           "Value":  0.20486811282
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "406541",
+                           "RmName":  "San Resin-SAN 30% GF-ASG-30-Toray",
+                           "UOM":  "KG",
+                           "Qty":  0.7754907,
+                           "Price":  215.029,
+                           "Value":  166.7529897303
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "150261",
+                           "RmName":  "Super Glue (Love Bond)",
+                           "UOM":  "PCS",
+                           "Qty":  0.005885,
+                           "Price":  42.253,
+                           "Value":  0.248658905
+                       }
+                   ]
+}

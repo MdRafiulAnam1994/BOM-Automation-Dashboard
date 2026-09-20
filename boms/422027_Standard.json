@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "422027",
+    "ItemName":  "Smart feature",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  567.25,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "142824",
+                           "RmName":  "Wifi module-TYJW2.0",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  556.759,
+                           "Value":  556.759
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "168748",
+                           "RmName":  "Smart Control Sticker",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  5.573,
+                           "Value":  5.573
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "133743",
+                           "RmName":  "Smart Control App Manual Ac Walton",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  3,
+                           "Value":  3
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "128361",
+                           "RmName":  "Round Philips Self Tapping Screw 4-24*7 (AB 4*7)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.01343569,
+                           "Price":  139.813,
+                           "Value":  1.87848412597
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000164892,
+                           "Price":  268.159,
+                           "Value":  0.044217273828
+                       }
+                   ]
+}

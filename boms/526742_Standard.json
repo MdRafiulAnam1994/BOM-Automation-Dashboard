@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "526742",
+    "ItemName":  "Walton AC Remote with battery [WX14-P01]",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  263.1,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "491099",
+                           "RmName":  "X-Star Remote Controller WX14-P01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  239.884,
+                           "Value":  239.884
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "113029",
+                           "RmName":  "Battery AAA R03-B-P Walton",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  10.418,
+                           "Value":  20.836
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "311361",
+                           "RmName":  "Label for OEM model spec, PET (58mm*156mm)",
+                           "UOM":  "PCS",
+                           "Qty":  0.1,
+                           "Price":  1.8,
+                           "Value":  0.18
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "313122",
+                           "RmName":  "Barcode Ribbon for OEM Model Spec, Resin (65mmx300M)",
+                           "UOM":  "ROL",
+                           "Qty":  5.94E-05,
+                           "Price":  745.566,
+                           "Value":  0.0442866204
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "527887",
+                           "RmName":  "RAC Remote Master Carton (3ply)",
+                           "UOM":  "PCS",
+                           "Qty":  0.1,
+                           "Price":  8.651,
+                           "Value":  0.8651
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "396572",
+                           "RmName":  "Packaging Tape Hongmai (W-57mm x L-200m)",
+                           "UOM":  "PCS",
+                           "Qty":  0.0057,
+                           "Price":  226.6,
+                           "Value":  1.29162
+                       }
+                   ]
+}

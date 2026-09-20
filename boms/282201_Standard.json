@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282201",
+    "ItemName":  "Valve Stand-B/C (1.0t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  40.58,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.353366,
+                           "Price":  114.828,
+                           "Value":  40.576311048
+                       }
+                   ]
+}

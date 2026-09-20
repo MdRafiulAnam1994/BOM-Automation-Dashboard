@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "446722",
+    "ItemName":  "MARCEL 18k Cordelia Compact Cassette IDU Carton",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  166.85,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "123344",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  0.431304705,
+                           "Price":  113.848,
+                           "Value":  49.10317805484
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "152725",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  0.431304705,
+                           "Price":  65.963,
+                           "Value":  28.450152255915
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "123349",
+                           "RmName":  "Medium Paper-140 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  1.545796063,
+                           "Price":  53.004,
+                           "Value":  81.933374523252
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.059864329,
+                           "Price":  43,
+                           "Value":  2.574166147
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.00363158,
+                           "Price":  94.207,
+                           "Value":  0.34212025706
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.001333471,
+                           "Price":  70.38,
+                           "Value":  0.09384968898
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.001276727,
+                           "Price":  149.171,
+                           "Value":  0.190450643317
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.010387674,
+                           "Price":  258.011,
+                           "Value":  2.680134156414
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "144527",
+                           "RmName":  "Screen Print Ink-Blue",
+                           "UOM":  "KG",
+                           "Qty":  0.002672999,
+                           "Price":  554.12,
+                           "Value":  1.48116220588
+                       }
+                   ]
+}

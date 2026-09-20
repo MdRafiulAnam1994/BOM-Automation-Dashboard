@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "396572",
+    "ItemName":  "Packaging Tape Hongmai (W-57mm x L-200m)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "379735",
+                           "RmName":  "Self Adhesive Tape Hongmai BOPP 1260mm*4000M",
+                           "UOM":  "ROL",
+                           "Qty":  0.002295455,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

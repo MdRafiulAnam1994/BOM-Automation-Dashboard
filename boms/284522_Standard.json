@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "284522",
+    "ItemName":  "Outdoor Electric Box-24C ((0.6t)t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  51.34,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128374",
+                           "RmName":  "Electric Rivet Nut",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2.117,
+                           "Value":  4.234
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222359",
+                           "RmName":  "Aluzinc Sheet (0.6x1250)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.359,
+                           "Price":  131.223,
+                           "Value":  47.109057
+                       }
+                   ]
+}

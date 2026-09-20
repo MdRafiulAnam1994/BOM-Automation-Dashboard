@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "422025",
+    "ItemName":  "Bluetooth",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  322.37,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "295589",
+                           "RmName":  "Bluetooth Module S1A01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  315.494,
+                           "Value":  315.494
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "314316",
+                           "RmName":  "Bluetooth Control App Manual AC Walton",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  4.75,
+                           "Value":  4.75
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "128361",
+                           "RmName":  "Round Philips Self Tapping Screw 4-24*7 (AB 4*7)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "228127",
+                           "RmName":  "WIN NYL Black 25-010/6G",
+                           "UOM":  "KG",
+                           "Qty":  5E-06,
+                           "Price":  4381.808,
+                           "Value":  0.02190904
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "223562",
+                           "RmName":  "Screen Printing Ink Win Safe 8F-291 Sparkling Silver Winson",
+                           "UOM":  "KG",
+                           "Qty":  4E-05,
+                           "Price":  4159.808,
+                           "Value":  0.16639232
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "123449",
+                           "RmName":  "Diluent for screen printing  Win 8F-50  Winson",
+                           "UOM":  "KG",
+                           "Qty":  2.3E-05,
+                           "Price":  630.421,
+                           "Value":  0.014499683
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.01343569,
+                           "Price":  139.813,
+                           "Value":  1.87848412597
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000164892,
+                           "Price":  268.159,
+                           "Value":  0.044217273828
+                       }
+                   ]
+}

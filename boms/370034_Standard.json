@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "370034",
+    "ItemName":  "Drain Pan Styrofoam \u0026 Thermoforming Part",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  339.4,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "290895",
+                           "RmName":  "Drain Pan Thermoforming Part",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  131.362,
+                           "Value":  131.362
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "288072",
+                           "RmName":  "Insertion Clamp -HC-1.2t",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  8.305,
+                           "Value":  33.22
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "288073",
+                           "RmName":  "Drain Pan Corksheet Insertion Sheet Metal -HC-0.7t",
+                           "UOM":  "PCS",
+                           "Qty":  11,
+                           "Price":  0.912,
+                           "Value":  10.032
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124281",
+                           "RmName":  "Expandable Polystyrene-Resin E-S/250FC/271BL",
+                           "UOM":  "KG",
+                           "Qty":  1.05,
+                           "Price":  156.941,
+                           "Value":  164.78805
+                       }
+                   ]
+}

@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "451058",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI12CCB1-INSC",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  57276.43,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "195216",
+                           "RmName":  "12K INV IDU PCB 25W AC Motor M12H1ICIAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  15,
+                           "Price":  256.277,
+                           "Value":  3844.155
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "191689",
+                           "RmName":  "18K INV IDU PCB 35W AC Motor M18H1ICIAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  14,
+                           "Price":  353.565,
+                           "Value":  4949.91
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "195214",
+                           "RmName":  "12K INV ODU PCB 25W AC Motor M12F1ICOAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  14,
+                           "Price":  3463.026,
+                           "Value":  48482.364
+                       }
+                   ]
+}

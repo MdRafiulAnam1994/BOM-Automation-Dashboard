@@ -1,0 +1,132 @@
+﻿{
+    "ItemCode":  "383296",
+    "ItemName":  "Safe 24K B Outdoor Carton (Cooltech)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  117.49,
+    "TotalRMCount":  11,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "123344",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  0.42216525,
+                           "Price":  91.553,
+                           "Value":  38.65049513325
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "152725",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 1950mm (76.8\")",
+                           "UOM":  "KG",
+                           "Qty":  1.021639905,
+                           "Price":  52.458,
+                           "Value":  53.59318613649
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.059384579,
+                           "Price":  66.899,
+                           "Value":  3.972768950521
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.003602477,
+                           "Price":  78.005,
+                           "Value":  0.281011218385
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.001322784,
+                           "Price":  85.451,
+                           "Value":  0.113033215584
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.001266496,
+                           "Price":  137.087,
+                           "Value":  0.173620137152
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.010286822,
+                           "Price":  258.011,
+                           "Value":  2.654113231042
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "144527",
+                           "RmName":  "Screen Print Ink-Blue",
+                           "UOM":  "KG",
+                           "Qty":  0.003738147,
+                           "Price":  645.374,
+                           "Value":  2.412502881978
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113481",
+                           "RmName":  "Screen Print Ink-Black",
+                           "UOM":  "KG",
+                           "Qty":  0.003738147,
+                           "Price":  308.27,
+                           "Value":  1.15235857569
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "384989",
+                           "RmName":  "Offset Paper 65 GSM, Size: 23*36 inch",
+                           "UOM":  "PCS",
+                           "Qty":  2.4,
+                           "Price":  5.066,
+                           "Value":  12.1584
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "434176",
+                           "RmName":  "Anti-Fungus (MS-F019)",
+                           "UOM":  "KG",
+                           "Qty":  0.0006952,
+                           "Price":  3350.629,
+                           "Value":  2.3293572808
+                       }
+                   ]
+}

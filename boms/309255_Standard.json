@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "309255",
+    "ItemName":  "Motor Base VRF-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  165.36,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.3,
+                           "Price":  127.198,
+                           "Value":  165.3574
+                       }
+                   ]
+}

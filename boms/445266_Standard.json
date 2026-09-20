@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "445266",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI12AFB1-KRSC",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  7434.39,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "195216",
+                           "RmName":  "12K INV IDU PCB 25W AC Motor M12H1ICIAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  256.277,
+                           "Value":  768.831
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430122",
+                           "RmName":  "12K \u0026 18K Inverter F4 Common ODU PCB, P/N: M18F4ICOAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1590.985,
+                           "Value":  1590.985
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "191689",
+                           "RmName":  "18K INV IDU PCB 35W AC Motor M18H1ICIAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  353.565,
+                           "Value":  707.13
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "417779",
+                           "RmName":  "RAC 24K Common Inverter IDU PCB BLDC Motor M30H1IHIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  223.162,
+                           "Value":  446.324
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "377442",
+                           "RmName":  "24k INV ODU PCB-F2-M24F21COAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  2977.48,
+                           "Value":  2977.48
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "284254",
+                           "RmName":  "KONGTOP WALTON 0.5 REMOTE -  WK14-T01",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  235.909,
+                           "Value":  943.636
+                       }
+                   ]
+}

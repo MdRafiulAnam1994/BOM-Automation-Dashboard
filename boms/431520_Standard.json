@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "431520",
+    "ItemName":  "14kw Ceiling Evaporator SFG Part-1",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  6640.92,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113979",
+                           "RmName":  "Copper Tube (OD 7.0 x T 0.25)  x IGT",
+                           "UOM":  "KG",
+                           "Qty":  3.149552265,
+                           "Price":  1588.733,
+                           "Value":  5003.7976186302449
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "191078",
+                           "RmName":  "Aluminum Fin 0.095x775 GOLDEN FOIL",
+                           "UOM":  "KG",
+                           "Qty":  2.75,
+                           "Price":  529.428,
+                           "Value":  1455.927
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "246133",
+                           "RmName":  "Volatile Oil, Model: L8C06-2",
+                           "UOM":  "LTR",
+                           "Qty":  0.027,
+                           "Price":  323.284,
+                           "Value":  8.728668
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "307375",
+                           "RmName":  "Fin Stamping Oil/Lubricant (Dyna Punch), Punch 4300 S",
+                           "UOM":  "LTR",
+                           "Qty":  0.247,
+                           "Price":  404.191,
+                           "Value":  99.835177
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "416262",
+                           "RmName":  "5TR Ceiling Evaporator Support Clamp D Side - OEM - 1t",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  22.806,
+                           "Value":  22.806
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "416260",
+                           "RmName":  "5TR Ceiling Evaporator Clamp 1 - OEM - 1t",
+                           "UOM":  "PCS",
+                           "Qty":  6,
+                           "Price":  2.775,
+                           "Value":  16.65
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "416263",
+                           "RmName":  "5TR Ceiling Evaporator Support Clamp U Side - OEM - 1t",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  25.851,
+                           "Value":  25.851
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "263682",
+                           "RmName":  "Silicon Imulsion White Colour",
+                           "UOM":  "KG",
+                           "Qty":  0.003112,
+                           "Price":  438.191,
+                           "Value":  1.363650392
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "478564",
+                           "RmName":  "Truss Phillips (#8) M4.17-18x10 Self Tapping Screw with Tapper Point",
+                           "UOM":  "PCS",
+                           "Qty":  6,
+                           "Price":  0.993,
+                           "Value":  5.958
+                       }
+                   ]
+}

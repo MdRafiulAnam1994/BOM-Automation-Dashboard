@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282147",
+    "ItemName":  "18k/24k Indoor Hanger (0.7t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  83.43,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.7455,
+                           "Price":  111.916,
+                           "Value":  83.433378
+                       }
+                   ]
+}

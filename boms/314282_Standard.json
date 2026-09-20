@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "314282",
+    "ItemName":  "PCB Sheet 20HP-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  292.9,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.55,
+                           "Price":  114.864,
+                           "Value":  292.9032
+                       }
+                   ]
+}

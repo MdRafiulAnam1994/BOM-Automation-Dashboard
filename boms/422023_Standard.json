@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "422023",
+    "ItemName":  "Air Plasma",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  254.12,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "374631",
+                           "RmName":  "Truss Phillips (#8) M4.17-18x8 self tapping screw (type B) with taper point",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  0.17,
+                           "Value":  0.17
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "277946",
+                           "RmName":  "Regulating instrument for Air Ion, Model: XS-PL-10",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  253.951,
+                           "Value":  253.951
+                       }
+                   ]
+}

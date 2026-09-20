@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "196669",
+    "ItemName":  "Indoor Control Board 18K ECON Fixed Speed Flat Series (AC Motor)-M18H2NCIAYLS01",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  250.3,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "156542",
+                           "RmName":  "18K FS IDU PCB 35W AC Motor M18H2NCIAZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  250.304,
+                           "Value":  250.304
+                       }
+                   ]
+}

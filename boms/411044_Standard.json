@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "411044",
+    "ItemName":  "Coolingpad support bottom W100-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  125.79,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.960715,
+                           "Price":  130.932,
+                           "Value":  125.78833638
+                       }
+                   ]
+}

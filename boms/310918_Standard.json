@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "310918",
+    "ItemName":  "Fan Stand Back Support 24HP-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  506.02,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  3.95,
+                           "Price":  127.198,
+                           "Value":  502.4321
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "191082",
+                           "RmName":  "M6-1.0 (10 hex) Flange Nut",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  0.359,
+                           "Value":  3.59
+                       }
+                   ]
+}

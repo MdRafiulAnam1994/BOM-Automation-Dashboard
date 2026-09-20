@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310930",
+    "ItemName":  "Copper Pipe Stand 2 24HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  3.76,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.02870761,
+                           "Price":  130.932,
+                           "Value":  3.75874479252
+                       }
+                   ]
+}

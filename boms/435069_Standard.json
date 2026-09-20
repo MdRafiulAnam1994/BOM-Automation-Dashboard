@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "435069",
+    "ItemName":  "Indoor Evaporator End Connecting Clamp (3 Row) - HC - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  54.96,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.478632,
+                           "Price":  114.828,
+                           "Value":  54.960355296
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310942",
+    "ItemName":  "ECB Hinge Support 24HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  43.56,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.332690008,
+                           "Price":  130.932,
+                           "Value":  43.559768127456
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "450165",
+    "ItemName":  "Control Box Back Cover 5.6K-F 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  96.03,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.8362598,
+                           "Price":  114.828,
+                           "Value":  96.0260403144
+                       }
+                   ]
+}

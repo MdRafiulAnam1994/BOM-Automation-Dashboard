@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "493808",
+    "ItemName":  "Micro Channel Coated Condenser (H Outdoor)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2167.99,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "258525",
+                           "RmName":  "Jen. Epoxy Enamel Black (Berger)",
+                           "UOM":  "LTR",
+                           "Qty":  0.2,
+                           "Price":  598.959,
+                           "Value":  119.7918
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "275989",
+                           "RmName":  "C/A Epoxy Primer",
+                           "UOM":  "LTR",
+                           "Qty":  0.1,
+                           "Price":  434.25,
+                           "Value":  43.425
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "282263",
+                           "RmName":  "Thinner T-7 (RM)",
+                           "UOM":  "LTR",
+                           "Qty":  0.06,
+                           "Price":  223.137,
+                           "Value":  13.38822
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "408639",
+                           "RmName":  "Surfactant for Aluminum Furnace Brazing",
+                           "UOM":  "KG",
+                           "Qty":  0.002,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "422174",
+                           "RmName":  "PU Paint (Clear \u0026 Cream)",
+                           "UOM":  "LTR",
+                           "Qty":  0.0915,
+                           "Price":  773.689,
+                           "Value":  70.7925435
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "371842",
+                           "RmName":  "Thinner T-8",
+                           "UOM":  "LTR",
+                           "Qty":  0.01,
+                           "Price":  255.168,
+                           "Value":  2.55168
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "422187",
+                           "RmName":  "PU Hardner JEN",
+                           "UOM":  "LTR",
+                           "Qty":  0.045733,
+                           "Price":  1277.491,
+                           "Value":  58.423495903
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "380159",
+                           "RmName":  "H ODU In-house MFC",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1859.613,
+                           "Value":  1859.613
+                       }
+                   ]
+}

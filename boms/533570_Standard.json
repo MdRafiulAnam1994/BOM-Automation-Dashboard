@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "533570",
+    "ItemName":  "H/M ODU Handle-PP",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  2.43,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.01638,
+                           "Price":  139.813,
+                           "Value":  2.29013694
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255911",
+                           "RmName":  "PP Ivory CMR-02201609",
+                           "UOM":  "KG",
+                           "Qty":  0.00048,
+                           "Price":  298.53,
+                           "Value":  0.1432944
+                       }
+                   ]
+}

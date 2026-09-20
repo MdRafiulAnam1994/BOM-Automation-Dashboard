@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "536856",
+    "ItemName":  "Double Coated (Expoxy+PU) Import H MFC Condenser (WT07)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  308.37,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "258525",
+                           "RmName":  "Jen. Epoxy Enamel Black (Berger)",
+                           "UOM":  "LTR",
+                           "Qty":  0.2,
+                           "Price":  598.959,
+                           "Value":  119.7918
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "275989",
+                           "RmName":  "C/A Epoxy Primer",
+                           "UOM":  "LTR",
+                           "Qty":  0.1,
+                           "Price":  434.25,
+                           "Value":  43.425
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "282263",
+                           "RmName":  "Thinner T-7 (RM)",
+                           "UOM":  "LTR",
+                           "Qty":  0.06,
+                           "Price":  223.137,
+                           "Value":  13.38822
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "422174",
+                           "RmName":  "PU Paint (Clear \u0026 Cream)",
+                           "UOM":  "LTR",
+                           "Qty":  0.0915,
+                           "Price":  773.689,
+                           "Value":  70.7925435
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "371842",
+                           "RmName":  "Thinner T-8",
+                           "UOM":  "LTR",
+                           "Qty":  0.01,
+                           "Price":  255.168,
+                           "Value":  2.55168
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "422187",
+                           "RmName":  "PU Hardner JEN",
+                           "UOM":  "LTR",
+                           "Qty":  0.045733,
+                           "Price":  1277.491,
+                           "Value":  58.423495903
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "294150",
+                           "RmName":  "H ODU Imported MFC, Model WT07",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

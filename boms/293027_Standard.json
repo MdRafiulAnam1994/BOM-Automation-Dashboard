@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "293027",
+    "ItemName":  "VRF Ducted Type IDU AC  Motor Connector Cable Set(5.6~9KW)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  128.63,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124489",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube (OD: 4mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.252,
+                           "Price":  5.465,
+                           "Value":  1.37718
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "170714",
+                           "RmName":  "Cable tie 150mm (Pcs)",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.52,
+                           "Value":  1.04
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  1.01,
+                           "Price":  23.106,
+                           "Value":  23.33706
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195266",
+                           "RmName":  "1x1.0 rm Cable WCP Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  1.01,
+                           "Price":  17.24,
+                           "Value":  17.4124
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195269",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Blue",
+                           "UOM":  "MTR",
+                           "Qty":  1.01,
+                           "Price":  18.471,
+                           "Value":  18.65571
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195271",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Red",
+                           "UOM":  "MTR",
+                           "Qty":  1.01,
+                           "Price":  23.175,
+                           "Value":  23.40675
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "244806",
+                           "RmName":  "Walton Made Black PVC Tube -12.5 mm",
+                           "UOM":  "KG",
+                           "Qty":  0.0292739,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271850",
+                           "RmName":  "Metal Connector, Model: JS 1121-T",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  3.618,
+                           "Value":  15.05088
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "271851",
+                           "RmName":  "Plastic Terminal JS 1121-07",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  27.258,
+                           "Value":  28.34832
+                       }
+                   ]
+}

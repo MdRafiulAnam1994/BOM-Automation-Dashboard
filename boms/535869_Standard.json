@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "535869",
+    "ItemName":  "D IDU Evaporator Sheet Metal Clamp 3",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  3.9,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.03486,
+                           "Price":  111.916,
+                           "Value":  3.90139176
+                       }
+                   ]
+}

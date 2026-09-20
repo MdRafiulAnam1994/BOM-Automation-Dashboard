@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "499218",
+    "ItemName":  "C IDU Vertical Vane Setting Base",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  28.31,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124284",
+                           "RmName":  "HIPS Resin-4440/476L/PS 350/325/MA5210/S834/RT441M/3331/HI650/HP835G",
+                           "UOM":  "KG",
+                           "Qty":  0.1791,
+                           "Price":  154.105,
+                           "Value":  27.6002055
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "479568",
+                           "RmName":  "Walton PP Deep Grey Masterbatch 425 W79102",
+                           "UOM":  "KG",
+                           "Qty":  0.0021391,
+                           "Price":  332.808,
+                           "Value":  0.7119095928
+                       }
+                   ]
+}

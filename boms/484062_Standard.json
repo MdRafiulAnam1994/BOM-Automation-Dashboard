@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "484062",
+    "ItemName":  "Wire Guide - 1 Top",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.56,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.002663231,
+                           "Price":  139.787,
+                           "Value":  0.372285071797
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113963",
+                           "RmName":  "Flame Retardant Masterbatch-FR 2126/FR-2100/FR-165/FR-1049/061/060",
+                           "UOM":  "KG",
+                           "Qty":  0.000153196,
+                           "Price":  1221.714,
+                           "Value":  0.187161697944
+                       }
+                   ]
+}

@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "396140",
+    "ItemName":  "36K Single Phase ODU Compressor Earthing Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  49.8,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "363063",
+                           "RmName":  "Ring Type Connector RV 3.5-4",
+                           "UOM":  "PCS",
+                           "Qty":  2.002,
+                           "Price":  4.241,
+                           "Value":  8.490482
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "403168",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1 x 3.0 rm(110/0.190mm) Yellow-Green",
+                           "UOM":  "MTR",
+                           "Qty":  0.606,
+                           "Price":  66.386,
+                           "Value":  40.229916
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482278",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 4 mm- for 2.5rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.016425,
+                           "Price":  14.23,
+                           "Value":  0.23372775
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.016425,
+                           "Price":  43.682,
+                           "Value":  0.71747685
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.021,
+                           "Price":  6.153,
+                           "Value":  0.129213
+                       }
+                   ]
+}

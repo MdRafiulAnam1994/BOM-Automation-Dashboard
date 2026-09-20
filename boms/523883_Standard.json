@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "523883",
+    "ItemName":  "Walton EMI Module RACEMI-M01",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1009.07,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.000438015,
+                           "Price":  268.159,
+                           "Value":  0.117457664385
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124284",
+                           "RmName":  "HIPS Resin-4440/476L/PS 350/325/MA5210/S834/RT441M/3331/HI650/HP835G",
+                           "UOM":  "KG",
+                           "Qty":  0.035692236,
+                           "Price":  154.105,
+                           "Value":  5.50035202878
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "150771",
+                           "RmName":  "Pan Washer Phillips M3-24x8 Self-Tapping (AB).",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  0.074,
+                           "Value":  0.148
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "226349",
+                           "RmName":  "VHB tape for glass door-1.5mm x 15mm X 26 M",
+                           "UOM":  "ROL",
+                           "Qty":  0.010425,
+                           "Price":  1033.133,
+                           "Value":  10.770411525
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "506869",
+                           "RmName":  "Digital Display RTC Module Battery (Model: CR2032)",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  101.615,
+                           "Value":  101.615
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "511212",
+                           "RmName":  "RFID Card Reader \u0026 Writer Module 13.56 MHz",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  752.483,
+                           "Value":  752.483
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "518744",
+                           "RmName":  "Cable for EMI module (Extension), P/N: WMC-EMI01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  135.059,
+                           "Value":  135.059
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "112908",
+                           "RmName":  "Accessories Poly  7X10",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1.645,
+                           "Value":  1.645
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "527887",
+                           "RmName":  "RAC Remote Master Carton (3ply)",
+                           "UOM":  "PCS",
+                           "Qty":  0.2,
+                           "Price":  8.651,
+                           "Value":  1.7302
+                       }
+                   ]
+}

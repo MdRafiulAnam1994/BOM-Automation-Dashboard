@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "291409",
+    "ItemName":  "Outdoor Back net -G-MS Wire 4mm",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  108.21,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116447",
+                           "RmName":  "MS Wire 4mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  1.235,
+                           "Price":  87.616,
+                           "Value":  108.20576
+                       }
+                   ]
+}

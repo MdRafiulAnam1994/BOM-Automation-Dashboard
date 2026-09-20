@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "231490",
+    "ItemName":  "Indoor Electric Box 12K",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  56.71,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124289",
+                           "RmName":  "Abs Resin Fr V0/MW100 015 (Natural Color)",
+                           "UOM":  "KG",
+                           "Qty":  0.14,
+                           "Price":  405.106,
+                           "Value":  56.71484
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "516258",
+    "ItemName":  "Service Plate - 2 - FRD - 0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  24.72,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.22087832,
+                           "Price":  111.916,
+                           "Value":  24.71981806112
+                       }
+                   ]
+}

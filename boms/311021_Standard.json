@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311021",
+    "ItemName":  "Canvas Cloth Top Flange 19.25k FCU-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  236.78,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.062075205,
+                           "Price":  114.828,
+                           "Value":  236.78397163974
+                       }
+                   ]
+}

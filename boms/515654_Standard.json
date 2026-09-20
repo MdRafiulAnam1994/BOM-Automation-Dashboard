@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "515654",
+    "ItemName":  "Silicone Cable Grommet 50mm",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  15.33,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "160053",
+                           "RmName":  "Silicone Rubber NE-7150/5013/TBL-551/GA-1153",
+                           "UOM":  "KG",
+                           "Qty":  0.045,
+                           "Price":  318.461,
+                           "Value":  14.330745
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "160055",
+                           "RmName":  "Anti yellowing silicon curing agent C-16",
+                           "UOM":  "KG",
+                           "Qty":  0.000675,
+                           "Price":  1479.542,
+                           "Value":  0.99869085
+                       }
+                   ]
+}

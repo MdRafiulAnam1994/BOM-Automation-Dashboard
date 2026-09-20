@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "415107",
+    "ItemName":  "SS Spring Length-270mm, ID-12.50mm(In house)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  33.35,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "194585",
+                           "RmName":  "Steel Wire/SS Spring Wire 2mm",
+                           "UOM":  "KG",
+                           "Qty":  0.135,
+                           "Price":  247.072,
+                           "Value":  33.35472
+                       }
+                   ]
+}

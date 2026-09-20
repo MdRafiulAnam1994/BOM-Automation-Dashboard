@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "491630",
+    "ItemName":  "B IDU Horizontal Louver Flat-HIPS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  51.63,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124284",
+                           "RmName":  "HIPS Resin-4440/476L/PS 350/325/MA5210/S834/RT441M/3331/HI650/HP835G",
+                           "UOM":  "KG",
+                           "Qty":  0.257034605,
+                           "Price":  154.105,
+                           "Value":  39.610317803525
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "368466",
+                           "RmName":  "Walton Made PS UV Absorber MB",
+                           "UOM":  "KG",
+                           "Qty":  0.016451284,
+                           "Price":  486.535,
+                           "Value":  8.00412546094
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "297688",
+                           "RmName":  "Walton HIPS Pure White Master Batch WM-WPS 36 (Double Doze)",
+                           "UOM":  "KG",
+                           "Qty":  0.012051678,
+                           "Price":  333.545,
+                           "Value":  4.01977693851
+                       }
+                   ]
+}

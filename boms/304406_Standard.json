@@ -1,0 +1,99 @@
+﻿{
+    "ItemCode":  "304406",
+    "ItemName":  "36K OEM COMPRESSOR Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  53.72,
+    "TotalRMCount":  8,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113338",
+                           "RmName":  "PVC Pipe Black   10mm",
+                           "UOM":  "KG",
+                           "Qty":  0.00441,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195928",
+                           "RmName":  "1X2.5 rm Flex Cable WCP- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.909,
+                           "Price":  25.003,
+                           "Value":  22.727727
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "223754",
+                           "RmName":  "Cable 1X2.5rm Blue Marcel",
+                           "UOM":  "MTR",
+                           "Qty":  0.909,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "223756",
+                           "RmName":  "Cable 1X2.5rm Red (BYA) Marcel",
+                           "UOM":  "MTR",
+                           "Qty":  0.909,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423605",
+                           "RmName":  "Right Angle Blade Connector 0101404661 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  2.792,
+                           "Value":  8.71104
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423604",
+                           "RmName":  "Sleeve for Right Angle Connector-TH250 KM-2 UL-G JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  4.228,
+                           "Value":  13.19136
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.063,
+                           "Price":  6.153,
+                           "Value":  0.387639
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  2.788,
+                           "Value":  8.69856
+                       }
+                   ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "516084",
+    "ItemName":  "Side Casing - 2 - FRD - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  330.86,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482159",
+                           "RmName":  "H.W.H. Phillips Bolt/Machine Screw M8x20",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  9.318,
+                           "Value":  18.636
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.719060501,
+                           "Price":  114.828,
+                           "Value":  312.224279208828
+                       }
+                   ]
+}

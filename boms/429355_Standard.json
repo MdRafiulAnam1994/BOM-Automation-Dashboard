@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "429355",
+    "ItemName":  "Single UV Module Clamp-(0.6t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  2.26,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.017,
+                           "Price":  133.084,
+                           "Value":  2.262428
+                       }
+                   ]
+}

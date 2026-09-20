@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "503505",
+    "ItemName":  "Filter Net 270mm 14kw MSP",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  199.36,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116447",
+                           "RmName":  "MS Wire 4mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.33,
+                           "Price":  87.616,
+                           "Value":  28.91328
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134048",
+                           "RmName":  "Air Filter Net-360mm",
+                           "UOM":  "MTR",
+                           "Qty":  3,
+                           "Price":  56.817,
+                           "Value":  170.451
+                       }
+                   ]
+}

@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "147248",
+    "ItemName":  "C Outdoor Unit Bottom Carton",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  31.94,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "152717",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 2150mm (84.6\")",
+                           "UOM":  "KG",
+                           "Qty":  0.18789624,
+                           "Price":  57.952,
+                           "Value":  10.88896290048
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.000294371,
+                           "Price":  94.207,
+                           "Value":  0.027731808797
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.00080169,
+                           "Price":  70.38,
+                           "Value":  0.0564229422
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.013215369,
+                           "Price":  43,
+                           "Value":  0.568260867
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113150",
+                           "RmName":  "Medium Paper-140 GSM, 2150mm (84.6\")",
+                           "UOM":  "KG",
+                           "Qty":  0.366397668,
+                           "Price":  55.555,
+                           "Value":  20.35522244574
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "PKG ASM AC",
+                           "MinorCategory":  "PKG ASM AC",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.000281844,
+                           "Price":  149.171,
+                           "Value":  0.042042951324
+                       }
+                   ]
+}

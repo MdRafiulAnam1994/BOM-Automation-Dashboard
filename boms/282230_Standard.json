@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282230",
+    "ItemName":  "Fan Stand -E (2t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  785.07,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  6.172,
+                           "Price":  127.198,
+                           "Value":  785.066056
+                       }
+                   ]
+}

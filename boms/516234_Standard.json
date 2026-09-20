@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "516234",
+    "ItemName":  "VRF Duct Drain Pump SFG",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1613.24,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "223308",
+                           "RmName":  "Drain Pump-2,10.8W,Model: PSB12A21, Connector-VH",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1608.768,
+                           "Value":  1608.768
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112942",
+                           "RmName":  "VH Connector Housing  VHR-3N",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  1.604,
+                           "Value":  1.66816
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112898",
+                           "RmName":  "VH Connector Contact SVH-41T-P1.1/VH Connector (Female Terminal) HXT P/N: 39600-21PT-2T2",
+                           "UOM":  "PCS",
+                           "Qty":  2.08,
+                           "Price":  1.348,
+                           "Value":  2.80384
+                       }
+                   ]
+}

@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "507732",
+    "ItemName":  "C IDU Vertical Vane 5",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  7.29,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.0153,
+                           "Price":  139.813,
+                           "Value":  2.1391389
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113871",
+                           "RmName":  "Resin Milastomer  5030BS  MITSUI \u0026 CO",
+                           "UOM":  "KG",
+                           "Qty":  0.0104,
+                           "Price":  486.307,
+                           "Value":  5.0575928
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "479568",
+                           "RmName":  "Walton PP Deep Grey Masterbatch 425 W79102",
+                           "UOM":  "KG",
+                           "Qty":  0.0002904,
+                           "Price":  332.808,
+                           "Value":  0.0966474432
+                       }
+                   ]
+}

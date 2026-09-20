@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "116446",
+    "ItemName":  "MS Wire 2.5mm Hard Walton Made",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  87.62,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124397",
+                           "RmName":  "Coil Wire 6.5mm (For Refrigerator Rack Making)",
+                           "UOM":  "KG",
+                           "Qty":  1.0125,
+                           "Price":  86.534,
+                           "Value":  87.615675
+                       }
+                   ]
+}

@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "403432",
+    "ItemName":  "16HP VRF ODU Reactor Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  445.05,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "234466",
+                           "RmName":  "Insulated Copper Lugs (O-Type) 6 Rm",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  2.284,
+                           "Value":  9.50144
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "233999",
+                           "RmName":  "Fiber Tube ID-16",
+                           "UOM":  "MTR",
+                           "Qty":  1.05,
+                           "Price":  45.397,
+                           "Value":  47.66685
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429564",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 6 rm(84/0.30mm) Red",
+                           "UOM":  "MTR",
+                           "Qty":  3.232,
+                           "Price":  118.74,
+                           "Value":  383.76768
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0808,
+                           "Price":  43.682,
+                           "Value":  3.5295056
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "523954",
+                           "RmName":  "Heat Shrinkable Ferrule Tube (White) Inner Dia: 6mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.0808,
+                           "Price":  7.22,
+                           "Value":  0.583376
+                       }
+                   ]
+}

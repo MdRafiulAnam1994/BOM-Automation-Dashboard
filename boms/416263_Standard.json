@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "416263",
+    "ItemName":  "5TR Ceiling Evaporator Support Clamp U Side - OEM - 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  25.85,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.22513,
+                           "Price":  114.828,
+                           "Value":  25.85122764
+                       }
+                   ]
+}

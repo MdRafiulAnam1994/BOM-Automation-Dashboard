@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "231501",
+    "ItemName":  "Indoor Base 12K Black",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  314.16,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113757",
+                           "RmName":  "Styroflex Resin  2G 66",
+                           "UOM":  "KG",
+                           "Qty":  0.04,
+                           "Price":  417.121,
+                           "Value":  16.68484
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.021987644,
+                           "Price":  268.159,
+                           "Value":  5.896184627396
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  1.62,
+                           "Price":  179.99,
+                           "Value":  291.5838
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282187",
+    "ItemName":  "Left side panel-A (0.7t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  111.92,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  1,
+                           "Price":  111.916,
+                           "Value":  111.916
+                       }
+                   ]
+}

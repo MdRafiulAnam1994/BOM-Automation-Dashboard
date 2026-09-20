@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "462474",
+    "ItemName":  "European power cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  126.23,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195281",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3X2.5 rm(50/0.25 mm)-gray",
+                           "UOM":  "MTR",
+                           "Qty":  0.45405,
+                           "Price":  191.999,
+                           "Value":  87.17714595
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "293897",
+                           "RmName":  "Hollow Plug Insert 250V, 16A, P/N: B35N1",
+                           "UOM":  "PCS",
+                           "Qty":  1.0135,
+                           "Price":  23.58,
+                           "Value":  23.89833
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "100180",
+                           "RmName":  "PVC Soft Compound Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.06,
+                           "Price":  165.493,
+                           "Value":  9.92958
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113692",
+                           "RmName":  "Titanium Dioxide Rutile TI-Pure R 350/Tiona-288",
+                           "UOM":  "KG",
+                           "Qty":  0.000151131,
+                           "Price":  310.121,
+                           "Value":  0.046868896851
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114122",
+                           "RmName":  "Processing Additive for Masterbatch  BYK-P 4102/MAX-P-4102/PLASTAID-T/120D/500D",
+                           "UOM":  "KG",
+                           "Qty":  0.0001282,
+                           "Price":  1654.648,
+                           "Value":  0.2121258736
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "128753",
+                           "RmName":  "Microlen Black Pigment-0062 MC",
+                           "UOM":  "KG",
+                           "Qty":  0.0002311,
+                           "Price":  679.666,
+                           "Value":  0.1570708126
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113963",
+                           "RmName":  "Flame Retardant Masterbatch-FR 2126/FR-2100/FR-165/FR-1049/061/060",
+                           "UOM":  "KG",
+                           "Qty":  0.003347,
+                           "Price":  1437.966,
+                           "Value":  4.812872202
+                       }
+                   ]
+}

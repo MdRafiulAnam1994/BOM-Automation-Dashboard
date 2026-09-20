@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "286573",
+    "ItemName":  "Clamping Sheet metal 1 -HC-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2.12,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.01666,
+                           "Price":  127.198,
+                           "Value":  2.11911868
+                       }
+                   ]
+}

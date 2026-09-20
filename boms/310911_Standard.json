@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310911",
+    "ItemName":  "Front Lower Panel 24HP-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  603.04,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  5.25,
+                           "Price":  114.864,
+                           "Value":  603.036
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282194",
+    "ItemName":  "Top Panel- B/C (1.0t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  326.37,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222355",
+                           "RmName":  "Aluzinc Sheet (1.00x1065)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.28,
+                           "Price":  143.144,
+                           "Value":  326.36832
+                       }
+                   ]
+}

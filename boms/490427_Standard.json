@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "490427",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER Indoor Blower WSI-INVERNA(SUPERSAVER)-24H(PLASMA)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  19046.94,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ST AC",
+                           "MinorCategory":  "SFG ST AC",
+                           "RmCode":  "490420",
+                           "RmName":  "Indoor Blower Part Middle",
+                           "UOM":  "PCS",
+                           "Qty":  600,
+                           "Price":  23.756,
+                           "Value":  14253.6
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ST AC",
+                           "MinorCategory":  "SFG ST AC",
+                           "RmCode":  "490422",
+                           "RmName":  "Indoor Blower Top \u0026 Bottom",
+                           "UOM":  "PCS",
+                           "Qty":  60,
+                           "Price":  79.889,
+                           "Value":  4793.34
+                       }
+                   ]
+}

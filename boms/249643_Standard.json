@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "249643",
+    "ItemName":  "ABS UV Stabilizer Master Batch",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  418.69,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113426",
+                           "RmName":  "Resin-SAN Grade 82TR/A20C 333/310 NTR",
+                           "UOM":  "KG",
+                           "Qty":  0.68289,
+                           "Price":  220.523,
+                           "Value":  150.59295147
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114003",
+                           "RmName":  "Anti-Oxidant Additive Irganox B 900/VB Additive-9088",
+                           "UOM":  "KG",
+                           "Qty":  0.017442,
+                           "Price":  804.785,
+                           "Value":  14.03705997
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114149",
+                           "RmName":  "Light Stabilizer Uvinul 4050.",
+                           "UOM":  "KG",
+                           "Qty":  0.043758,
+                           "Price":  2031.081,
+                           "Value":  88.876042398
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "188734",
+                           "RmName":  "Tinuvin 234",
+                           "UOM":  "KG",
+                           "Qty":  0.043758,
+                           "Price":  2523.315,
+                           "Value":  110.41521777
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113449",
+                           "RmName":  "ABS Resin HI 121H - Korea/ABS Resin PA-757 - Taiwan",
+                           "UOM":  "KG",
+                           "Qty":  0.26265,
+                           "Price":  208.52,
+                           "Value":  54.767778
+                       }
+                   ]
+}

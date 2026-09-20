@@ -1,0 +1,132 @@
+﻿{
+    "ItemCode":  "501997",
+    "ItemName":  "12K Non -Inverter Power Cable 1.5 M ( G Type Power Plug)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  205.14,
+    "TotalRMCount":  11,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429540",
+                           "RmName":  "G-Type UK Plug Insert (Draw no. XY-A-015-3)",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  33.822,
+                           "Value":  33.99111
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429541",
+                           "RmName":  "G-Type UK Plug Insert Cover (Draw no. Xy-S-002)",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  3.413,
+                           "Value":  3.430065
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "429542",
+                           "RmName":  "G-Type UK Plug Insert Fuse Cover K01 (P/N: 18-17102-05)",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  1.869,
+                           "Value":  1.878345
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195280",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3X1.0 rm(32/0.20 mm) -gray",
+                           "UOM":  "MTR",
+                           "Qty":  1.5135,
+                           "Price":  87.539,
+                           "Value":  132.4902765
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  2.344,
+                           "Value":  2.35572
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112994",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube  5mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0224,
+                           "Price":  6.169,
+                           "Value":  0.1381856
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.006,
+                           "Price":  2.322,
+                           "Value":  4.657932
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "500361",
+                           "RmName":  "Fuse 13A, 250V",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  9.497,
+                           "Value":  9.497
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.00134251,
+                           "Price":  268.159,
+                           "Value":  0.36000613909
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "100180",
+                           "RmName":  "PVC Soft Compound Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.06,
+                           "Price":  165.493,
+                           "Value":  9.92958
+                       }
+                   ]
+}

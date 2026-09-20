@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "252199",
+    "ItemName":  "Walton Made MS Wire 1.20 mm Soft (SFG)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113169",
+                           "RmName":  "Coil Wire 5.5mm SAE 1008(For soft wire making)",
+                           "UOM":  "KG",
+                           "Qty":  1.0125,
+                           "Price":  0,
+                           "Value":  0
+                       }
+                   ]
+}

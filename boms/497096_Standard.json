@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "497096",
+    "ItemName":  "Fan Stand -D - BO DC Motor 250W (1.5t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  499.61,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.022562,
+                           "Price":  124.203,
+                           "Value":  499.614268086
+                       }
+                   ]
+}

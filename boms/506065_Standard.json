@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "506065",
+    "ItemName":  "B IDU Vertical Vane Guide",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  8.23,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "163972",
+                           "RmName":  "Polycarbonate (PC)-ABS ALLOY HI 500 2A",
+                           "UOM":  "KG",
+                           "Qty":  0.017442,
+                           "Price":  466.949,
+                           "Value":  8.144524458
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "479568",
+                           "RmName":  "Walton PP Deep Grey Masterbatch 425 W79102",
+                           "UOM":  "KG",
+                           "Qty":  0.000262,
+                           "Price":  332.808,
+                           "Value":  0.087195696
+                       }
+                   ]
+}

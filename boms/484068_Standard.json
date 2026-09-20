@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "484068",
+    "ItemName":  "200mm Cable Tie",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.5,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124380",
+                           "RmName":  "Nylon Resin/Polymide ULT A3SK/N200SL PA66",
+                           "UOM":  "KG",
+                           "Qty":  0.001165894,
+                           "Price":  428.282,
+                           "Value":  0.499331414108
+                       }
+                   ]
+}

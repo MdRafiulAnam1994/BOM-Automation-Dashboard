@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "388120",
+    "ItemName":  "30K Non Inverter Indoor Power Cable",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  971.12,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "363063",
+                           "RmName":  "Ring Type Connector RV 3.5-4",
+                           "UOM":  "PCS",
+                           "Qty":  1.005,
+                           "Price":  8.666,
+                           "Value":  8.70933
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112994",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube  5mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0672,
+                           "Price":  6.169,
+                           "Value":  0.4145568
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "403164",
+                           "RmName":  "Walton Flexible Cord (300/500 V) 3 x 3.0 rm(110/0.19mm) Gray",
+                           "UOM":  "MTR",
+                           "Qty":  5.045,
+                           "Price":  188.488,
+                           "Value":  950.92196
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  2.006,
+                           "Price":  2.322,
+                           "Value":  4.657932
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  3.192,
+                           "Value":  6.41592
+                       }
+                   ]
+}

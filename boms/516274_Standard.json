@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "516274",
+    "ItemName":  "PCB Plate - FRD - 0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  85.32,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.762315258,
+                           "Price":  111.916,
+                           "Value":  85.315274414328
+                       }
+                   ]
+}

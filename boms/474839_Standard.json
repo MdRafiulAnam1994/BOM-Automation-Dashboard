@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "474839",
+    "ItemName":  "115W TRUSTEC AC Motor SFG Assembly",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  3483.89,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "268783",
+                           "RmName":  "Fan Motor 60K AC5PYDK 120-115-6C, Model: YDK-115-6A2 INV",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  3460.947,
+                           "Value":  3460.947
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  3.192,
+                           "Value":  13.27872
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  4.16,
+                           "Price":  2.322,
+                           "Value":  9.65952
+                       }
+                   ]
+}

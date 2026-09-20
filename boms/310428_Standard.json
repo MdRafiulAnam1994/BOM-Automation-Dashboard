@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "310428",
+    "ItemName":  "Cable Set for ERV",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  129.58,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195266",
+                           "RmName":  "1x1.0 rm Cable WCP Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.3333,
+                           "Price":  17.24,
+                           "Value":  5.746092
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195273",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.5 rm (30/0.25 mm)-Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.34034,
+                           "Price":  17.582,
+                           "Value":  5.98385788
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195274",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.5 rm (30/0.25 mm)- Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.4004,
+                           "Price":  22.077,
+                           "Value":  8.8396308
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  12.48,
+                           "Price":  3.192,
+                           "Value":  39.83616
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  12.48,
+                           "Price":  2.322,
+                           "Value":  28.97856
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "226257",
+                           "RmName":  "1x1.0 rm-Cable WCP -Orange",
+                           "UOM":  "MTR",
+                           "Qty":  0.3003,
+                           "Price":  23.046,
+                           "Value":  6.9207138
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195259",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm (32/0.20 mm)- Black",
+                           "UOM":  "MTR",
+                           "Qty":  0.26026,
+                           "Price":  23.106,
+                           "Value":  6.01356756
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.189,
+                           "Price":  6.153,
+                           "Value":  1.162917
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  9.36,
+                           "Price":  2.788,
+                           "Value":  26.09568
+                       }
+                   ]
+}

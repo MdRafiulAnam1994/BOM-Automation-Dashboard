@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "478177",
+    "ItemName":  "Upper Panel 24HP-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  449.41,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  3.91375,
+                           "Price":  114.828,
+                           "Value":  449.408085
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282200",
+    "ItemName":  "Valve stand-A (1t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  22.59,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.19675,
+                           "Price":  114.83,
+                           "Value":  22.5928025
+                       }
+                   ]
+}

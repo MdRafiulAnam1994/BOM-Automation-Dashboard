@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311001",
+    "ItemName":  "RHS Clamp Stand 19.25k FCU-0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  39.16,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.349905617,
+                           "Price":  111.916,
+                           "Value":  39.160037032172
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "443038",
+    "ItemName":  "Front panel-J (0.5t) Outlook-2",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  213.23,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456352",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.5x1100)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.701,
+                           "Price":  125.355,
+                           "Value":  213.228855
+                       }
+                   ]
+}

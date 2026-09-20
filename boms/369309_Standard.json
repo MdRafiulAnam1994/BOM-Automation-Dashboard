@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "369309",
+    "ItemName":  "HexaComb Indoor Indoor Wind Guide",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  302.95,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124289",
+                           "RmName":  "Abs Resin Fr V0/MW100 015 (Natural Color)",
+                           "UOM":  "KG",
+                           "Qty":  0.737167662,
+                           "Price":  405.105,
+                           "Value":  298.63030571451
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.016140894,
+                           "Price":  267.754,
+                           "Value":  4.321788932076
+                       }
+                   ]
+}

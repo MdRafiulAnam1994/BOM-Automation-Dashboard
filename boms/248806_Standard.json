@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "248806",
+    "ItemName":  "Strainer 6 mm (OD) X 3.1 mm (ID)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  49.77,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "409895",
+                           "RmName":  "AC Conical Filter Mesh, Spec: OD:17.10mm",
+                           "UOM":  "PCS",
+                           "Qty":  1.03,
+                           "Price":  9.172,
+                           "Value":  9.44716
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "242963",
+                           "RmName":  "Copper Tube (OD-19 x T-1 x L-1925)mm",
+                           "UOM":  "KG",
+                           "Qty":  0.0267,
+                           "Price":  1510.284,
+                           "Value":  40.3245828
+                       }
+                   ]
+}

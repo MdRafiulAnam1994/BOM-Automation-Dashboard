@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "231496",
+    "ItemName":  "Plastic Electric Box Cover 18K",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  17.52,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124289",
+                           "RmName":  "Abs Resin Fr V0/MW100 015 (Natural Color)",
+                           "UOM":  "KG",
+                           "Qty":  0.04326,
+                           "Price":  405.105,
+                           "Value":  17.5248423
+                       }
+                   ]
+}

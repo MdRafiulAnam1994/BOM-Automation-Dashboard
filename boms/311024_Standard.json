@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311024",
+    "ItemName":  "Condenser Front Guard 20HP-4t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  96.38,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116447",
+                           "RmName":  "MS Wire 4mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  1.1,
+                           "Price":  87.616,
+                           "Value":  96.3776
+                       }
+                   ]
+}

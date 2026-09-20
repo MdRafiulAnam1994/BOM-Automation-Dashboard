@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "231498",
+    "ItemName":  "Indoor Base 12K Light Grey",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  319.02,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "151610",
+                           "RmName":  "Walton ABS light Grey Masterbatch",
+                           "UOM":  "KG",
+                           "Qty":  0.018297,
+                           "Price":  252.062,
+                           "Value":  4.611978414
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113757",
+                           "RmName":  "Styroflex Resin  2G 66",
+                           "UOM":  "KG",
+                           "Qty":  0.0381,
+                           "Price":  417.121,
+                           "Value":  15.8923101
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  1.6585255,
+                           "Price":  179.99,
+                           "Value":  298.518004745
+                       }
+                   ]
+}

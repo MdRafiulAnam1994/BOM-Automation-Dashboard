@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "291133",
+    "ItemName":  "Top panel-Z (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  320.74,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.7932055,
+                           "Price":  114.828,
+                           "Value":  320.738201154
+                       }
+                   ]
+}

@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "275743",
+    "ItemName":  "VRF ODU Pressure Switch with Connector",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  470.3,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "250603",
+                           "RmName":  "Connector Model: JST XAP-02v",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  81.695,
+                           "Value":  84.9628
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222898",
+                           "RmName":  "High Pressure Switch PSW,H20PS B 4.15/3.11MPa3000mm",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  369.694,
+                           "Value":  384.48176
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482279",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3 mm- for 1.0rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.01575,
+                           "Price":  10.83,
+                           "Value":  0.1705725
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.01575,
+                           "Price":  43.682,
+                           "Value":  0.6879915
+                       }
+                   ]
+}

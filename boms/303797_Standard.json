@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "303797",
+    "ItemName":  "WSN-KRYSTALINE-12FH-0302-Non-inverter compressor earthing cable without logo",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  15.25,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195267",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.0 rm(32/0.20 mm) -Green Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.44352,
+                           "Price":  23.142,
+                           "Value":  10.26393984
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112994",
+                           "RmName":  "Thermal Shrinkable Sleeve/Heat shrink tube  5mm)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0448,
+                           "Price":  6.169,
+                           "Value":  0.2763712
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423589",
+                           "RmName":  "Ring Type Connector Jam 2.5T 110402-2",
+                           "UOM":  "PCS",
+                           "Qty":  2.01,
+                           "Price":  2.344,
+                           "Value":  4.71144
+                       }
+                   ]
+}

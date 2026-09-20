@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "436851",
+    "ItemName":  "M ODU Circular Front net",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  73.32,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113421",
+                           "RmName":  "Calcium Filler Compound Resin(Masterbatch1262/4300) PP80/DS-TCB/HP2580R/VCP80I",
+                           "UOM":  "KG",
+                           "Qty":  0.1756227,
+                           "Price":  50.219,
+                           "Value":  8.8195963713
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255911",
+                           "RmName":  "PP Ivory CMR-02201609",
+                           "UOM":  "KG",
+                           "Qty":  0.0122892,
+                           "Price":  253.959,
+                           "Value":  3.1209529428
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.4390881,
+                           "Price":  139.787,
+                           "Value":  61.3788082347
+                       }
+                   ]
+}

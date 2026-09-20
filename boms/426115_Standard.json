@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "426115",
+    "ItemName":  "Left evaporator support FA14 2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  64.49,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.507013951,
+                           "Price":  127.198,
+                           "Value":  64.491160539298
+                       }
+                   ]
+}

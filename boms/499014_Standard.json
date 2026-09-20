@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "499014",
+    "ItemName":  "28HP VRF ODU Filter PCB to Fan Driver#1, Fan Driver#2 and Logic PCB Line Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  70.43,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195273",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x1.5 rm (30/0.25 mm)-Red",
+                           "UOM":  "MTR",
+                           "Qty":  2.677,
+                           "Price":  17.582,
+                           "Value":  47.067014
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423602",
+                           "RmName":  "Straight Blade Connector JAM 2.5T 225332-2",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  3.192,
+                           "Value":  9.95904
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "423603",
+                           "RmName":  "Sleeve 63N004V0750NF/0780241090-1",
+                           "UOM":  "PCS",
+                           "Qty":  3.12,
+                           "Price":  2.322,
+                           "Value":  7.24464
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "234466",
+                           "RmName":  "Insulated Copper Lugs (O-Type) 6 Rm",
+                           "UOM":  "PCS",
+                           "Qty":  1.04,
+                           "Price":  2.284,
+                           "Value":  2.37536
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482279",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 3 mm- for 1.0rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.045,
+                           "Price":  10.83,
+                           "Value":  0.48735
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482281",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 7 mm- for 10rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.02,
+                           "Price":  22.69,
+                           "Value":  0.4538
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.065,
+                           "Price":  43.682,
+                           "Value":  2.83933
+                       }
+                   ]
+}

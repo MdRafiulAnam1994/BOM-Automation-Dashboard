@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282204",
+    "ItemName":  "Top panel-D/E/G (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  330.41,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.877408,
+                           "Price":  114.828,
+                           "Value":  330.407005824
+                       }
+                   ]
+}

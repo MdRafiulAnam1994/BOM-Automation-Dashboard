@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310981",
+    "ItemName":  "Hanging Clamp 3.5k FCU-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  13.08,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.102830826,
+                           "Price":  127.198,
+                           "Value":  13.079875405548
+                       }
+                   ]
+}

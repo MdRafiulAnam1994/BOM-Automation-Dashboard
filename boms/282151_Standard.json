@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282151",
+    "ItemName":  "24K Outdoor Electric Box Support- C (1.0t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  47.61,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.414583,
+                           "Price":  114.83,
+                           "Value":  47.60656589
+                       }
+                   ]
+}

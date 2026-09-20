@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "288059",
+    "ItemName":  "Float Switch Clamp -HC-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1.27,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.01104,
+                           "Price":  114.828,
+                           "Value":  1.26770112
+                       }
+                   ]
+}

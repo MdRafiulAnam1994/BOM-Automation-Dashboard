@@ -1,0 +1,176 @@
+﻿{
+    "ItemCode":  "479725",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSN12AJB2-DMXX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  22431.68,
+    "TotalRMCount":  15,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "169206",
+                           "RmName":  "12K FS IDU PCB 25W AC Motor M12H2NCIAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  220.467,
+                           "Value":  661.401
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "195216",
+                           "RmName":  "12K INV IDU PCB 25W AC Motor M12H1ICIAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  256.277,
+                           "Value":  768.831
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "156542",
+                           "RmName":  "18K FS IDU PCB 35W AC Motor M18H2NCIAZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  250.304,
+                           "Value":  750.912
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "191689",
+                           "RmName":  "18K INV IDU PCB 35W AC Motor M18H1ICIAZIS01 (EXP)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  353.565,
+                           "Value":  1060.695
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "170655",
+                           "RmName":  "24K FS IDU PCB 45W AC Motor M24H1NCIAZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  260.253,
+                           "Value":  260.253
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "417779",
+                           "RmName":  "RAC 24K Common Inverter IDU PCB BLDC Motor M30H1IHIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  223.162,
+                           "Value":  223.162
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430122",
+                           "RmName":  "12K \u0026 18K Inverter F4 Common ODU PCB, P/N: M18F4ICOAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  1590.985,
+                           "Value":  4772.955
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "377442",
+                           "RmName":  "24k INV ODU PCB-F2-M24F21COAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  2977.48,
+                           "Value":  2977.48
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "438694",
+                           "RmName":  "Fixed Speed IDU 35W AC Motor Wolong YYW35-4-5264",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  887.512,
+                           "Value":  1775.024
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "288669",
+                           "RmName":  "Fixed Speed IDU 25W AC Motor Wolong YYW25-4-5201L",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  420.058,
+                           "Value":  840.116
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "148827",
+                           "RmName":  "INV IDU 45W DC Motor Wolong ZWA138D71B",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1456.588,
+                           "Value":  1456.588
+                       },
+                       {
+                           "SL":  12,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "167639",
+                           "RmName":  "Fixed Speed IDU 45W AC Motor Wolong YYW45-4-5202",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1455.692,
+                           "Value":  1455.692
+                       },
+                       {
+                           "SL":  13,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "404804",
+                           "RmName":  "Fixed Speed ODU 54W AC Motor Wolong KFD-55K, P/N: W1A54OPG",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  1021.585,
+                           "Value":  2043.17
+                       },
+                       {
+                           "SL":  14,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "424162",
+                           "RmName":  "Fixed Speed ODU 25W AL AC Motor Wolong (YYW25-6-17048L), P/N: W4A25OPG",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  805.639,
+                           "Value":  1611.278
+                       },
+                       {
+                           "SL":  15,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430127",
+                           "RmName":  "Fixed Speed ODU 75W AC Motor Wolong, P/N: W1A75OPG",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1774.126,
+                           "Value":  1774.126
+                       }
+                   ]
+}

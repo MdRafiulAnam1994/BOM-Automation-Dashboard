@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310853",
+    "ItemName":  "Evaporator Clamp 5.6-71.k-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  5.4,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.04703953,
+                           "Price":  114.828,
+                           "Value":  5.40145515084
+                       }
+                   ]
+}

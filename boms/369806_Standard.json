@@ -1,0 +1,88 @@
+﻿{
+    "ItemCode":  "369806",
+    "ItemName":  "Ducted-Split ODU Terminal Block to Magnetic Contactor Cable",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  100.83,
+    "TotalRMCount":  7,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195276",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x2.5 rm (50/0.25 mm)-Blue",
+                           "UOM":  "MTR",
+                           "Qty":  0.51,
+                           "Price":  55.625,
+                           "Value":  28.36875
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "195277",
+                           "RmName":  "Walton Flexible Cable (300/500 V) 1x2.5 rm (50/0.25 mm)-Red",
+                           "UOM":  "MTR",
+                           "Qty":  0.525,
+                           "Price":  41.825,
+                           "Value":  21.958125
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "384564",
+                           "RmName":  "Walton Flexible Cable ( 300/500 V) 1 x 2.5 rm(50/0.25mm) Yellow",
+                           "UOM":  "MTR",
+                           "Qty":  0.525,
+                           "Price":  54.338,
+                           "Value":  28.52745
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "482278",
+                           "RmName":  "PVC Ferrule Tube Inner Dia: 4 mm- for 2.5rm",
+                           "UOM":  "MTR",
+                           "Qty":  0.0657,
+                           "Price":  14.23,
+                           "Value":  0.934911
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "510049",
+                           "RmName":  "Cable ID INK Ribbon Cassette, L-150M, Model: RC-TU150B (Black)",
+                           "UOM":  "MTR",
+                           "Qty":  0.0657,
+                           "Price":  43.682,
+                           "Value":  2.8699074
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "520883",
+                           "RmName":  "Heat Shrink Tube (Master)",
+                           "UOM":  "MTR",
+                           "Qty":  0.126,
+                           "Price":  6.153,
+                           "Value":  0.775278
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "517728",
+                           "RmName":  "Y Type Connector (M), TU4200-1604(HCB),2y-3.5 JAM",
+                           "UOM":  "PCS",
+                           "Qty":  6.24,
+                           "Price":  2.788,
+                           "Value":  17.39712
+                       }
+                   ]
+}

@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "535862",
+    "ItemName":  "18K D IDU Screw Cover",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  1.1,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "124284",
+                           "RmName":  "HIPS Resin-4440/476L/PS 350/325/MA5210/S834/RT441M/3331/HI650/HP835G",
+                           "UOM":  "KG",
+                           "Qty":  0.005385867,
+                           "Price":  154.105,
+                           "Value":  0.829989034035
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "368466",
+                           "RmName":  "Walton Made PS UV Absorber MB",
+                           "UOM":  "KG",
+                           "Qty":  0.000379535,
+                           "Price":  486.535,
+                           "Value":  0.184657061225
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "297688",
+                           "RmName":  "Walton HIPS Pure White Master Batch WM-WPS 36 (Double Doze)",
+                           "UOM":  "KG",
+                           "Qty":  0.00024909,
+                           "Price":  333.545,
+                           "Value":  0.08308272405
+                       }
+                   ]
+}

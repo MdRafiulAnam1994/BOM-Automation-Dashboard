@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "401895",
+    "ItemName":  "Base- 24H Non Inv (1.2t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  554.86,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  3.9987,
+                           "Price":  130.932,
+                           "Value":  523.5577884
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "408289",
+                           "RmName":  "Round head bolt with shank M8-1.25*70 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  8.366,
+                           "Value":  25.098
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "102823",
+                           "RmName":  "Mig Wire 1mm",
+                           "UOM":  "KG",
+                           "Qty":  0.03231,
+                           "Price":  192.024,
+                           "Value":  6.20429544
+                       }
+                   ]
+}

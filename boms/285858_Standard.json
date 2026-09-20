@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "285858",
+    "ItemName":  "PCB clamp-F (1.0t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  10.85,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222357",
+                           "RmName":  "Aluzinc Sheet (1.00x1160)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.081,
+                           "Price":  133.965,
+                           "Value":  10.851165
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "514520",
+    "ItemName":  "Separation Panel-Z (2.5R, F\u0026T, LCP) - (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  460.78,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456756",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1x1090)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.011506667,
+                           "Price":  114.864,
+                           "Value":  460.777701798288
+                       }
+                   ]
+}

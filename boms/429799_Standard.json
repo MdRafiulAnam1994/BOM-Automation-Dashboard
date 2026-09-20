@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "429799",
+    "ItemName":  "WDM90IFM20E/EX Poly (42\" x 66\")",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  145.31,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113432",
+                           "RmName":  "LLDPE Resin Q2018H/218WJ",
+                           "UOM":  "KG",
+                           "Qty":  0.1166,
+                           "Price":  137.127,
+                           "Value":  15.9890082
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "185679",
+                           "RmName":  "HDPE Resin FI0750 SABIC",
+                           "UOM":  "KG",
+                           "Qty":  0.933345,
+                           "Price":  138.561,
+                           "Value":  129.325216545
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "314283",
+    "ItemName":  "Condenser End Cover 20HP-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  239.51,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  1.829257178,
+                           "Price":  130.932,
+                           "Value":  239.508300829896
+                       }
+                   ]
+}

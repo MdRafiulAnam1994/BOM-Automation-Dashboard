@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "420048",
+    "ItemName":  "Seperation panel INV-F (0.4t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  78.58,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "420710",
+                           "RmName":  "0.4 mm sticker",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1.209,
+                           "Value":  1.209
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456354",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.4x1090)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.609,
+                           "Price":  127.047,
+                           "Value":  77.371623
+                       }
+                   ]
+}

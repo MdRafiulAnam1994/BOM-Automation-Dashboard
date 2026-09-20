@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "480447",
+    "ItemName":  "24K R1 PCB \u0026 Fan Stand Support- H(0.6t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  0.13,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222358",
+                           "RmName":  "Aluzinc Sheet (0.6x1080)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.001,
+                           "Price":  133.084,
+                           "Value":  0.133084
+                       }
+                   ]
+}

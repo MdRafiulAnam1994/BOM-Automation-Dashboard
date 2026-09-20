@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "314269",
+    "ItemName":  "Control Box Front Left 20HP-0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  68.18,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.609183278,
+                           "Price":  111.916,
+                           "Value":  68.177355740648
+                       }
+                   ]
+}

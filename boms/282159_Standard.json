@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282159",
+    "ItemName":  "90 degree PCB Support Clamp-A (1t)",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  2.99,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.026037,
+                           "Price":  114.83,
+                           "Value":  2.98982871
+                       }
+                   ]
+}

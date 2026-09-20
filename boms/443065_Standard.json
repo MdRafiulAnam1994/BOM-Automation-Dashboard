@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "443065",
+    "ItemName":  "Outdoor Back Net J",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  21.38,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116446",
+                           "RmName":  "MS Wire 2.5mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.246,
+                           "Price":  86.897,
+                           "Value":  21.376662
+                       }
+                   ]
+}

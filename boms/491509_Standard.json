@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "491509",
+    "ItemName":  "H/M ODU Handle-ABS",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2.85,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.0147038,
+                           "Price":  180.143,
+                           "Value":  2.6487866434
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "255914",
+                           "RmName":  "ABS Ivory CMR-02201610",
+                           "UOM":  "KG",
+                           "Qty":  0.0003992,
+                           "Price":  499.432,
+                           "Value":  0.1993732544
+                       }
+                   ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "472337",
+    "ItemName":  "Bypass Line W80-1.2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  42.28,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "134851",
+                           "RmName":  "Aluzinc /HDGS Steel Sheet (1.20x1220)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.322932,
+                           "Price":  130.932,
+                           "Value":  42.282132624
+                       }
+                   ]
+}

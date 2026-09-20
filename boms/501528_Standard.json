@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "501528",
+    "ItemName":  "B IDU INVERNA Top Panel-V3 With Acrylic Sheet",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  479.78,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ST AC",
+                           "MinorCategory":  "SFG ST AC",
+                           "RmCode":  "491606",
+                           "RmName":  "B IDU Inverna Top panel-ABS",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  169.345,
+                           "Value":  169.345
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "164104",
+                           "RmName":  "NPT-R Switch Black Metallic Silver",
+                           "UOM":  "KG",
+                           "Qty":  0.0015,
+                           "Price":  1182.415,
+                           "Value":  1.7736225
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "123584",
+                           "RmName":  "Plasticoat Thinner-613 .",
+                           "UOM":  "KG",
+                           "Qty":  0.0015,
+                           "Price":  460.786,
+                           "Value":  0.691179
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "441647",
+                           "RmName":  "Acrylic Sheet (798 x 1160) mm",
+                           "UOM":  "PCS",
+                           "Qty":  0.0444,
+                           "Price":  2960.038,
+                           "Value":  131.4256872
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "468293",
+                           "RmName":  "18K Inverna Decoration- Delsson Adhesive Tape  (933.10*72.30*9.30)mm",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  146.41,
+                           "Value":  146.41
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "ASEM ST AC",
+                           "MinorCategory":  "ASEM ST AC",
+                           "RmCode":  "133258",
+                           "RmName":  "Primer 94 (946ML Per Can)",
+                           "UOM":  "CAN",
+                           "Qty":  0.0015,
+                           "Price":  20088.39,
+                           "Value":  30.132585
+                       }
+                   ]
+}

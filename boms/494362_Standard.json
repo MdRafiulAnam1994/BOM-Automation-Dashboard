@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "494362",
+    "ItemName":  "B IDU Iconic Display Top panel-ABS",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  175.36,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "133380",
+                           "RmName":  "ABS Resin SD-0150W/MG47F/D-150/GP-22/AG15A1H/GA850/ZA0210/ZA0211/HI 121H (China)/PA-757(China)/ AG15AH/D180W",
+                           "UOM":  "KG",
+                           "Qty":  0.6626,
+                           "Price":  179.99,
+                           "Value":  119.261374
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "249643",
+                           "RmName":  "ABS UV Stabilizer Master Batch",
+                           "UOM":  "KG",
+                           "Qty":  0.0644,
+                           "Price":  477.221,
+                           "Value":  30.7330324
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "193089",
+                           "RmName":  "ABS Protect (O) White Masterbatch CMR-08191281",
+                           "UOM":  "KG",
+                           "Qty":  0.028,
+                           "Price":  905.755,
+                           "Value":  25.36114
+                       }
+                   ]
+}

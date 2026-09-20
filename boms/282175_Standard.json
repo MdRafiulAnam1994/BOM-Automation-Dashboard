@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "282175",
+    "ItemName":  "Fan Stand condenser Support-F,M (1.0t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  6.21,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222356",
+                           "RmName":  "Aluzinc Sheet (1.00x1030)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.052983169,
+                           "Price":  117.252,
+                           "Value":  6.212382531588
+                       }
+                   ]
+}

@@ -1,0 +1,44 @@
+﻿{
+    "ItemCode":  "365869",
+    "ItemName":  "Insulation Pipe -970 mm (24K/2 Ton)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  77.31,
+    "TotalRMCount":  3,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "271720",
+                           "RmName":  "Eva Foam 25T, Specification-(9X1250)mmX25M",
+                           "UOM":  "ROL",
+                           "Qty":  0.00569712,
+                           "Price":  13360.37,
+                           "Value":  76.1156311344
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "113432",
+                           "RmName":  "LLDPE Resin Q2018H/218WJ",
+                           "UOM":  "KG",
+                           "Qty":  0.00435024,
+                           "Price":  137.127,
+                           "Value":  0.59653536048
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "185679",
+                           "RmName":  "HDPE Resin FI0750 SABIC",
+                           "UOM":  "KG",
+                           "Qty":  0.00435024,
+                           "Price":  138.561,
+                           "Value":  0.60277360464
+                       }
+                   ]
+}

@@ -1,0 +1,66 @@
+﻿{
+    "ItemCode":  "490424",
+    "ItemName":  "VRF Compressor Jacket, AA55PHDG (In house)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1100.62,
+    "TotalRMCount":  5,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "421798",
+                           "RmName":  "Jacket Foil Tape, L-1000mm*W-1194 mm",
+                           "UOM":  "MTR",
+                           "Qty":  0.45,
+                           "Price":  330.472,
+                           "Value":  148.7124
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "468889",
+                           "RmName":  "Compressor Jacket Rubber Part, OD-240mm",
+                           "UOM":  "SQM",
+                           "Qty":  0.5488,
+                           "Price":  1421.054,
+                           "Value":  779.8744352
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "276622",
+                           "RmName":  "Cotton Thread (RM)",
+                           "UOM":  "PCS",
+                           "Qty":  0.084800507,
+                           "Price":  47.482,
+                           "Value":  4.026497673374
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "314100",
+                           "RmName":  "Cotton Wool (Recycled Demin), (40000*1590*5)mm",
+                           "UOM":  "ROL",
+                           "Qty":  0.010573563,
+                           "Price":  10543.639,
+                           "Value":  111.483831215757
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "406102",
+                           "RmName":  "Velcro 25mm For AC",
+                           "UOM":  "COL",
+                           "Qty":  0.125,
+                           "Price":  452.184,
+                           "Value":  56.523
+                       }
+                   ]
+}

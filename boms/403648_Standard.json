@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "403648",
+    "ItemName":  "Fan Stand 16HP-2t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  456.64,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  3.59,
+                           "Price":  127.198,
+                           "Value":  456.64082
+                       }
+                   ]
+}

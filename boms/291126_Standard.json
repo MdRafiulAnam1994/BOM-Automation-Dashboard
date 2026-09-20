@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "291126",
+    "ItemName":  "Base-Z (1.5t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  758.24,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  6.0207,
+                           "Price":  124.203,
+                           "Value":  747.7890021
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "244124",
+                           "RmName":  "Round head bolt with shank M8-1.25*53 (15)",
+                           "UOM":  "PCS",
+                           "Qty":  3,
+                           "Price":  3.484,
+                           "Value":  10.452
+                       }
+                   ]
+}

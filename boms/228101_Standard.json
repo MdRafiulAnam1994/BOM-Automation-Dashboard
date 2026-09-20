@@ -1,0 +1,55 @@
+﻿{
+    "ItemCode":  "228101",
+    "ItemName":  "Outdoor Fan (Dia:400mm)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  119.77,
+    "TotalRMCount":  4,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "112903",
+                           "RmName":  "Balance Punch",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  2.401,
+                           "Value":  9.604
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113521",
+                           "RmName":  "ABS Resin GP2200",
+                           "UOM":  "KG",
+                           "Qty":  0.406866,
+                           "Price":  262.543,
+                           "Value":  106.819820238
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114083",
+                           "RmName":  "Masterbatch PP Black EP 82037/103R/8921/8910/WM-126/BKE0108 PN",
+                           "UOM":  "KG",
+                           "Qty":  0.008134,
+                           "Price":  267.754,
+                           "Value":  2.177911036
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "222948",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (2.00 x1220)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.009221,
+                           "Price":  127.198,
+                           "Value":  1.172892758
+                       }
+                   ]
+}

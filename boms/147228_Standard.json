@@ -1,0 +1,110 @@
+﻿{
+    "ItemCode":  "147228",
+    "ItemName":  "Walton 24K Curve Series Indoor Carton (MFC)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  82.61,
+    "TotalRMCount":  9,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "113283",
+                           "RmName":  "Corn Flour",
+                           "UOM":  "KG",
+                           "Qty":  0.0526,
+                           "Price":  43,
+                           "Value":  2.2618
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "113336",
+                           "RmName":  "Caustic Soda",
+                           "UOM":  "KG",
+                           "Qty":  0.00322,
+                           "Price":  70.38,
+                           "Value":  0.2266236
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "113299",
+                           "RmName":  "W.R Resin",
+                           "UOM":  "KG",
+                           "Qty":  0.00114,
+                           "Price":  94.207,
+                           "Value":  0.10739598
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "113281",
+                           "RmName":  "Sohaga/Borax (Technical Granular)",
+                           "UOM":  "KG",
+                           "Qty":  0.00114,
+                           "Price":  149.171,
+                           "Value":  0.17005494
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "113379",
+                           "RmName":  "Stitching Wire 1.75X.75mm ( 30 kg Coil)",
+                           "UOM":  "KG",
+                           "Qty":  0.0104,
+                           "Price":  258.011,
+                           "Value":  2.6833144
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "113877",
+                           "RmName":  "Flexo Print Ink-Blue",
+                           "UOM":  "KG",
+                           "Qty":  0.00361,
+                           "Price":  454.64,
+                           "Value":  1.6412504
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "293251",
+                           "RmName":  "KRAFT-Liner Paper-150 GSM, 2220mm (87.4\")",
+                           "UOM":  "KG",
+                           "Qty":  0.3792,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "293259",
+                           "RmName":  "TEST-Liner Paper-150 GSM, 2220mm (87.4\")",
+                           "UOM":  "KG",
+                           "Qty":  0.3792,
+                           "Price":  0,
+                           "Value":  0
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "RAW MATERIAL",
+                           "MinorCategory":  "",
+                           "RmCode":  "293270",
+                           "RmName":  "Medium Paper-140 GSM, 2220mm (87.4\")",
+                           "UOM":  "KG",
+                           "Qty":  1.35884,
+                           "Price":  55.573,
+                           "Value":  75.51481532
+                       }
+                   ]
+}

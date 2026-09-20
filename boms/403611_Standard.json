@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "403611",
+    "ItemName":  "Condenser Front Guard 16HP-4t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  85.86,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "116447",
+                           "RmName":  "MS Wire 4mm Hard Walton Made",
+                           "UOM":  "KG",
+                           "Qty":  0.98,
+                           "Price":  87.616,
+                           "Value":  85.86368
+                       }
+                   ]
+}

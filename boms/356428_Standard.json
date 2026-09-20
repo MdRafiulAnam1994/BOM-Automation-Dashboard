@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "356428",
+    "ItemName":  "Bottom Panel 1 W150-1.5T",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  1498.58,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113388",
+                           "RmName":  "Aluzinc Sheet (W-1200 x T-1.50) mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  12.06553,
+                           "Price":  124.203,
+                           "Value":  1498.57502259
+                       }
+                   ]
+}

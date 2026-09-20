@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "476803",
+    "ItemName":  "Control Kit CB  Cover 0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  76.1,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.68,
+                           "Price":  111.916,
+                           "Value":  76.10288
+                       }
+                   ]
+}

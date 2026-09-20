@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "291132",
+    "ItemName":  "Separation Panel-Z (1t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  460.63,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  4.011506667,
+                           "Price":  114.828,
+                           "Value":  460.633287558276
+                       }
+                   ]
+}

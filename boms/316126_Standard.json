@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "316126",
+    "ItemName":  "Condenser Clamp Left (5mm)-F (0.7t)",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  8.73,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.078,
+                           "Price":  111.916,
+                           "Value":  8.729448
+                       }
+                   ]
+}

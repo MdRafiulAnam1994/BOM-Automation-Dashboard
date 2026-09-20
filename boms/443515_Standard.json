@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "443515",
+    "ItemName":  "Evap Support-2 9k CKD 1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  19.19,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.16709,
+                           "Price":  114.828,
+                           "Value":  19.18661052
+                       }
+                   ]
+}

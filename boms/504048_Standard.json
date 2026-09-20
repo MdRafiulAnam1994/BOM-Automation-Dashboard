@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "504048",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI24BMB2-DMEX",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  37611.85,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "430122",
+                           "RmName":  "12K \u0026 18K Inverter F4 Common ODU PCB, P/N: M18F4ICOAZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  1590.985,
+                           "Value":  15909.85
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "469225",
+                           "RmName":  "RAC 12K Single UART Inverter IDU PCB BLDC Motor, Part N: M12H3IHIDZLS01",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  222.388,
+                           "Value":  2223.88
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "469208",
+                           "RmName":  "RAC 18K Single UART Inverter IDU PCB BLDC Motor, P/N: M18H3IHIDZLS02",
+                           "UOM":  "PCS",
+                           "Qty":  10,
+                           "Price":  222.157,
+                           "Value":  2221.57
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "456052",
+                           "RmName":  "New Hexacomb IDU Control PCB, Model: HICG140WA-RUC",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  2406.148,
+                           "Value":  4812.296
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "428438",
+                           "RmName":  "36K Inverter ODU PCB, Model: HE100WA-LUCA",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  10479.334,
+                           "Value":  10479.334
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "409271",
+                           "RmName":  "Universal IDU PCB, Model: HICG180WA-RU",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  1964.924,
+                           "Value":  1964.924
+                       }
+                   ]
+}

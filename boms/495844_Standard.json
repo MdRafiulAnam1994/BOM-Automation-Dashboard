@@ -1,0 +1,231 @@
+﻿{
+    "ItemCode":  "495844",
+    "ItemName":  "Parts \u0026 Components for Commercial Air conditioner WFI36GBD2-FRXX",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  17522,
+    "TotalRMCount":  20,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "164543",
+                           "RmName":  "Drain Pump for Hexacomb,10.8W, Model: PSB12A19, Connector-VH",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  1286.263,
+                           "Value":  5145.052
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "266517",
+                           "RmName":  "Hexa-comb IDU Room Temperature Sensor (TR), Model: KTM41",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  77.132,
+                           "Value":  308.528
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "266518",
+                           "RmName":  "Hexa-comb IDU Coil Temperature Sensor (TE), Model: KTEC51",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  58.792,
+                           "Value":  235.168
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "380267",
+                           "RmName":  "Hexacomb Digital Display PCB HD140WA-B",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  414.401,
+                           "Value":  1657.604
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "451720",
+                           "RmName":  "Float Switch for Hexacomb, D/N: YKG-A01010-514,L-900mm, Connector: VH-2N",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  284.434,
+                           "Value":  1137.736
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "114043",
+                           "RmName":  "Capacitor 5uf, 450V",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  88.404,
+                           "Value":  353.616
+                       },
+                       {
+                           "SL":  7,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417520",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-1(TA), R-10K",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  58.752,
+                           "Value":  235.008
+                       },
+                       {
+                           "SL":  8,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417522",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-2(TSU),  R-10K",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  58.526,
+                           "Value":  234.104
+                       },
+                       {
+                           "SL":  9,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417523",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-3(TD), R-50K",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  58.533,
+                           "Value":  234.132
+                       },
+                       {
+                           "SL":  10,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "417524",
+                           "RmName":  "4/5 TR Inverter ODU Temp Sensor-4(TC), R-10K",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  58.219,
+                           "Value":  232.876
+                       },
+                       {
+                           "SL":  11,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "423581",
+                           "RmName":  "High Pressure Switch, Open-4.5Mpa, Close-3.5Mpa (Match-Well), Model: YK-4.5/3.5",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  221.143,
+                           "Value":  884.572
+                       },
+                       {
+                           "SL":  12,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "423583",
+                           "RmName":  "Low Pressure Switch, Open-0.15Mpa, Close- 0.3Mpa (Match-Well), Model: YK-0.15/0.3",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  224.695,
+                           "Value":  898.78
+                       },
+                       {
+                           "SL":  13,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "149555",
+                           "RmName":  "Capacitor 4uF 450V",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  36.923,
+                           "Value":  147.692
+                       },
+                       {
+                           "SL":  14,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "452345",
+                           "RmName":  "Ambient Temperature Sensor (550mm, 10K, PVC Tube 520mm) for 36K Inverter",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  67.898,
+                           "Value":  135.796
+                       },
+                       {
+                           "SL":  15,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "452346",
+                           "RmName":  "Discharge Temperature Sensor (450mm, 50K, Fiber Tube 400mmm, 6mm Dia) for 36K Inverter",
+                           "UOM":  "PCS",
+                           "Qty":  1,
+                           "Price":  68.167,
+                           "Value":  68.167
+                       },
+                       {
+                           "SL":  16,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "452347",
+                           "RmName":  "Coil Temperature Sensor (650mm, 10K, PVC Tube 600mmm, 6mm Dia) for 36K Inverter",
+                           "UOM":  "PCS",
+                           "Qty":  2,
+                           "Price":  68.169,
+                           "Value":  136.338
+                       },
+                       {
+                           "SL":  17,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "409272",
+                           "RmName":  "Ceiling Display PCB, Model: HD140WA-D",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  313.483,
+                           "Value":  1253.932
+                       },
+                       {
+                           "SL":  18,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "421094",
+                           "RmName":  "Room Temperature Sensor Ceiling/Cassette (420mm)",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  57.493,
+                           "Value":  229.972
+                       },
+                       {
+                           "SL":  19,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "421095",
+                           "RmName":  "Evaporator Sensor (TEM) for Ceiling (1500mm)",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  166.897,
+                           "Value":  667.588
+                       },
+                       {
+                           "SL":  20,
+                           "MajorCategory":  "SPARE ASM",
+                           "MinorCategory":  "SPARE ASM",
+                           "RmCode":  "440167",
+                           "RmName":  "Capacitor (5.0uf/450V/70/S3) 36K Cei X",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  831.334,
+                           "Value":  3325.336
+                       }
+                   ]
+}

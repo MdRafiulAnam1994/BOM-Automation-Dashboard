@@ -1,0 +1,77 @@
+﻿{
+    "ItemCode":  "290895",
+    "ItemName":  "Drain Pan Thermoforming Part",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  131.36,
+    "TotalRMCount":  6,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113422",
+                           "RmName":  "HIPS Resin Extrusion Polystyrol 576/SP-6409/6351/LG-3012/HP-825G/L600/HT-57M/H-312/S-834/SH400M/850 HG/RC-600/HI-630/HI450PG/PH-888G/HG-451/SH-400E",
+                           "UOM":  "KG",
+                           "Qty":  0.04491375,
+                           "Price":  179.187,
+                           "Value":  8.04796012125
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113424",
+                           "RmName":  "HIPS Resin Extrusion-2710/2157/8265/LG-309/HP-825S/ICE S900/ET-65/H835/R-940D /HI470R/SH-03/PH-88S/HI-615/ 632E/D-6007/HP945S",
+                           "UOM":  "KG",
+                           "Qty":  0.528612,
+                           "Price":  180.977,
+                           "Value":  95.666613924
+                       },
+                       {
+                           "SL":  3,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "114079",
+                           "RmName":  "Masterbatch Nano silver AM 2015-5/PI-05-3C",
+                           "UOM":  "KG",
+                           "Qty":  0.0011977,
+                           "Price":  1227.301,
+                           "Value":  1.4699384077
+                       },
+                       {
+                           "SL":  4,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "288708",
+                           "RmName":  "Walton Made Anti-Oxidant MB",
+                           "UOM":  "KG",
+                           "Qty":  0.0013195,
+                           "Price":  294.638,
+                           "Value":  0.388774841
+                       },
+                       {
+                           "SL":  5,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "288709",
+                           "RmName":  "Walton Made UV-Stabilizer MB",
+                           "UOM":  "KG",
+                           "Qty":  0.002632233,
+                           "Price":  539.461,
+                           "Value":  1.419987046413
+                       },
+                       {
+                           "SL":  6,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "288707",
+                           "RmName":  "Walton Made HIPS Deep Bluish White MB",
+                           "UOM":  "KG",
+                           "Qty":  0.087215567,
+                           "Price":  279.412,
+                           "Value":  24.369076006604
+                       }
+                   ]
+}

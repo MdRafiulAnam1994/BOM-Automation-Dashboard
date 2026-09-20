@@ -1,0 +1,33 @@
+﻿{
+    "ItemCode":  "499225",
+    "ItemName":  "Remote Hanger 3",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  2.56,
+    "TotalRMCount":  2,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "113367",
+                           "RmName":  "PP Resin EP 548P/M1500/EP649N/P740J/ST031/J740/BF970MO",
+                           "UOM":  "KG",
+                           "Qty":  0.0174968,
+                           "Price":  139.787,
+                           "Value":  2.4458251816
+                       },
+                       {
+                           "SL":  2,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "144390",
+                           "RmName":  "Walton PP milky white master batch (WM-WPP 002)",
+                           "UOM":  "KG",
+                           "Qty":  0.0003565,
+                           "Price":  327.243,
+                           "Value":  0.1166621295
+                       }
+                   ]
+}

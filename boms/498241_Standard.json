@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "498241",
+    "ItemName":  "PARTS \u0026 COMPONENTS FOR AIR CONDITIONER WSI-OCEANUS-18M",
+    "Version":  "Standard",
+    "Org":  "RAC",
+    "UnitCode":  "202",
+    "RMCost":  9420.22,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SP ASM ST",
+                           "MinorCategory":  "SP ASM ST",
+                           "RmCode":  "379586",
+                           "RmName":  "M ODU Condenser (OD5 13HP 1R 2WD)",
+                           "UOM":  "PCS",
+                           "Qty":  4,
+                           "Price":  2355.055,
+                           "Value":  9420.22
+                       }
+                   ]
+}

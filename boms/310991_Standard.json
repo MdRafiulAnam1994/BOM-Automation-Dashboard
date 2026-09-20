@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "310991",
+    "ItemName":  "Drain Pan 3.5k FCU-0.7t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  322.08,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "456351",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (0.7x1200)mm, Commercial Grade",
+                           "UOM":  "KG",
+                           "Qty":  2.877852946,
+                           "Price":  111.916,
+                           "Value":  322.077790304536
+                       }
+                   ]
+}

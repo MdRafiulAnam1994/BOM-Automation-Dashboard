@@ -1,0 +1,22 @@
+﻿{
+    "ItemCode":  "311005",
+    "ItemName":  "Evaporator Lock 19.25k FCU-1t",
+    "Version":  "Standard",
+    "Org":  "CAC",
+    "UnitCode":  "643",
+    "RMCost":  3.83,
+    "TotalRMCount":  1,
+    "Components":  [
+                       {
+                           "SL":  1,
+                           "MajorCategory":  "SFG ASM ST",
+                           "MinorCategory":  "SFG ASM ST",
+                           "RmCode":  "178332",
+                           "RmName":  "Aluzinc/HDGS Steel Sheet (1.00x1200)mm, Drawing Grade",
+                           "UOM":  "KG",
+                           "Qty":  0.033327753,
+                           "Price":  114.828,
+                           "Value":  3.826959221484
+                       }
+                   ]
+}
