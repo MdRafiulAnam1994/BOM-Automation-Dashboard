@@ -141,7 +141,16 @@ while ($listener.IsListening) {
                     $recordsList = [System.Collections.Generic.List[PSCustomObject]]::new()
                     foreach ($row in $csv) {
                         $month = ($row.Month + "").Trim()
+                        $remarks = ($row.Remarks + "").Trim()
+                        $rmCode = ($row.'RM Item Code' + "").Trim()
+                        $itemName = ($row.'Item Name' + "").Trim()
+                        $model = ($row.Model + "").Trim()
+
                         if ([string]::IsNullOrWhiteSpace($month)) { continue }
+                        if ([string]::IsNullOrWhiteSpace($remarks) -and [string]::IsNullOrWhiteSpace($rmCode) -and [string]::IsNullOrWhiteSpace($itemName) -and [string]::IsNullOrWhiteSpace($model)) {
+                            continue
+                        }
+
                         $rec = [PSCustomObject]@{
                             mailNo        = ($row.'Mail No' + "").Trim()
                             org           = ($row.ORG + "").Trim()
@@ -149,16 +158,16 @@ while ($listener.IsListening) {
                             unit          = ($row.Unit + "").Trim()
                             month         = $month
                             mailConcern   = ($row.'Mail Concern' + "").Trim()
-                            model         = ($row.Model + "").Trim()
+                            model         = $model
                             version       = ($row.Version + "").Trim()
-                            rmItemCode    = ($row.'RM Item Code' + "").Trim()
-                            itemName      = ($row.'Item Name' + "").Trim()
+                            rmItemCode    = $rmCode
+                            itemName      = $itemName
                             bomQty        = ($row.'BOM Qty' + "").Trim()
                             physicalQty   = ($row.'Physical Qty' + "").Trim()
                             productionQty = ($row.'Production Qty' + "").Trim()
                             valueProduct  = ($row.'Value/  Product' + "").Trim()
                             totalCostSave = ($row.'Total Cost Save' + "").Trim()
-                            remarks       = ($row.Remarks + "").Trim()
+                            remarks       = $remarks
                             mailSubject   = ($row.'Mail Subject' + "").Trim()
                         }
                         $recordsList.Add($rec)

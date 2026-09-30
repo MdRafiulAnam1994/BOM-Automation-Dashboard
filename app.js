@@ -1236,28 +1236,34 @@ function parseEbsHtmlTable(htmlText, filename) {
 function processUploadedRows(rows, filename) {
   const parsed = [];
   rows.forEach(row => {
-    const month = row.Month || row.month || '';
-    if (month && month.toString().trim()) {
-      parsed.push({
-        mailNo: (row['Mail No'] || row.mailNo || '').toString().trim(),
-        org: (row.ORG || row.Org || row.org || '').toString().trim(),
-        size: (row.Size || row.size || '').toString().trim(),
-        unit: (row.Unit || row.unit || '').toString().trim(),
-        month: month.toString().trim(),
-        mailConcern: (row['Mail Concern'] || row.mailConcern || '').toString().trim(),
-        model: (row.Model || row.model || '').toString().trim(),
-        version: (row.Version || row.version || '').toString().trim(),
-        rmItemCode: (row['RM Item Code'] || row.rmItemCode || '').toString().trim(),
-        itemName: (row['Item Name'] || row.itemName || '').toString().trim(),
-        bomQty: (row['BOM Qty'] || row.bomQty || '').toString().trim(),
-        physicalQty: (row['Physical Qty'] || row.physicalQty || '').toString().trim(),
-        productionQty: (row['Production Qty'] || row.productionQty || '').toString().trim(),
-        valueProduct: (row['Value/  Product'] || row['Value/ Product'] || row.valueProduct || '').toString().trim(),
-        totalCostSave: (row['Total Cost Save'] || row.totalCostSave || '').toString().trim(),
-        remarks: (row.Remarks || row.remarks || '').toString().trim(),
-        mailSubject: (row['Mail Subject'] || row.mailSubject || '').toString().trim()
-      });
-    }
+    const month = (row.Month || row.month || '').toString().trim();
+    const remarks = (row.Remarks || row.remarks || '').toString().trim();
+    const rmItemCode = (row['RM Item Code'] || row.rmItemCode || '').toString().trim();
+    const itemName = (row['Item Name'] || row.itemName || '').toString().trim();
+    const model = (row.Model || row.model || '').toString().trim();
+
+    // Skip empty placeholder / template rows
+    if (!month || (!remarks && !rmItemCode && !itemName && !model)) return;
+
+    parsed.push({
+      mailNo: (row['Mail No'] || row.mailNo || '').toString().trim(),
+      org: (row.ORG || row.Org || row.org || '').toString().trim(),
+      size: (row.Size || row.size || '').toString().trim(),
+      unit: (row.Unit || row.unit || '').toString().trim(),
+      month: month,
+      mailConcern: (row['Mail Concern'] || row.mailConcern || '').toString().trim(),
+      model: model,
+      version: (row.Version || row.version || '').toString().trim(),
+      rmItemCode: rmItemCode,
+      itemName: itemName,
+      bomQty: (row['BOM Qty'] || row.bomQty || '').toString().trim(),
+      physicalQty: (row['Physical Qty'] || row.physicalQty || '').toString().trim(),
+      productionQty: (row['Production Qty'] || row.productionQty || '').toString().trim(),
+      valueProduct: (row['Value/  Product'] || row['Value/ Product'] || row.valueProduct || '').toString().trim(),
+      totalCostSave: (row['Total Cost Save'] || row.totalCostSave || '').toString().trim(),
+      remarks: remarks,
+      mailSubject: (row['Mail Subject'] || row.mailSubject || '').toString().trim()
+    });
   });
 
   if (parsed.length > 0) {
@@ -1296,7 +1302,13 @@ window.handleGoogleSheetSync = function(response) {
       };
 
       const month = getVal(4, true);
-      if (!month) return;
+      const remarks = getVal(15);
+      const rmItemCode = getVal(8, true);
+      const itemName = getVal(9);
+      const model = getVal(6);
+
+      // Skip empty placeholder / template rows (must have an actual finding)
+      if (!month || (!remarks && !rmItemCode && !itemName && !model)) return;
 
       parsed.push({
         mailNo: getVal(0, true),
@@ -1305,16 +1317,16 @@ window.handleGoogleSheetSync = function(response) {
         unit: getVal(3),
         month: month,
         mailConcern: getVal(5),
-        model: getVal(6),
+        model: model,
         version: getVal(7),
-        rmItemCode: getVal(8, true),
-        itemName: getVal(9),
+        rmItemCode: rmItemCode,
+        itemName: itemName,
         bomQty: getVal(10, true),
         physicalQty: getVal(11, true),
         productionQty: getVal(12, true),
         valueProduct: getVal(13, true),
         totalCostSave: getVal(14, true),
-        remarks: getVal(15),
+        remarks: remarks,
         mailSubject: getVal(16)
       });
     });
