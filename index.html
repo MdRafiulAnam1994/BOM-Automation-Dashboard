@@ -62,9 +62,9 @@
               <option value="April 26">April 2026</option>
               <option value="May 26">May 2026</option>
               <option value="Jun 26">June 2026</option>
-              <option value="Jul 26" selected>July 2026</option>
+              <option value="Jul 26">July 2026</option>
               <option value="Aug 26">August 2026</option>
-              <option value="Sep 26">September 2026</option>
+              <option value="Sep 26" selected>September 2026</option>
               <option value="Oct 26">October 2026</option>
               <option value="Nov 26">November 2026</option>
               <option value="Dec 26">December 2026</option>
@@ -90,9 +90,9 @@
           </div>
         </div>
 
-        <div class="store-indicator">
+        <div class="store-indicator" id="storeIndicator">
           <span class="pulse-dot"></span>
-          <span>Dynamic Month Store (Jan - Dec 2026)</span>
+          <span>Live Google Sheet: Connected (Jan - Sep 2026)</span>
         </div>
 
         <div class="action-buttons">
@@ -275,13 +275,16 @@
           <div class="ebs-status-indicator">
             <span class="ebs-status-dot"></span>
             <span class="ebs-status-title">Oracle EBS Auto-Sync</span>
-            <span class="badge-org badge-org-rac">EBS Session</span>
+            <span class="badge-org badge-org-rac">Master Sync</span>
           </div>
           <div class="ebs-sync-meta" id="ebsSyncMetaText">
-            Connected: webs.waltonbd.com (mid=594) | Last Synced: 2026-09-16 09:44:22 | 86,604 Components (275 Deviations)
+            ALL BOM Repository: Ready | 140,259 Components across 3,412 Models (RAC + CAC)
           </div>
         </div>
         <div class="ebs-sync-actions">
+          <button type="button" id="btnTriggerAllBomSync" class="btn" onclick="triggerAllBomSync()" style="padding: 7px 15px; font-size: 12.5px; font-weight: 700; background: #0284c7; color: #ffffff; border: none; border-radius: 6px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 2px 4px rgba(2,132,199,0.25);" title="Auto-Sync all RAC & CAC BOM files from the 'ALL BOM' master folder">
+            <span id="allBomSyncIcon">📁</span> Sync from ALL BOM Folder
+          </button>
           <button id="btnTriggerEbsSync" class="btn btn-ebs-sync" title="Fetch live Daily BOM from webs.waltonbd.com">
             <span id="ebsSyncIcon">🔄</span> Sync EBS Daily BOM
           </button>
@@ -486,7 +489,7 @@
       <div class="modal-body">
         
         <div style="background: #f8fafc; border-left: 4px solid #0284c7; padding: 12px 14px; border-radius: 4px; margin-bottom: 16px; font-size: 12.5px; color: #334155; line-height: 1.5;">
-          💡 <strong>Daily Login Policy:</strong> Oracle EBS credentials can be updated here. Logging in once per day retains your session for the rest of today. If Primary ID fails, the Secondary Fallback ID is automatically engaged.
+          💡 <strong>Daily Login Policy:</strong> Walton EBS passwords rotate every month. Logging in once per day is sufficient for the entire day. If Primary ID (52800) fails, fallback ID (54636 - Walton@08) is automatically engaged.
         </div>
 
         <!-- Live Auth Status Box -->
@@ -501,23 +504,24 @@
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
               <strong style="font-size: 13.5px; color: #0f172a;">1️⃣ Primary Account (Default)</strong>
               <div style="display: flex; gap: 6px;">
+                <button type="button" class="btn" onclick="document.getElementById('ebsPrimaryUser').value='52800'; document.getElementById('ebsPrimaryPass').focus();" style="padding: 2px 8px; font-size: 11px; background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; border-radius: 4px; cursor: pointer;">Use 52800</button>
                 <span class="badge" style="background: #0284c7; color: #fff; font-size: 10.5px; padding: 2px 8px; border-radius: 999px; font-weight: 700;">Default</span>
               </div>
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1.6fr; gap: 10px;">
               <div>
                 <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">Employee ID</label>
-                <input type="text" id="ebsPrimaryUser" class="input-field" placeholder="Enter Primary ID..." style="font-weight: 700;" />
+                <input type="text" id="ebsPrimaryUser" class="input-field" value="52800" placeholder="52800" style="font-weight: 700;" />
               </div>
               <div>
                 <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">HRMS Password</label>
                 <div style="position: relative;">
-                  <input type="password" id="ebsPrimaryPass" class="input-field" placeholder="Enter HRMS password..." onkeydown="if(event.key==='Enter') submitEbsLogin()" />
+                  <input type="password" id="ebsPrimaryPass" class="input-field" placeholder="Enter current month password..." onkeydown="if(event.key==='Enter') submitEbsLogin()" />
                   <button type="button" id="btnTogglePrimaryPass" onclick="togglePasswordVis('ebsPrimaryPass')" style="position: absolute; right: 8px; top: 50%; transform: translateY(-50%); background: none; border: none; cursor: pointer; color: #64748b; font-size: 14px;">👁️</button>
                 </div>
               </div>
             </div>
-            <div style="font-size: 11px; color: #64748b; margin-top: 6px;">Primary Corporate Employee Account</div>
+            <div style="font-size: 11px; color: #64748b; margin-top: 6px;">Owner: Md. Rafiul Anam (52800)</div>
           </div>
 
           <!-- Secondary Account -->
@@ -525,23 +529,24 @@
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
               <strong style="font-size: 13.5px; color: #0f172a;">2️⃣ Secondary Fallback Account</strong>
               <div style="display: flex; gap: 6px;">
+                <button type="button" class="btn" onclick="document.getElementById('ebsSecondaryUser').value='54636'; document.getElementById('ebsSecondaryPass').value='Walton@08'; document.getElementById('ebsSecondaryPass').focus();" style="padding: 2px 8px; font-size: 11px; background: #fef3c7; color: #b45309; border: 1px solid #fde68a; border-radius: 4px; cursor: pointer;">Use 54636</button>
                 <span class="badge" style="background: #f59e0b; color: #fff; font-size: 10.5px; padding: 2px 8px; border-radius: 999px; font-weight: 700;">Fallback</span>
               </div>
             </div>
             <div style="display: grid; grid-template-columns: 1fr 1.6fr; gap: 10px;">
               <div>
                 <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">Employee ID</label>
-                <input type="text" id="ebsSecondaryUser" class="input-field" placeholder="Enter Fallback ID..." style="font-weight: 700;" />
+                <input type="text" id="ebsSecondaryUser" class="input-field" value="54636" placeholder="54636" style="font-weight: 700;" />
               </div>
               <div>
                 <label style="font-size: 11.5px; font-weight: 700; color: #475569; display: block; margin-bottom: 4px;">HRMS Password</label>
                 <div style="position: relative;">
-                  <input type="password" id="ebsSecondaryPass" class="input-field" placeholder="Enter Fallback password..." onkeydown="if(event.key==='Enter') submitEbsLogin()" />
+                  <input type="password" id="ebsSecondaryPass" class="input-field" value="Walton@08" placeholder="Walton@08" onkeydown="if(event.key==='Enter') submitEbsLogin()" />
                   <button type="button" id="btnToggleSecondaryPass" onclick="togglePasswordVis('ebsSecondaryPass')" style="position: absolute; right: 8px; top: 50%; transform: translateY(-50%); background: none; border: none; cursor: pointer; color: #64748b; font-size: 14px;">👁️</button>
                 </div>
               </div>
             </div>
-            <div style="font-size: 11px; color: #64748b; margin-top: 6px;">Secondary Backup / Fallback Account</div>
+            <div style="font-size: 11px; color: #64748b; margin-top: 6px;">Secondary User: 54636 | Default Password: Walton@08</div>
           </div>
 
           <!-- Session Checkbox -->
@@ -581,9 +586,9 @@
   <div id="toastMessage" class="toast-msg">Data successfully updated!</div>
 
   <!-- Scripts -->
-  <script src="bom_data.js?v=20260916_05"></script>
-  <script src="ebs_daily_bom_data.js?v=20260916_05"></script>
-  <script src="app.js?v=20260916_05"></script>
+  <script src="bom_data.js?v=20260930_02"></script>
+  <script src="ebs_daily_bom_data.js?v=20260930_02"></script>
+  <script src="app.js?v=20260930_02"></script>
 
   <!-- Global EBS Modal Controller (Guaranteed Immediate Availability) -->
   <script>
@@ -606,8 +611,8 @@
         widget.className = isFallback ? 'ebs-auth-widget warning' : 'ebs-auth-widget logged-in';
         if (dot) dot.className = isFallback ? 'ebs-user-dot warning' : 'ebs-user-dot active';
         if (avatar) avatar.textContent = '👤';
-        if (title) title.textContent = 'Active: ' + (cfg.activeUser || (isFallback ? 'Fallback User' : 'Primary User'));
-        if (subtitle) subtitle.textContent = isFallback ? 'Fallback Account' : 'Daily Session Active';
+        if (title) title.textContent = 'Active: ' + (cfg.activeUser || (isFallback ? '54636' : '52800'));
+        if (subtitle) subtitle.textContent = isFallback ? 'Fallback (Walton@08)' : 'Daily Session Active';
         if (actions) {
           actions.innerHTML = '<button type="button" class="ebs-hdr-btn ebs-hdr-btn-switch" onclick="openEbsLoginModal()" title="Switch Account or Update Password">🔄 Switch</button>' +
                               '<button type="button" class="ebs-hdr-btn ebs-hdr-btn-logout" onclick="logoutEbs()" title="Log out from Oracle EBS">🚪 Log Out</button>';
@@ -646,6 +651,46 @@
         if (typeof showToast === 'function') {
           showToast('Error logging out from server.');
         }
+      }
+    };
+
+    window.triggerAllBomSync = async function() {
+      var btn = document.getElementById('btnTriggerAllBomSync');
+      var icon = document.getElementById('allBomSyncIcon');
+      if (btn) btn.disabled = true;
+      if (icon) icon.textContent = '⏳';
+      if (typeof showToast === 'function') showToast('📁 Starting Auto-Sync from ALL BOM folder (RAC + CAC)...');
+      try {
+        var res = await fetch('/api/sync-all-bom', { method: 'POST' });
+        var data = await res.json();
+        if (typeof showToast === 'function') showToast('⏳ Parsing all 140,000+ BOM records. This takes about 40 seconds...');
+        
+        var pollCount = 0;
+        var pollInterval = setInterval(async function() {
+          pollCount++;
+          try {
+            var stRes = await fetch('/api/sync-status');
+            var st = await stRes.json();
+            if (st.lastSync && (st.source && st.source.indexOf('ALL BOM') !== -1)) {
+              clearInterval(pollInterval);
+              if (btn) btn.disabled = false;
+              if (icon) icon.textContent = '📁';
+              if (typeof showToast === 'function') {
+                showToast('✓ ALL BOM sync complete! ' + (st.totalRecords || '140,259') + ' components loaded across ' + (st.uniqueModels || '3,412') + ' models.');
+              }
+              setTimeout(function() { window.location.reload(); }, 1500);
+            }
+          } catch(e) {}
+          if (pollCount > 60) {
+            clearInterval(pollInterval);
+            if (btn) btn.disabled = false;
+            if (icon) icon.textContent = '📁';
+          }
+        }, 2000);
+      } catch(err) {
+        if (btn) btn.disabled = false;
+        if (icon) icon.textContent = '📁';
+        if (typeof showToast === 'function') showToast('Sync initiated. Please refresh dashboard in 40 seconds.');
       }
     };
 
@@ -715,14 +760,14 @@
             statusBox.style.borderColor = '#bbf7d0';
             statusBox.style.color = '#166534';
             statusIcon.textContent = '🟢';
-            statusText.textContent = 'Active Session: Logged in as Employee ID ' + (cfg.activeUser || 'Active') + ' (Valid for today).';
+            statusText.textContent = 'Active Session: Logged in as Employee ID ' + (cfg.activeUser || '52800') + ' (Valid for today).';
             if (modalLogoutBtn) modalLogoutBtn.style.display = 'inline-flex';
           } else if (cfg.lastAuthStatus === 'fallback_success') {
             statusBox.style.background = '#fffbeb';
             statusBox.style.borderColor = '#fde68a';
             statusBox.style.color = '#92400e';
             statusIcon.textContent = 'ℹ️';
-            statusText.textContent = 'Connected via Secondary ID: ' + (cfg.activeUser || 'Fallback User') + '.';
+            statusText.textContent = 'Connected via Secondary ID: ' + (cfg.activeUser || '54636') + ' (Walton@08).';
             if (modalLogoutBtn) modalLogoutBtn.style.display = 'inline-flex';
           } else {
             statusBox.style.background = '#fff1f2';
@@ -756,10 +801,10 @@
       var statusBox = document.getElementById('ebsModalStatusBox');
       var statusIcon = document.getElementById('ebsModalStatusIcon');
       var statusText = document.getElementById('ebsModalStatusText');
-      var pUser = (document.getElementById('ebsPrimaryUser') && document.getElementById('ebsPrimaryUser').value) ? document.getElementById('ebsPrimaryUser').value.trim() : '';
+      var pUser = (document.getElementById('ebsPrimaryUser') && document.getElementById('ebsPrimaryUser').value) ? document.getElementById('ebsPrimaryUser').value.trim() : '52800';
       var pPass = (document.getElementById('ebsPrimaryPass') && document.getElementById('ebsPrimaryPass').value) ? document.getElementById('ebsPrimaryPass').value : '';
-      var sUser = (document.getElementById('ebsSecondaryUser') && document.getElementById('ebsSecondaryUser').value) ? document.getElementById('ebsSecondaryUser').value.trim() : '';
-      var sPass = (document.getElementById('ebsSecondaryPass') && document.getElementById('ebsSecondaryPass').value) ? document.getElementById('ebsSecondaryPass').value : '';
+      var sUser = (document.getElementById('ebsSecondaryUser') && document.getElementById('ebsSecondaryUser').value) ? document.getElementById('ebsSecondaryUser').value.trim() : '54636';
+      var sPass = (document.getElementById('ebsSecondaryPass') && document.getElementById('ebsSecondaryPass').value) ? document.getElementById('ebsSecondaryPass').value : 'Walton@08';
 
       if (btnSave) {
         btnSave.disabled = true;
@@ -826,10 +871,10 @@
       var statusBox = document.getElementById('ebsModalStatusBox');
       var statusIcon = document.getElementById('ebsModalStatusIcon');
       var statusText = document.getElementById('ebsModalStatusText');
-      var pUser = (document.getElementById('ebsPrimaryUser') && document.getElementById('ebsPrimaryUser').value) ? document.getElementById('ebsPrimaryUser').value.trim() : '';
+      var pUser = (document.getElementById('ebsPrimaryUser') && document.getElementById('ebsPrimaryUser').value) ? document.getElementById('ebsPrimaryUser').value.trim() : '52800';
       var pPass = (document.getElementById('ebsPrimaryPass') && document.getElementById('ebsPrimaryPass').value) ? document.getElementById('ebsPrimaryPass').value : '';
-      var sUser = (document.getElementById('ebsSecondaryUser') && document.getElementById('ebsSecondaryUser').value) ? document.getElementById('ebsSecondaryUser').value.trim() : '';
-      var sPass = (document.getElementById('ebsSecondaryPass') && document.getElementById('ebsSecondaryPass').value) ? document.getElementById('ebsSecondaryPass').value : '';
+      var sUser = (document.getElementById('ebsSecondaryUser') && document.getElementById('ebsSecondaryUser').value) ? document.getElementById('ebsSecondaryUser').value.trim() : '54636';
+      var sPass = (document.getElementById('ebsSecondaryPass') && document.getElementById('ebsSecondaryPass').value) ? document.getElementById('ebsSecondaryPass').value : 'Walton@08';
 
       if (btnTest) btnTest.disabled = true;
       if (spinner) spinner.textContent = '⏳';

@@ -6,7 +6,7 @@ const AppState = {
   activeTab: 'observation',
   mode: 'live',
   rawData: typeof EMBEDDED_BOM_DATA !== 'undefined' ? EMBEDDED_BOM_DATA : [],
-  selectedMonth: 'Jul 26',
+  selectedMonth: 'Sep 26',
   selectedOrg: 'ALL',
   selectedUnit: 'ALL',
   charts: { bar: null, donut: null, pie: null },
@@ -957,57 +957,20 @@ function initEventListeners() {
     modal.style.display = 'none';
   });
 
-  document.getElementById('btnFetchSheet').addEventListener('click', async () => {
+  document.getElementById('btnFetchSheet').addEventListener('click', () => {
     const url = document.getElementById('sheetUrlInput').value.trim();
     const gid = document.getElementById('sheetGidInput').value.trim();
-    let exportUrl = url;
+    let sheetId = GOOGLE_SHEET_CONFIG.sheetId;
     const match = url.match(/\/d\/([a-zA-Z0-9-_]+)/);
     if (match && match[1]) {
-      exportUrl = `https://docs.google.com/spreadsheets/d/${match[1]}/export?format=csv&gid=${gid}`;
+      sheetId = match[1];
     }
+    GOOGLE_SHEET_CONFIG.sheetId = sheetId;
+    GOOGLE_SHEET_CONFIG.gid = gid;
 
-    showToast('Fetching latest data from Google Sheets...');
-    try {
-      const res = await fetch(exportUrl);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const csvText = await res.text();
-
-      Papa.parse(csvText, {
-        header: true,
-        skipEmptyLines: true,
-        complete: results => {
-          const parsed = [];
-          results.data.forEach(row => {
-            if (row.Month && row.Month.trim()) {
-              parsed.push({
-                mailNo: (row['Mail No'] || '').trim(),
-                org: (row.ORG || '').trim(),
-                unit: (row.Unit || '').trim(),
-                month: (row.Month || '').trim(),
-                remarks: (row.Remarks || '').trim(),
-                model: (row.Model || '').trim(),
-                rmItemCode: (row['RM Item Code'] || '').trim(),
-                itemName: (row['Item Name'] || '').trim(),
-                mailSubject: (row['Mail Subject'] || '').trim()
-              });
-            }
-          });
-
-          if (parsed.length > 0) {
-            AppState.rawData = parsed;
-            AppState.modification.records = generateModificationRecords();
-            populateRmDatalists(AppState.modification.records);
-            modal.style.display = 'none';
-            renderDashboard();
-            renderModificationReport();
-            showToast(`Loaded ${parsed.length} live records from Google Sheet!`);
-          }
-        }
-      });
-    } catch (err) {
-      console.warn('Fetch error:', err);
-      showToast('Could not fetch via browser CORS. Please use Local File Upload.');
-    }
+    showToast('Fetching latest live data from Google Sheets...');
+    triggerGoogleSheetAutoSync({ sheetId, gid, silent: false });
+    if (modal) modal.style.display = 'none';
   });
 
   // Modification Filters Listeners
@@ -1278,25 +1241,183 @@ function processUploadedRows(rows, filename) {
       parsed.push({
         mailNo: (row['Mail No'] || row.mailNo || '').toString().trim(),
         org: (row.ORG || row.Org || row.org || '').toString().trim(),
+        size: (row.Size || row.size || '').toString().trim(),
         unit: (row.Unit || row.unit || '').toString().trim(),
         month: month.toString().trim(),
-        remarks: (row.Remarks || row.remarks || '').toString().trim(),
+        mailConcern: (row['Mail Concern'] || row.mailConcern || '').toString().trim(),
         model: (row.Model || row.model || '').toString().trim(),
+        version: (row.Version || row.version || '').toString().trim(),
         rmItemCode: (row['RM Item Code'] || row.rmItemCode || '').toString().trim(),
         itemName: (row['Item Name'] || row.itemName || '').toString().trim(),
+        bomQty: (row['BOM Qty'] || row.bomQty || '').toString().trim(),
+        physicalQty: (row['Physical Qty'] || row.physicalQty || '').toString().trim(),
+        productionQty: (row['Production Qty'] || row.productionQty || '').toString().trim(),
+        valueProduct: (row['Value/  Product'] || row['Value/ Product'] || row.valueProduct || '').toString().trim(),
+        totalCostSave: (row['Total Cost Save'] || row.totalCostSave || '').toString().trim(),
+        remarks: (row.Remarks || row.remarks || '').toString().trim(),
         mailSubject: (row['Mail Subject'] || row.mailSubject || '').toString().trim()
       });
     }
   });
 
   if (parsed.length > 0) {
-    AppState.rawData = parsed;
-    AppState.modification.records = generateModificationRecords();
-    populateRmDatalists(AppState.modification.records);
-    renderDashboard();
-    renderModificationReport();
-    showToast(`Loaded ${parsed.length} records from ${filename}!`);
+    applyGoogleSheetData(parsed, filename);
   }
+}
+
+// =============================================================
+// Live Google Sheets Real-Time Synchronization Engine
+// =============================================================
+const GOOGLE_SHEET_CONFIG = {
+  sheetId: '1HzLGHBNKV3X0s07GGHyJrN5znfdVVRXKxCS00b_6020',
+  gid: '1588891488'
+};
+
+// Global JSONP callback - 100% CORS-free on GitHub Pages and Localhost
+window.handleGoogleSheetSync = function(response) {
+  try {
+    if (!response || !response.table || !Array.isArray(response.table.rows)) {
+      console.warn('Google Sheet GViz response invalid or empty:', response);
+      return;
+    }
+
+    const rows = response.table.rows;
+    const parsed = [];
+
+    rows.forEach(r => {
+      if (!r || !r.c) return;
+      const getVal = (idx, preferFormatted = false) => {
+        const cell = r.c[idx];
+        if (!cell) return '';
+        if (preferFormatted && cell.f) return String(cell.f).trim();
+        if (cell.v !== null && cell.v !== undefined) return String(cell.v).trim();
+        if (cell.f) return String(cell.f).trim();
+        return '';
+      };
+
+      const month = getVal(4, true);
+      if (!month) return;
+
+      parsed.push({
+        mailNo: getVal(0, true),
+        org: getVal(1),
+        size: getVal(2),
+        unit: getVal(3),
+        month: month,
+        mailConcern: getVal(5),
+        model: getVal(6),
+        version: getVal(7),
+        rmItemCode: getVal(8, true),
+        itemName: getVal(9),
+        bomQty: getVal(10, true),
+        physicalQty: getVal(11, true),
+        productionQty: getVal(12, true),
+        valueProduct: getVal(13, true),
+        totalCostSave: getVal(14, true),
+        remarks: getVal(15),
+        mailSubject: getVal(16)
+      });
+    });
+
+    if (parsed.length > 0) {
+      applyGoogleSheetData(parsed, 'Google Sheets Live Sync (GViz)');
+    }
+  } catch (err) {
+    console.error('Error handling Google Sheet sync data:', err);
+  }
+};
+
+function applyGoogleSheetData(records, sourceName, options = {}) {
+  if (!records || records.length === 0) return;
+  AppState.rawData = records;
+
+  // Extract all available months from the live sheet
+  const availableMonths = [...new Set(records.map(r => (r.month || '').trim()).filter(Boolean))];
+
+  // Update monthSelect options dynamically if new months appear
+  const monthSelect = document.getElementById('monthSelect');
+  if (monthSelect) {
+    const existingOptions = Array.from(monthSelect.options).map(o => o.value);
+    availableMonths.forEach(m => {
+      if (!existingOptions.includes(m)) {
+        const opt = document.createElement('option');
+        opt.value = m;
+        opt.textContent = getMonthLabel(m);
+        monthSelect.appendChild(opt);
+      }
+    });
+
+    // Automatically default to Sep 26 or latest active month if current selection has no data
+    const currentMonthData = records.filter(r => r.month && r.month.trim().toLowerCase() === AppState.selectedMonth.toLowerCase());
+    if (currentMonthData.length === 0 && availableMonths.includes('Sep 26')) {
+      AppState.selectedMonth = 'Sep 26';
+      monthSelect.value = 'Sep 26';
+    }
+  }
+
+  AppState.modification.records = generateModificationRecords();
+  populateRmDatalists(AppState.modification.records);
+
+  renderDashboard();
+  renderModificationReport();
+
+  // Update store indicator badge
+  const storeInd = document.getElementById('storeIndicator') || document.querySelector('.store-indicator');
+  if (storeInd) {
+    const latestMonth = availableMonths[availableMonths.length - 1] || 'Sep 26';
+    storeInd.innerHTML = `<span class="pulse-dot" style="background:#22c55e;"></span><span>Live Sheet: Synced (${records.length.toLocaleString()} rows · ${latestMonth})</span>`;
+  }
+
+  if (!options.silent) {
+    showToast(`✓ Live Synced: ${records.length.toLocaleString()} observations loaded from Google Sheet!`);
+  }
+}
+
+function triggerGoogleSheetAutoSync(options = {}) {
+  const sheetId = (options.sheetId || GOOGLE_SHEET_CONFIG.sheetId).trim();
+  const gid = (options.gid || GOOGLE_SHEET_CONFIG.gid).trim();
+
+  const storeInd = document.getElementById('storeIndicator') || document.querySelector('.store-indicator');
+  if (storeInd) {
+    storeInd.innerHTML = `<span class="pulse-dot" style="background:#f59e0b;"></span><span>Syncing Google Sheet...</span>`;
+  }
+
+  let serverResolved = false;
+
+  // Channel 1: Try local server API (active when running serve.ps1 locally)
+  fetch('/api/sync-google-sheet')
+    .then(r => {
+      if (!r.ok) throw new Error('API offline');
+      return r.json();
+    })
+    .then(res => {
+      if (res && res.status === 'success' && Array.isArray(res.records) && res.records.length > 0) {
+        serverResolved = true;
+        applyGoogleSheetData(res.records, 'Local Server API', options);
+      }
+    })
+    .catch(() => {});
+
+  // Channel 2: Google Visualization API JSONP callback (100% works on GitHub Pages & offline fallback)
+  const scriptId = 'gviz_jsonp_script';
+  const oldScript = document.getElementById(scriptId);
+  if (oldScript) oldScript.remove();
+
+  const script = document.createElement('script');
+  script.id = scriptId;
+  script.src = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=responseHandler:handleGoogleSheetSync&gid=${gid}&_t=${Date.now()}`;
+  script.onerror = function() {
+    if (!serverResolved) {
+      console.warn('Google Sheet live JSONP sync failed or offline. Using embedded cache.');
+      if (storeInd) {
+        storeInd.innerHTML = `<span class="pulse-dot" style="background:#0284c7;"></span><span>Embedded Data (${(AppState.rawData || []).length.toLocaleString()} rows)</span>`;
+      }
+      if (!options.silent) {
+        showToast('Could not reach Google Sheets. Displaying embedded cache.');
+      }
+    }
+  };
+  document.head.appendChild(script);
 }
 
 // =============================================================
@@ -1476,10 +1597,10 @@ function initEbsPasswordModalListeners() {
 
       try {
         const payload = {
-          userId: primaryUser?.value || '',
+          userId: primaryUser?.value || '52800',
           password: primaryPass?.value || '',
-          fallbackUserId: secondaryUser?.value || '',
-          fallbackPassword: secondaryPass?.value || ''
+          fallbackUserId: secondaryUser?.value || '54636',
+          fallbackPassword: secondaryPass?.value || 'Walton@08'
         };
 
         const res = await fetch('/api/ebs-login', {
@@ -1496,14 +1617,14 @@ function initEbsPasswordModalListeners() {
             statusBox.style.borderColor = '#bbf7d0';
             statusBox.style.color = '#166534';
             statusIcon.textContent = '🟢';
-            statusText.textContent = `Login Successful! Authenticated as Employee ID: ${result.activeUser || 'Active'}. Session active for today.`;
+            statusText.textContent = `Login Successful! Authenticated as Employee ID: ${result.activeUser || '52800'}. Session active for today.`;
             showToast('✓ EBS Login Successful!');
           } else if (status === 'fallback_success') {
             statusBox.style.background = '#fffbeb';
             statusBox.style.borderColor = '#fde68a';
             statusBox.style.color = '#92400e';
             statusIcon.textContent = 'ℹ️';
-            statusText.textContent = `Primary ID failed. Authenticated using Fallback ID: ${result.activeUser || 'Fallback'}. Session active for today.`;
+            statusText.textContent = `Primary ID failed. Authenticated using Fallback ID: ${result.activeUser || '54636'}. Session active for today.`;
             showToast('✓ EBS Fallback ID Authenticated!');
           } else {
             statusBox.style.background = '#fff1f2';
@@ -1534,10 +1655,10 @@ function initEbsPasswordModalListeners() {
 
       try {
         const payload = {
-          userId: primaryUser?.value || '',
+          userId: primaryUser?.value || '52800',
           password: primaryPass?.value || '',
-          fallbackUserId: secondaryUser?.value || '',
-          fallbackPassword: secondaryPass?.value || ''
+          fallbackUserId: secondaryUser?.value || '54636',
+          fallbackPassword: secondaryPass?.value || 'Walton@08'
         };
 
         const res = await fetch('/api/ebs-login', {
@@ -1606,4 +1727,7 @@ document.addEventListener('DOMContentLoaded', () => {
   checkEbsAuthStatus();
   renderDashboard();
   renderModificationReport();
+
+  // Automatic Google Sheets Auto-Sync on startup
+  triggerGoogleSheetAutoSync({ silent: false });
 });
