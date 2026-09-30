@@ -1341,10 +1341,26 @@ window.handleGoogleSheetSync = function(response) {
 
 function applyGoogleSheetData(records, sourceName, options = {}) {
   if (!records || records.length === 0) return;
-  AppState.rawData = records;
 
-  // Extract all available months from the live sheet
-  const availableMonths = [...new Set(records.map(r => (r.month || '').trim()).filter(Boolean))];
+  // Identify months present in the newly synced batch
+  const newMonths = new Set(records.map(r => (r.month || '').trim().toLowerCase()).filter(Boolean));
+
+  // Base dataset: start from original embedded data or current state
+  const baseRecords = (typeof EMBEDDED_BOM_DATA !== 'undefined' && Array.isArray(EMBEDDED_BOM_DATA) && EMBEDDED_BOM_DATA.length > 0)
+    ? EMBEDDED_BOM_DATA
+    : (AppState.rawData || []);
+
+  // Retain all records for months that are NOT being updated by this sync batch (e.g. Jan 26 - Aug 26)
+  const retainedRecords = baseRecords.filter(r => {
+    const m = (r.month || '').trim().toLowerCase();
+    return !newMonths.has(m);
+  });
+
+  const mergedRecords = [...retainedRecords, ...records];
+  AppState.rawData = mergedRecords;
+
+  // Extract all available months from the merged dataset
+  const availableMonths = [...new Set(mergedRecords.map(r => (r.month || '').trim()).filter(Boolean))];
 
   // Update monthSelect options dynamically if new months appear
   const monthSelect = document.getElementById('monthSelect');

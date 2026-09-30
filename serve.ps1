@@ -173,11 +173,34 @@ while ($listener.IsListening) {
                         $recordsList.Add($rec)
                     }
                     if ($recordsList.Count -gt 0) {
-                        $jsonStr = $recordsList | ConvertTo-Json -Depth 5 -Compress
-                        $jsContent = "const EMBEDDED_BOM_DATA = " + $jsonStr + ";"
+                        # Retain existing historical records for months not in the downloaded sheet (e.g. Jan 26 - Aug 26)
+                        $existingRecords = @()
                         $bomDataPath = Join-Path $root "bom_data.js"
+                        if (Test-Path $bomDataPath) {
+                            try {
+                                $raw = [System.IO.File]::ReadAllText($bomDataPath)
+                                $sIdx = $raw.IndexOf('[')
+                                $eIdx = $raw.LastIndexOf(']')
+                                if ($sIdx -ge 0 -and $eIdx -gt $sIdx) {
+                                    $existingRecords = ConvertFrom-Json ($raw.Substring($sIdx, $eIdx - $sIdx + 1))
+                                }
+                            } catch {}
+                        }
+
+                        $newMonths = $recordsList | ForEach-Object { ($_.month + "").Trim().ToLower() } | Select-Object -Unique
+                        $retained = $existingRecords | Where-Object {
+                            $m = ($_.month + "").Trim().ToLower()
+                            -not ($newMonths -contains $m)
+                        }
+
+                        $mergedList = [System.Collections.Generic.List[PSCustomObject]]::new()
+                        foreach ($r in $retained) { $mergedList.Add($r) }
+                        foreach ($r in $recordsList) { $mergedList.Add($r) }
+
+                        $jsonStr = $mergedList | ConvertTo-Json -Depth 5 -Compress
+                        $jsContent = "const EMBEDDED_BOM_DATA = " + $jsonStr + ";"
                         [System.IO.File]::WriteAllText($bomDataPath, $jsContent, [System.Text.Encoding]::UTF8)
-                        $records = $recordsList
+                        $records = $mergedList
                         $success = $true
                     }
                 }
